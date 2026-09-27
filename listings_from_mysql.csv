@@ -1,0 +1,1001 @@
+listing_id,host_id,host_name,neighbourhood,city,room_type,property_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365,latitude,longitude,host_since,last_review,rating,beds,bedrooms,bathrooms,guests,instant_bookable,cancellation_policy,host_response_rate,listing_status,device,payment_method,price_outlier
+107345,10276,unknown,Bronx,"New York City","Hotel Room",apartment,213.62,27,51,1.38,172,40.783428,-73.954349,2022-06-09,2015-07-05,3.82,NULL,-1,"1 bath",8,T,strict_14_with_grace_period,NULL,NULL,NULL,PayPal,0
+109454,5049,Emma,Manhattan,"New York City","Private Room","Guest suite",289,15,38,0.22,112,40.599777,-74.045431,2017-07-20,NULL,3.66,-1,6,1.5,10,False,MODERATE,80,NULL,tablet,Card,0
+119857,11567,Sophia,Manhattan,"New York City","Private Room",NULL,130.82,24,39,3.76,260,40.66094,-73.910553,2018-06-10,2023-06-02,4.76,NULL,4,"1 bath",NULL,t,strict,NULL,active,Mobile,Card,0
+108591,5546,unknown,Queens,"New York City","Entire Home/Apt",Apartment,36.43,13,49,10.15,217,40.729728,-74.042471,2020-02-23,2020-11-17,3.94,3,4,"2.5 baths",12,True,moderate,100%,Active,Mobile,NULL,0
+117164,8693,Michael,"Staten Island","New York City","Entire Home/Apt",Loft,271.74,21,41,NULL,229,40.720245,-73.884852,2024-07-11,2023-12-02,3.71,10,3,"1.5 bath",4,T,MODERATE,"85 %",AVAILABLE,mobile,cash,0
+104059,10150,Olivia,Brooklyn,"New York City","Private Room",apartment,157.97,29,34,1.4,270,40.76679,-73.871687,2021-10-05,2022-11-09,4.51,NULL,NULL,"1 bath",5,F,strict,80,available,Mobile,card,0
+101273,7193,Sophia,Queens,"New York City","Private Room",apartment,95.97,1,53,NULL,155,40.715808,-73.992656,2024-09-12,2020-11-04,4.3,1,2,NULL,2,f,MODERATE,80,NULL,desktop,card,0
+108687,9921,Sophia,Queens,"New York City","Entire Home/Apt",Loft,164.41,27,42,6.3,263,40.67783,-74.056154,2017-07-20,2022-05-28,3.68,8,1,NULL,NULL,F,strict_14_with_grace_period,80,booked,NULL,card,0
+109939,11787,David,Brooklyn,"New York City","Shared Room",Townhouse,126.54,2,46,4.27,261,40.693181,-73.971157,2021-12-31,2018-09-08,4.47,4,0,NULL,8,T,flexible,NULL,AVAILABLE,NULL,NULL,0
+110810,11417,"John Smith",Manhattan,"New York City","Private Room","Guest suite",145.01,2,55,2.26,8,40.610774,-73.95958,2021-07-14,2022-10-08,3.65,2,NULL,1.5,3,F,Flexible,95%,Active,Desktop,cash,0
+114544,8496,unknown,Brooklyn,"New York City","Private Room",Townhouse,121.44,365,40,1.52,144,40.688862,-73.93872,2015-10-07,NULL,4.18,2,NULL,"2 baths",3,NULL,Flexible,"85 %",booked,NULL,PayPal,0
+106734,5125,Emma,Brooklyn,"New York City","Hotel Room","Guest suite",57.54,19,48,0.81,208,40.68324,-73.86033,2018-10-30,NULL,4.07,NULL,3,"2 baths",2,f,MODERATE,NULL,active,Mobile,cash,0
+101711,9063,Michael,Queens,"New York City","Private Room","Guest suite",164.42,12,38,1.95,151,40.71593,-73.948121,2017-12-22,2016-09-17,4.11,7,6,1.5,5,False,strict_14_with_grace_period,NULL,Active,Desktop,PayPal,0
+112383,10981,David,Brooklyn,"New York City","Entire Home/Apt","Guest suite",97.68,365,46,NULL,188,40.785013,-73.956474,2025-01-07,2021-09-25,4.28,7,-1,"2 baths",NULL,f,flexible,NULL,AVAILABLE,desktop,paypal,0
+116091,8505,Sophia,"Staten Island","New York City","Entire Home/Apt","House ",370.11,2,38,2.08,84,40.676402,-73.957787,2015-08-10,2016-01-10,4.26,7,1,2,5,False,strict_14_with_grace_period,95%,booked,NULL,paypal,0
+100739,6218,Olivia,Manhattan,"New York City","Hotel Room",Apartment,130.79,27,46,1.22,294,40.67984,-73.937974,2024-02-19,2021-02-18,4.68,3,2,1.5,10,T,strict,100%,booked,tablet,paypal,0
+118991,10638,"John Smith",Brooklyn,"New York City","Shared Room",Loft,210.15,6,45,1.5,129,40.748692,-73.919323,2021-01-15,2020-01-26,4.25,6,-1,1.5,NULL,NULL,moderate,"85 %",booked,desktop,cash,0
+106498,7765,Sophia,Bronx,"New York City","Entire Home/Apt","Guest suite",123.1,3,53,4.25,270,40.719508,-73.828215,2017-03-28,2018-11-01,NULL,7,NULL,"2 baths",10,t,MODERATE,"85 %",active,Desktop,Card,0
+111922,9946,Michael,Brooklyn,"New York City","Private Room",NULL,214.88,18,39,2.49,113,40.656954,-74.047806,2017-02-23,2022-03-04,4.61,2,1,1.5,1,f,strict,80,NULL,Mobile,paypal,0
+115076,9711,David,Brooklyn,"New York City","Entire Home/Apt",Loft,92.87,16,37,1.18,287,40.706321,-73.941374,2015-02-11,2020-04-26,4.42,1,3,"1 bath",NULL,t,strict_14_with_grace_period,80,active,tablet,paypal,0
+108014,6725,Sophia,Queens,"New York City","Entire Home/Apt",Apartment,140.69,9,69,3.08,188,40.773096,-73.931788,2016-03-09,2018-12-07,3.94,-1,5,2,8,True,MODERATE,"85 %",active,desktop,paypal,0
+117090,8439,Emma,Bronx,"New York City","Entire Home/Apt",apartment,59.87,19,56,2.72,69,40.690927,-74.080461,2020-11-14,2016-10-16,NULL,0,5,2,5,False,MODERATE,80,AVAILABLE,Mobile,Card,0
+118079,8862,Emma,Brooklyn,"New York City","Private Room",Condo,124.28,2,46,0.8,16,40.757477,-73.944618,2021-01-26,NULL,4.44,8,1,1,10,F,Flexible,NULL,NULL,tablet,cash,0
+101148,9325,unknown,Bronx,"New York City","Private Room","House ",42.59,1,38,1.25,135,40.687373,-73.948907,2023-04-24,2015-12-01,4.15,5,5,"2.5 baths",1,False,strict,80,active,NULL,Card,0
+108319,7566,David,Bronx,"New York City","Private Room",Apartment,143.06,14,43,1.37,255,40.671996,-73.849732,2017-06-06,2021-09-12,4.08,2,1,1.5,2,False,MODERATE,80,available,tablet,NULL,0
+119325,7382,unknown,Queens,"New York City","Shared Room",House,102.72,3,51,1.01,195,40.71685,-73.877921,2020-11-11,2025-02-23,4.6,0,NULL,"1.5 bath",8,F,MODERATE,"85 %",booked,NULL,paypal,0
+113416,9256,Sophia,Bronx,"New York City","Private Room",Condo,208.37,20,39,3.12,211,40.723144,-74.014996,2016-06-17,2019-11-02,4.86,7,NULL,"2 baths",12,t,strict_14_with_grace_period,"85 %",booked,desktop,NULL,0
+106467,8784,David,Brooklyn,"New York City","Hotel Room","Guest suite",224.44,8,49,1.93,305,40.779665,-73.968192,2019-11-14,NULL,5,3,4,NULL,5,t,Flexible,80,booked,NULL,card,0
+113230,7498,Sophia,Bronx,"New York City","Private Room",NULL,144.02,15,58,1.73,305,40.842716,-73.901872,2024-02-25,2015-11-17,3.94,6,1,2,10,t,moderate,90%,AVAILABLE,Desktop,card,0
+103589,11531,Sophia,Bronx,"New York City","Hotel Room",House,160.16,25,40,4.73,316,40.778895,-73.940959,2015-05-28,2022-10-06,4.03,5,4,NULL,3,NULL,strict,"85 %",booked,tablet,card,0
+113505,8574,Emma,Bronx,"New York City","Entire Home/Apt",Apartment,67.92,90,49,NULL,192,40.687749,-73.908825,2018-10-07,NULL,4.62,6,5,"2.5 baths",10,f,strict,90%,AVAILABLE,mobile,cash,0
+118204,10167,Michael,Manhattan,"New York City","Private Room","Guest suite",148.48,14,49,5.74,320,40.717983,-73.982411,2020-03-02,2023-04-12,3.96,7,4,"2 baths",1,f,strict,80,booked,Desktop,paypal,0
+106481,9966,Sophia,Bronx,"New York City","Entire Home/Apt",apartment,60.24,6,37,0.28,196,40.616523,-73.942943,2018-12-28,2021-02-11,3.85,0,6,NULL,1,True,strict_14_with_grace_period,100%,NULL,tablet,cash,0
+104548,8221,Olivia,Manhattan,"New York City","Hotel Room",House,60.34,25,46,4.7,330,40.725176,-74.024363,2022-10-09,2025-02-15,5,5,2,"1 bath",10,T,strict,"85 %",NULL,tablet,cash,0
+102648,6301,unknown,Manhattan,"New York City","Entire Home/Apt",Townhouse,206.16,19,30,2.99,41,40.770733,-73.98436,2020-02-27,2018-05-11,4.2,8,3,2,NULL,f,flexible,90%,AVAILABLE,desktop,cash,0
+107179,10206,Emma,Queens,"New York City","Shared Room",House,150,22,46,5.34,3,40.684288,-73.917846,2018-06-07,2015-08-18,4.03,0,0,1.5,8,NULL,strict,80,NULL,mobile,Card,0
+104270,6971,David,Queens,"New York City","Private Room",apartment,231,12,41,0.53,233,40.683489,-73.892189,2025-03-09,2015-04-07,3.98,1,3,"1.5 bath",NULL,T,moderate,95%,NULL,tablet,PayPal,0
+115802,6833,Michael,"Staten Island","New York City","Private Room",Apartment,240,23,53,0.73,15,40.684428,-73.983324,2021-08-30,2018-04-06,4.3,NULL,NULL,1,NULL,T,strict_14_with_grace_period,NULL,AVAILABLE,Desktop,card,0
+113880,9551,"John Smith",Brooklyn,"New York City","Private Room",Townhouse,259.15,14,52,6.32,62,40.807579,-73.957836,2017-08-17,2022-05-02,4.24,5,-1,"2 baths",NULL,F,strict,95%,booked,desktop,paypal,0
+106689,9553,Sophia,Manhattan,"New York City","Entire Home/Apt",NULL,70,6,47,0.63,204,40.708882,-73.93983,2023-11-12,NULL,4.64,3,1,"1.5 bath",NULL,T,flexible,"85 %",NULL,mobile,NULL,0
+108036,7062,unknown,Bronx,"New York City","Entire Home/Apt",apartment,49.79,6,32,NULL,228,40.74468,-73.972529,2022-06-07,2024-02-01,4.43,4,2,NULL,5,F,MODERATE,NULL,AVAILABLE,tablet,PayPal,0
+104022,8586,Emma,Manhattan,"New York City","Private Room",House,60.54,16,51,0.95,150,40.778188,-73.895197,2024-06-01,2022-09-21,3.49,3,6,1.5,12,f,moderate,80,available,NULL,PayPal,0
+119969,10538,Sophia,Bronx,"New York City","Private Room",Apartment,157.15,365,47,NULL,274,40.661495,-73.926617,2023-09-12,2021-03-31,4.25,8,-1,"3 baths",NULL,True,moderate,90%,booked,Mobile,card,0
+108426,5154,Sophia,Manhattan,"New York City","Entire Home/Apt",apartment,111.42,27,45,1.93,243,40.825809,-73.935364,2024-01-29,2020-11-17,4.96,NULL,1,"2 baths",8,f,strict,90%,active,mobile,Card,0
+115966,6441,unknown,Manhattan,"New York City","Entire Home/Apt",Apartment,132.55,180,43,4.4,240,40.791848,-74.022279,2022-11-19,2016-01-29,4.04,7,2,1.5,2,T,strict_14_with_grace_period,100%,NULL,desktop,paypal,0
+116441,11823,Emma,Manhattan,"New York City","Private Room",Condo,148.42,180,35,2.2,118,40.80161,-73.823828,2016-02-23,2022-02-14,4.63,NULL,6,"1 bath",4,F,MODERATE,80,NULL,desktop,paypal,0
+102949,5820,Emma,Manhattan,"New York City","Entire Home/Apt",Loft,90.52,3,45,1.37,344,40.68563,-73.995648,2019-01-01,2016-05-18,4.19,6,3,1.5,NULL,t,strict,100%,booked,tablet,NULL,0
+115376,9107,"John Smith",Manhattan,"New York City","Entire Home/Apt",apartment,107.35,9,41,3.7,318,40.683856,-73.950742,2021-07-08,2016-10-25,4.71,0,-1,"3 baths",2,False,MODERATE,NULL,booked,Mobile,paypal,0
+106308,9438,"John Smith",Bronx,"New York City","Entire Home/Apt",Loft,169.89,20,55,1.07,361,40.763759,-73.941199,2015-03-31,2019-05-15,4.61,-1,4,"2.5 baths",4,T,MODERATE,NULL,active,NULL,card,0
+105654,9136,Olivia,Brooklyn,"New York City","Private Room",Condo,78.29,19,43,0.77,280,40.77026,-74.00543,2022-10-29,2019-06-04,4.29,3,4,1,12,True,strict,95%,AVAILABLE,desktop,NULL,0
+116080,5176,Michael,Manhattan,"New York City","Entire Home/Apt",Condo,96.78,7,48,0.98,39,40.649114,-73.876304,2015-10-06,2020-03-01,4,3,5,1,10,True,strict_14_with_grace_period,80,AVAILABLE,Desktop,cash,0
+107795,11391,Michael,Queens,"New York City","Private Room",House,90.88,1,47,6.2,215,40.663796,-74.051811,2018-10-01,2024-08-01,3.93,-1,-1,"1 bath",6,T,strict_14_with_grace_period,"85 %",NULL,NULL,cash,0
+109694,10245,unknown,"Staten Island","New York City","Private Room",Townhouse,278.49,3650,40,0.49,50,40.751989,-73.965062,2016-09-29,2015-10-25,4.33,3,4,"2 baths",6,True,moderate,NULL,booked,desktop,PayPal,0
+105834,7965,unknown,Manhattan,"New York City","Entire Home/Apt",Loft,101.71,23,45,1.6,55,40.721298,-73.977574,2020-08-12,2017-06-05,4.67,6,0,1.5,5,NULL,strict,90%,active,desktop,NULL,0
+118356,9289,Sophia,"Staten Island","New York City","Shared Room","House ",193,26,49,1.47,57,40.69645,-74.012245,2022-08-07,2018-03-19,4.28,6,5,"2 baths",1,t,strict_14_with_grace_period,NULL,NULL,NULL,paypal,0
+100219,8749,Sophia,Manhattan,"New York City","Shared Room","Guest suite",379.74,18,32,0.89,18,40.761796,-73.981943,2018-01-16,2019-03-24,4.04,7,5,"1 bath",12,NULL,strict,95%,Active,NULL,paypal,0
+101730,10136,Sophia,Queens,"New York City","Hotel Room",NULL,169.77,11,39,0.72,112,40.670484,-73.995704,2024-08-29,2017-05-18,4.43,8,3,NULL,2,F,MODERATE,100%,AVAILABLE,mobile,NULL,0
+115622,8089,Emma,Manhattan,"New York City","Shared Room",NULL,239.89,3650,51,0.98,129,40.743375,-73.967198,2025-07-28,2021-08-14,4.87,NULL,4,1.5,NULL,T,strict_14_with_grace_period,90%,NULL,NULL,cash,0
+101351,7266,"John Smith",Queens,"New York City","Private Room",Apartment,85.73,6,55,5.92,151,40.699389,-73.998748,2022-08-13,2019-10-24,4.09,7,-1,2,6,F,MODERATE,100%,AVAILABLE,desktop,PayPal,0
+116624,8428,Olivia,Bronx,"New York City","Shared Room",House,547.04,22,37,0.34,193,40.719505,-74.021134,2020-12-24,2023-05-15,4.78,10,4,"1 bath",6,False,strict,100%,active,Mobile,card,0
+110578,10357,Olivia,"Staten Island","New York City","Entire Home/Apt",Condo,35.8,5,51,1.47,282,40.640366,-73.934543,2024-12-08,2022-05-28,4.02,4,0,"1 bath",12,False,strict,NULL,NULL,mobile,PayPal,0
+106429,8798,Sophia,"Staten Island","New York City","Shared Room",Loft,90.01,14,33,NULL,34,40.739757,-74.118512,2022-04-05,2018-01-12,3.87,3,NULL,2,10,NULL,Flexible,80,available,Desktop,cash,0
+109243,10518,David,Brooklyn,"New York City","Private Room","Guest suite",173.89,10,47,1.53,284,40.781363,-73.974104,2015-11-14,2016-01-30,4.63,0,5,2,4,T,flexible,95%,booked,desktop,cash,0
+105195,7370,"John Smith",Bronx,"New York City","Hotel Room",House,261.73,1000,44,1.8,97,40.758332,-73.931544,2015-04-20,2018-05-07,NULL,0,2,NULL,12,NULL,moderate,90%,available,Mobile,card,0
+107817,10731,Olivia,Manhattan,"New York City","Entire Home/Apt",Loft,62.77,23,35,4.24,191,40.716271,-73.871813,2023-03-19,2016-05-17,4.73,7,5,"3 baths",5,t,moderate,90%,AVAILABLE,Desktop,NULL,0
+104679,5026,Olivia,Bronx,"New York City","Private Room",apartment,147.37,180,39,0.47,83,40.818907,-73.962351,2020-12-17,2018-06-12,4.81,2,2,"1.5 bath",NULL,T,Flexible,100%,available,mobile,NULL,0
+112087,5014,Olivia,Queens,"New York City","Shared Room","Guest suite",302.99,14,40,NULL,217,40.788859,-73.923433,2017-06-15,2019-03-22,4.8,7,0,1.5,3,T,Flexible,80,active,Desktop,Card,0
+119443,10569,Michael,"Staten Island","New York City","Private Room",Townhouse,49.04,19,50,3.43,80,40.756956,-74.10153,2021-07-31,2015-03-31,4.79,1,6,2,2,True,MODERATE,95%,Active,Desktop,NULL,0
+100504,11408,unknown,Manhattan,"New York City","Private Room",apartment,144.02,24,43,NULL,324,40.624471,-73.833668,2024-05-17,2019-04-08,5,4,NULL,"1 bath",12,T,Flexible,100%,Active,Desktop,NULL,0
+108611,8204,"John Smith",Bronx,"New York City","Hotel Room",Apartment,150,20,50,4.78,77,40.638048,-73.960436,2015-11-16,2024-10-11,4.76,3,-1,1,2,t,moderate,80,booked,NULL,PayPal,0
+117025,9948,Olivia,Bronx,"New York City","Entire Home/Apt","House ",83.3,24,45,0.46,16,40.649043,-73.920996,2022-12-31,2020-04-11,4.33,1,5,1,8,f,flexible,80,available,mobile,paypal,0
+106316,6257,unknown,"Staten Island","New York City","Private Room",Townhouse,252.81,10,53,2.12,78,40.78697,-74.037573,2023-10-15,2021-12-09,3.95,NULL,0,1,12,F,flexible,100%,AVAILABLE,tablet,Card,0
+119341,6440,unknown,Manhattan,"New York City","Hotel Room",apartment,192.99,19,51,3.29,169,40.719504,-74.097854,2019-03-26,2016-07-27,4.76,2,1,2,NULL,NULL,flexible,80,NULL,Desktop,Card,0
+109889,5682,unknown,Manhattan,"New York City","Hotel Room",Townhouse,63.62,15,46,3.24,138,40.646597,-74.081096,2022-11-04,2019-10-25,4.44,1,3,1,8,t,moderate,"85 %",Active,desktop,Card,0
+105991,11775,Emma,Queens,"New York City","Hotel Room",Loft,257.38,27,36,0.15,107,40.690424,-73.9671,2025-01-14,NULL,4.87,NULL,NULL,"2 baths",1,T,Flexible,NULL,active,mobile,NULL,0
+103336,6837,Michael,Brooklyn,"New York City","Private Room","Guest suite",191.95,6,35,3.59,56,40.715807,-73.967172,2016-10-01,2019-03-07,4.36,1,-1,1.5,2,NULL,Flexible,100%,NULL,tablet,NULL,0
+100937,5389,Michael,Queens,"New York City","Shared Room",House,232,18,42,NULL,271,40.710906,-74.019119,2015-11-17,2023-02-07,NULL,7,3,1.5,10,F,MODERATE,"85 %",NULL,mobile,paypal,0
+111628,7153,Michael,Queens,"New York City","Private Room",House,535.64,11,62,2.1,331,40.691801,-73.921703,2015-02-11,2017-09-16,5,3,2,"3 baths",4,False,flexible,95%,AVAILABLE,mobile,Card,0
+106189,8417,Michael,Queens,"New York City","Entire Home/Apt",Loft,97.77,18,51,0.11,260,40.83831,-74.074111,2017-12-01,2022-07-22,3.6,4,0,2,3,True,strict_14_with_grace_period,90%,active,Mobile,Card,0
+114721,6217,unknown,Queens,"New York City","Private Room",Condo,57.99,19,39,0.25,202,40.704395,-73.941167,2025-02-14,2023-11-12,3.5,-1,4,1,12,t,MODERATE,90%,NULL,NULL,Card,0
+104992,11681,Emma,Bronx,"New York City","Entire Home/Apt",apartment,226.43,7,57,4.41,336,40.779981,-73.927113,2023-08-28,2024-10-28,4.86,7,2,"3 baths",NULL,f,strict,90%,booked,Desktop,Card,0
+110778,6778,Olivia,"Staten Island","New York City","Shared Room",Loft,671.87,19,41,1.27,345,40.726152,-73.772056,2025-02-07,2017-01-10,4.33,2,6,"2 baths",6,NULL,flexible,90%,NULL,mobile,NULL,0
+107559,5814,"John Smith",Bronx,"New York City","Entire Home/Apt",House,114.84,11,54,NULL,95,40.721071,-73.932397,2015-09-19,2016-02-14,4.45,-1,-1,1,8,True,moderate,100%,booked,mobile,NULL,0
+116801,5349,Emma,Manhattan,"New York City","Private Room","Guest suite",116.53,12,38,1.43,105,40.703946,-73.941846,2021-06-06,2018-11-27,4.31,8,2,NULL,2,F,flexible,100%,NULL,Desktop,Card,0
+108115,11157,Sophia,Manhattan,"New York City","Entire Home/Apt","House ",159.05,7,49,NULL,230,40.754858,-73.893912,2016-04-27,2022-07-13,4.09,8,NULL,1,3,t,strict_14_with_grace_period,NULL,active,desktop,card,0
+105225,6519,Michael,Brooklyn,"New York City","Private Room",House,307.21,30,40,1.19,205,40.675004,-74.127233,2015-08-12,2022-08-19,4.24,8,2,"1 bath",1,F,strict_14_with_grace_period,100%,AVAILABLE,mobile,cash,0
+109420,7591,David,Brooklyn,"New York City","Private Room",Condo,97.22,90,53,3.35,81,40.769187,-74.051987,2024-07-19,2022-03-02,4.88,NULL,1,1.5,4,F,flexible,"85 %",NULL,desktop,Card,0
+107008,10594,"John Smith",Brooklyn,"New York City","Shared Room",Condo,242.3,30,38,0.34,4,40.763228,-73.957692,2025-03-14,2022-10-05,4.54,10,2,2,10,True,moderate,NULL,AVAILABLE,tablet,PayPal,0
+100386,6694,Olivia,"Staten Island","New York City","Shared Room","Guest suite",91.43,16,45,5.29,149,40.739879,-74.039785,2016-09-08,2017-12-22,NULL,1,3,"1.5 bath",1,f,strict_14_with_grace_period,NULL,NULL,desktop,paypal,0
+110732,9866,Sophia,Bronx,"New York City","Private Room","House ",109.15,27,59,1.47,41,40.717595,-73.880836,2017-10-11,2017-02-19,4.49,6,4,NULL,8,False,Flexible,"85 %",Active,Mobile,card,0
+101714,6751,Michael,Brooklyn,"New York City","Entire Home/Apt",House,121,3650,46,6.25,115,40.664465,-73.910859,2016-02-09,2018-06-18,4.05,6,-1,NULL,12,t,strict,NULL,Active,NULL,paypal,0
+101523,9548,Sophia,"Staten Island","New York City","Entire Home/Apt",Loft,97,28,39,1.5,263,40.663497,-74.010101,2018-02-02,2017-01-09,4.66,-1,3,"2.5 baths",1,F,strict_14_with_grace_period,NULL,NULL,mobile,cash,0
+106326,6875,"John Smith",Manhattan,"New York City","Private Room",House,137.91,8,43,NULL,301,40.680289,-73.926013,2017-11-11,2024-10-01,3.56,4,NULL,"3 baths",1,t,MODERATE,90%,AVAILABLE,Mobile,cash,0
+116498,6955,unknown,Queens,"New York City","Hotel Room",Loft,124.45,180,43,2.33,331,40.766133,-73.979601,2022-10-18,2020-07-03,4.96,6,2,"3 baths",12,F,Flexible,95%,AVAILABLE,Desktop,PayPal,0
+109672,8292,Michael,Bronx,"New York City","Private Room",Townhouse,123.05,7,46,0.66,340,40.81031,-73.873478,2019-03-24,2019-05-17,3.73,4,NULL,"1 bath",2,True,moderate,90%,NULL,mobile,paypal,0
+115421,6409,Sophia,Manhattan,"New York City","Private Room",House,231.79,17,38,1.5,148,40.718329,-74.109101,2022-11-03,2023-12-29,4.21,1,4,1,8,False,moderate,90%,booked,tablet,NULL,0
+101203,6674,Sophia,"Staten Island","New York City","Entire Home/Apt",Apartment,177.73,28,51,0.72,168,40.665182,-73.97731,2022-01-18,2017-12-30,4.95,5,5,2,3,f,strict_14_with_grace_period,NULL,Active,tablet,Card,0
+104339,8199,"John Smith",Queens,"New York City","Entire Home/Apt",Condo,78.33,21,41,NULL,209,40.690991,-73.87558,2023-04-03,2016-06-24,3.77,10,-1,"1.5 bath",5,T,moderate,90%,active,Mobile,Card,0
+118974,10262,"John Smith",Queens,"New York City","Private Room","House ",110.15,15,39,5.07,221,40.74095,-73.972152,2020-07-05,2023-06-24,4.35,2,2,2,1,NULL,strict,90%,AVAILABLE,Desktop,Card,0
+101053,10812,David,Queens,"New York City","Private Room","Guest suite",171.93,23,52,0.53,168,40.798281,-74.067619,2020-10-19,2019-06-13,4.25,3,2,"3 baths",10,NULL,flexible,95%,AVAILABLE,Desktop,PayPal,0
+115268,11924,Sophia,"Staten Island","New York City","Private Room",NULL,64.69,6,54,NULL,67,40.682495,-74.044888,2022-08-29,2015-09-26,4.56,2,1,NULL,3,False,MODERATE,100%,NULL,Mobile,PayPal,0
+112024,10329,Emma,"Staten Island","New York City","Entire Home/Apt",Condo,125.96,90,37,1.62,29,40.640114,-74.065418,2017-12-24,2021-02-04,4.01,-1,3,"3 baths",12,t,Flexible,90%,Active,mobile,card,0
+101713,8153,Olivia,Brooklyn,"New York City","Private Room",Townhouse,106.24,26,36,0.66,161,40.837422,-73.971114,2022-04-11,2022-10-21,4.74,0,1,1.5,3,True,strict_14_with_grace_period,80,booked,desktop,Card,0
+110610,8096,unknown,Brooklyn,"New York City","Entire Home/Apt",Townhouse,163.29,23,40,1.63,335,40.791712,-73.952844,2019-01-21,2021-07-06,4.42,3,NULL,"2.5 baths",10,NULL,flexible,100%,available,mobile,NULL,0
+116756,6566,unknown,Manhattan,"New York City","Hotel Room",apartment,83.39,5,42,0.36,164,40.747222,-74.002525,2021-03-28,2023-07-30,4.65,10,6,"1 bath",NULL,f,Flexible,NULL,available,NULL,card,0
+110870,8719,Emma,Bronx,"New York City","Hotel Room",NULL,102.18,7,42,1.66,121,40.737051,-73.865819,2018-09-19,2020-12-08,3.28,7,6,2,10,F,flexible,NULL,NULL,Mobile,paypal,0
+106696,8963,Michael,Queens,"New York City","Shared Room",NULL,112.09,20,39,0.57,103,40.740373,-73.979366,2021-01-01,2025-03-12,3.83,1,3,"1.5 bath",10,F,Flexible,"85 %",Active,Desktop,NULL,0
+109842,11658,unknown,Bronx,"New York City","Entire Home/Apt",Apartment,214.29,28,50,3.25,272,40.724292,-74.011938,2016-09-22,2019-01-07,NULL,10,NULL,1,3,False,Flexible,"85 %",booked,NULL,NULL,0
+117026,5376,Michael,Queens,"New York City","Private Room",Townhouse,109.22,18,38,1.44,303,40.775915,-73.934391,2022-09-02,2021-12-09,4.07,3,1,NULL,8,T,MODERATE,100%,available,mobile,cash,0
+102726,10861,David,Queens,"New York City","Entire Home/Apt","Guest suite",258.21,24,44,2.26,315,40.717642,-74.012609,2020-02-22,2017-12-05,4.69,8,NULL,"2.5 baths",6,T,strict_14_with_grace_period,"85 %",NULL,NULL,cash,0
+115270,11157,Sophia,Queens,"New York City","Entire Home/Apt",House,107.62,90,39,0.98,277,40.721045,-73.911756,2021-07-19,2024-04-01,4.19,2,4,"2 baths",6,T,flexible,80,booked,NULL,card,0
+111660,8392,unknown,Manhattan,"New York City","Shared Room","House ",124.04,9,46,2.31,78,40.70329,-73.906616,2025-08-06,2019-07-05,NULL,6,1,"1.5 bath",NULL,NULL,MODERATE,"85 %",available,desktop,NULL,0
+111854,5436,Michael,Manhattan,"New York City","Private Room",Loft,86.44,60,48,0.66,212,40.742695,-73.981258,2021-09-07,NULL,4.71,1,6,2,4,F,strict_14_with_grace_period,95%,booked,mobile,Card,0
+109459,7181,Michael,Brooklyn,"New York City","Private Room",apartment,227.81,3650,55,3.69,11,40.682052,-74.003026,2017-10-17,2019-02-20,3.66,5,3,"1 bath",NULL,False,MODERATE,90%,booked,Desktop,cash,0
+112152,8037,David,Queens,"New York City","Private Room",Condo,184.96,1,53,1.08,227,40.676462,-73.874606,2022-05-02,2015-11-13,4.38,5,-1,2,NULL,False,Flexible,"85 %",NULL,Desktop,PayPal,0
+111885,11861,Olivia,Manhattan,"New York City","Private Room",Condo,122.65,19,37,4.13,88,40.745773,-73.960892,2021-06-17,2018-03-28,5,6,1,1.5,10,T,flexible,90%,booked,desktop,card,0
+115269,8313,Emma,Manhattan,"New York City","Private Room","Guest suite",109.39,2,50,5.47,333,40.724985,-73.910013,2017-12-22,2016-09-19,NULL,NULL,3,NULL,6,True,Flexible,95%,available,NULL,Card,0
+105184,11482,Michael,Bronx,"New York City","Private Room","House ",287.26,90,32,4.64,162,40.688048,-73.969367,2015-10-22,2025-05-19,4.51,6,2,2,12,f,MODERATE,90%,NULL,Mobile,PayPal,0
+105750,7553,Michael,Bronx,"New York City","Hotel Room",Loft,321.28,6,50,1.38,218,40.721102,-74.022262,2019-09-16,2021-10-21,4.1,3,5,"3 baths",1,False,strict,90%,booked,Mobile,NULL,0
+119947,5563,unknown,Manhattan,"New York City","Private Room",Loft,78.25,180,43,1.08,283,40.668649,-73.851648,2023-10-17,2024-05-27,4.05,2,1,"1 bath",2,t,moderate,95%,available,tablet,NULL,0
+106052,10458,unknown,Queens,"New York City","Entire Home/Apt",apartment,227.18,25,45,0.32,60,40.713466,-74.048851,2023-08-13,2021-11-28,3.85,-1,3,1,6,t,MODERATE,90%,NULL,tablet,cash,0
+110572,11358,unknown,Manhattan,"New York City","Private Room",Loft,301.45,9,48,0.31,311,40.776434,-73.888946,2019-07-10,2018-08-21,5,4,6,"3 baths",4,False,strict_14_with_grace_period,100%,available,mobile,card,0
+106516,11687,David,Bronx,"New York City","Private Room","House ",168.64,60,51,0.72,174,40.677016,-73.906123,2015-05-05,2024-05-29,3.91,8,5,1,8,NULL,strict_14_with_grace_period,90%,NULL,desktop,PayPal,0
+119581,7958,Emma,Bronx,"New York City","Private Room","Guest suite",194.72,60,45,0.78,187,40.656452,-74.022749,2018-12-17,NULL,4.89,6,0,"2.5 baths",NULL,NULL,Flexible,"85 %",active,Mobile,Card,0
+112302,6604,Sophia,Queens,"New York City","Shared Room","House ",118.69,10,34,2.32,348,40.675682,-73.961198,2024-05-24,2016-07-22,3.76,0,6,"1 bath",4,NULL,strict,80,booked,Mobile,NULL,0
+115457,10652,"John Smith",Bronx,"New York City","Hotel Room",NULL,110,365,55,1.9,55,40.622554,-73.913678,2017-08-21,2019-02-17,NULL,-1,6,"2 baths",10,t,strict_14_with_grace_period,"85 %",booked,desktop,card,0
+110713,9420,Olivia,Brooklyn,"New York City","Entire Home/Apt",Condo,88.5,26,42,1.89,88,40.669119,-73.888933,2022-09-21,2018-04-10,4.9,10,3,1,10,f,Flexible,NULL,active,mobile,card,0
+109346,5688,"John Smith",Queens,"New York City","Entire Home/Apt",Condo,130.19,3650,54,0.72,1,40.719665,-73.917971,2022-12-31,2020-10-16,4.49,8,1,"1.5 bath",12,f,moderate,95%,available,Desktop,Card,0
+119990,11938,Sophia,Manhattan,"New York City","Private Room",apartment,37.1,16,38,2.78,202,40.744396,-73.950039,2023-03-07,2020-11-15,4.67,5,2,"1.5 bath",3,f,moderate,NULL,booked,NULL,Card,0
+104074,11816,Olivia,Manhattan,"New York City","Entire Home/Apt",Loft,88.49,3,47,4.23,231,40.656246,-73.98057,2023-04-10,2021-09-20,3.91,8,NULL,"1.5 bath",8,True,MODERATE,"85 %",booked,mobile,NULL,0
+119246,9341,unknown,Manhattan,"New York City","Entire Home/Apt",Apartment,85,18,52,2.02,314,40.733194,-73.888838,2016-06-23,2015-02-08,4.06,7,5,1.5,10,T,strict,"85 %",NULL,Desktop,NULL,0
+113657,10790,unknown,"Staten Island","New York City","Entire Home/Apt",NULL,198.99,25,51,4.78,41,40.744163,-74.080009,2024-12-06,2020-04-02,3.97,0,-1,"2 baths",4,NULL,flexible,100%,available,mobile,PayPal,0
+115747,9065,Olivia,Brooklyn,"New York City","Entire Home/Apt",apartment,174.4,6,49,1.57,75,40.797555,-73.935807,2025-01-31,2017-12-03,4.27,-1,6,2,10,True,Flexible,NULL,available,desktop,cash,0
+113125,7882,David,Queens,"New York City","Private Room",Condo,178.96,5,42,0.33,9,40.723887,-73.990167,2023-09-08,2018-06-19,3.96,6,4,"3 baths",10,False,MODERATE,95%,AVAILABLE,Mobile,NULL,0
+108116,8512,Olivia,"Staten Island","New York City","Private Room","Guest suite",414.49,13,42,0.61,269,40.688572,-74.052256,2022-10-01,2018-12-24,5,4,5,1.5,4,NULL,strict_14_with_grace_period,NULL,available,desktop,PayPal,0
+101454,6760,Olivia,Manhattan,"New York City","Private Room","House ",168.15,23,49,3.71,22,40.731033,-74.062,2025-08-19,2025-02-23,4.73,10,4,"2.5 baths",12,T,MODERATE,95%,NULL,tablet,PayPal,0
+114226,11851,unknown,Queens,"New York City","Private Room",Condo,107.87,6,50,1.69,241,40.743608,-73.916907,2024-03-21,2021-07-22,4.3,3,0,"1.5 bath",1,NULL,strict,"85 %",booked,Desktop,PayPal,0
+105349,7367,Olivia,"Staten Island","New York City","Shared Room",Apartment,412.11,11,42,0.13,263,40.74563,-74.081606,2019-02-05,2023-10-14,4.21,10,1,"2 baths",5,f,MODERATE,NULL,available,tablet,cash,0
+106139,10709,Sophia,Bronx,"New York City","Shared Room",apartment,194.99,30,43,1.38,32,40.685935,-74.012647,2016-09-10,2024-12-14,4.71,7,3,"1 bath",10,NULL,strict_14_with_grace_period,80,Active,NULL,cash,0
+115760,5370,unknown,Manhattan,"New York City","Entire Home/Apt",Condo,80.89,12,59,2.79,296,40.762442,-73.910909,2015-06-16,2017-04-17,4.31,10,NULL,"1 bath",5,True,MODERATE,"85 %",active,Desktop,Card,0
+117905,7912,Sophia,Queens,"New York City","Shared Room","House ",144.62,4,41,NULL,94,40.792536,-73.881326,2020-04-10,2021-07-21,4.16,2,6,"3 baths",8,t,moderate,80,active,Desktop,NULL,0
+109396,6549,Michael,"Staten Island","New York City","Private Room",Loft,181,23,51,4.48,249,40.750663,-73.881687,2022-07-17,2017-08-30,3.69,3,6,"1.5 bath",NULL,False,strict,100%,Active,Mobile,card,0
+119192,5382,David,Bronx,"New York City","Entire Home/Apt","Guest suite",77.59,1000,46,NULL,321,40.653809,-73.998305,2021-02-05,2023-12-30,4.07,8,NULL,"1.5 bath",8,NULL,strict_14_with_grace_period,"85 %",NULL,Mobile,card,0
+109657,9255,unknown,Bronx,"New York City","Private Room","Guest suite",262,11,40,0.56,215,40.762378,-73.969465,2019-08-18,2020-02-09,3.53,2,1,NULL,NULL,False,strict,90%,Active,Mobile,PayPal,0
+116819,9380,unknown,Brooklyn,"New York City","Private Room","Guest suite",36.35,6,35,1.09,110,40.685214,-73.998295,2018-01-20,2024-01-21,4.35,7,0,"1.5 bath",NULL,True,MODERATE,"85 %",NULL,Desktop,cash,0
+119989,7380,unknown,Queens,"New York City","Private Room",apartment,163,3,44,1.13,23,40.727665,-73.848537,2022-04-17,2023-04-06,4.05,1,-1,"1.5 bath",10,True,strict_14_with_grace_period,100%,Active,tablet,paypal,0
+102806,6767,unknown,"Staten Island","New York City","Entire Home/Apt",Apartment,73.83,12,54,1.01,306,40.715349,-73.957604,2021-01-29,2018-10-13,3.65,7,NULL,"1 bath",4,t,moderate,95%,booked,Desktop,card,0
+107443,10983,Sophia,Manhattan,"New York City","Entire Home/Apt",Apartment,277.67,3,36,1.74,292,40.741221,-73.908184,2019-10-09,2020-08-10,4.82,1,2,1.5,6,F,MODERATE,95%,active,tablet,NULL,0
+108899,9403,Michael,Manhattan,"New York City","Private Room",NULL,74.5,8,40,NULL,84,40.806107,-73.900596,2020-06-05,2024-05-25,3.87,2,5,1.5,5,T,MODERATE,"85 %",booked,Mobile,NULL,0
+101093,5126,Emma,Manhattan,"New York City","Private Room",Loft,123.23,18,41,0.78,341,40.749422,-74.007584,2018-12-25,2017-04-19,3.88,1,1,"1.5 bath",10,F,MODERATE,90%,Active,Mobile,Card,0
+101078,8346,unknown,"Staten Island","New York City","Private Room","House ",113.42,2,50,0.43,1,40.701873,-74.013959,2016-10-08,NULL,3.98,3,5,1,NULL,f,moderate,90%,AVAILABLE,Mobile,cash,0
+116651,10861,Emma,Brooklyn,"New York City","Private Room",Townhouse,97.9,8,54,6.49,114,40.657671,-73.99964,2015-01-01,2021-01-05,4.43,1,4,2,NULL,f,MODERATE,"85 %",booked,desktop,card,0
+107688,7694,Emma,Bronx,"New York City","Shared Room",apartment,72.31,60,54,0.84,342,40.810797,-73.965565,2024-03-30,2021-02-22,3.72,0,NULL,2,8,F,strict,90%,Active,NULL,PayPal,0
+105941,9628,David,"Staten Island","New York City","Hotel Room",Apartment,283.8,13,51,3.18,100,40.672391,-73.917892,2020-11-16,2015-08-20,4.51,NULL,NULL,"1.5 bath",3,NULL,flexible,"85 %",active,Mobile,NULL,0
+114387,10557,David,"Staten Island","New York City","Entire Home/Apt",Condo,229.64,25,39,0.29,208,40.70925,-73.874739,2015-10-13,2018-09-21,4.34,6,1,"2 baths",3,T,Flexible,95%,NULL,tablet,card,0
+102151,8861,Olivia,"Staten Island","New York City","Private Room",Condo,556.71,28,36,0.41,120,40.807294,-73.986483,2019-10-14,2020-04-21,4.23,8,6,"2.5 baths",2,False,strict_14_with_grace_period,80,available,desktop,paypal,0
+110783,6778,Michael,Bronx,"New York City","Entire Home/Apt","House ",60.39,11,49,2.4,109,40.677168,-74.080058,2020-12-06,2017-06-06,4.2,7,2,"3 baths",12,True,Flexible,100%,Active,Mobile,Card,0
+118192,8088,Michael,Bronx,"New York City","Hotel Room",apartment,58.76,180,54,1.53,64,40.708682,-73.974335,2017-10-13,NULL,4.55,8,NULL,NULL,8,F,Flexible,90%,NULL,desktop,Card,0
+110688,11599,"John Smith",Brooklyn,"New York City","Private Room",Condo,53.45,14,49,2.6,54,40.59461,-73.990999,2020-10-10,2016-01-08,4.85,6,5,"2 baths",4,t,Flexible,90%,AVAILABLE,Desktop,Card,0
+107673,10015,Sophia,Bronx,"New York City","Private Room",Townhouse,103.31,1,30,4.32,148,40.692396,-74.002275,2018-06-28,2015-01-23,4.34,6,2,"3 baths",1,t,strict,100%,Active,tablet,cash,0
+103063,8089,Olivia,Brooklyn,"New York City","Entire Home/Apt",NULL,253,8,36,NULL,183,40.663746,-73.943443,2020-10-22,2020-08-02,4.07,4,4,"1.5 bath",3,T,moderate,100%,available,tablet,card,0
+113612,5494,"John Smith",Manhattan,"New York City","Private Room",Loft,110.76,21,52,0.55,88,40.718386,-74.005066,2018-08-07,2023-05-20,4.28,NULL,NULL,"3 baths",3,T,moderate,100%,Active,Mobile,Card,0
+117136,10230,Emma,Brooklyn,"New York City","Shared Room",Loft,85.78,9,46,1.43,109,40.718325,-73.833748,2016-07-15,2023-04-26,4.91,2,3,1,4,True,moderate,100%,AVAILABLE,mobile,card,0
+110183,7025,"John Smith",Queens,"New York City","Entire Home/Apt","House ",341.39,17,48,3.47,122,40.821828,-74.079406,2021-04-03,2020-08-12,4.03,4,2,2,NULL,f,strict,100%,available,NULL,NULL,0
+117441,10675,Olivia,Manhattan,"New York City","Private Room",Townhouse,199.41,90,50,0.93,249,40.729922,-73.989609,2015-09-22,2019-06-20,4.44,NULL,4,1,8,f,moderate,100%,Active,mobile,PayPal,0
+102865,9362,David,Manhattan,"New York City","Entire Home/Apt",NULL,130.27,1000,47,1.59,161,40.779235,-73.948406,2022-07-05,2024-09-04,4.82,10,0,"1 bath",2,f,strict,"85 %",active,tablet,card,0
+118492,10542,Michael,"Staten Island","New York City","Private Room",Condo,121.15,8,52,0.93,353,40.688544,-73.870663,2017-07-17,2018-08-07,4.03,-1,2,"2 baths",5,t,moderate,"85 %",active,Mobile,NULL,0
+113174,11113,Michael,"Staten Island","New York City","Entire Home/Apt",Condo,254.1,19,55,4.15,158,40.735763,-73.930638,2016-04-09,2022-09-04,4.79,0,5,1,8,True,strict_14_with_grace_period,100%,NULL,desktop,PayPal,0
+111230,6076,Michael,Queens,"New York City","Private Room","Guest suite",79,27,39,2.31,106,40.723118,-74.105393,2016-09-18,2022-11-15,4.31,1,NULL,1.5,12,False,strict,100%,available,Mobile,cash,0
+112148,10471,Sophia,"Staten Island","New York City","Entire Home/Apt",Apartment,216.67,27,50,2.12,200,40.65295,-73.930217,2015-01-04,2016-09-05,4.33,2,4,2,2,f,MODERATE,100%,active,tablet,cash,0
+107720,10288,"John Smith",Bronx,"New York City","Private Room",NULL,568.48,3650,41,2.47,164,40.635596,-73.907226,2015-07-13,2015-02-23,4.76,NULL,NULL,"2 baths",5,T,Flexible,90%,available,mobile,card,0
+101457,7263,Olivia,"Staten Island","New York City","Private Room",House,205.82,10,51,2.38,85,40.715727,-73.937335,2017-09-14,2023-08-25,3.76,0,1,NULL,NULL,T,flexible,90%,active,Mobile,cash,0
+119653,10427,Sophia,"Staten Island","New York City","Private Room",Apartment,131.84,16,49,0.41,268,40.718452,-73.950843,2017-09-05,2016-01-03,4,4,-1,"1.5 bath",6,t,Flexible,100%,available,tablet,Card,0
+116589,6843,unknown,Manhattan,"New York City","Hotel Room",House,92.29,3650,44,2.4,208,40.607636,-74.070269,2019-01-21,2023-09-04,4.42,6,0,"3 baths",12,F,strict,95%,NULL,tablet,card,0
+103487,9273,"John Smith",Queens,"New York City","Private Room",Apartment,188.46,14,40,1.2,27,40.66975,-73.966931,2017-10-10,2024-03-16,5,8,4,"1.5 bath",6,True,MODERATE,100%,available,Mobile,NULL,0
+105036,10953,Emma,Queens,"New York City","Entire Home/Apt","House ",218.6,19,37,6.62,240,40.752332,-73.978555,2022-02-07,2017-03-30,NULL,8,1,"1.5 bath",NULL,f,MODERATE,80,booked,desktop,card,0
+114773,11042,Michael,Bronx,"New York City","Shared Room",Townhouse,140,10,42,1.02,265,40.699598,-73.975069,2023-10-24,2023-12-04,4.54,7,0,1,10,f,moderate,80,NULL,tablet,Card,0
+114065,6895,"John Smith",Brooklyn,"New York City","Hotel Room","House ",10,13,49,2.02,267,40.677948,-73.974028,2016-01-27,2019-03-28,4.77,3,1,"3 baths",12,False,Flexible,80,active,NULL,NULL,0
+102993,8043,"John Smith",Brooklyn,"New York City","Shared Room",Townhouse,561.06,3,39,6.44,195,40.851685,-73.849837,2020-07-18,2020-06-23,3.3,4,NULL,"2 baths",NULL,True,strict_14_with_grace_period,100%,Active,desktop,paypal,0
+117172,10844,David,"Staten Island","New York City","Entire Home/Apt","House ",235.73,3,57,3,258,40.740379,-73.960868,2017-08-22,2020-09-10,4.19,10,0,1.5,6,f,Flexible,95%,NULL,Desktop,card,0
+109559,5970,unknown,"Staten Island","New York City","Private Room","Guest suite",134.92,3650,49,0.33,151,40.726386,-73.928709,2016-12-24,2020-11-16,4.72,2,6,"1.5 bath",2,f,flexible,90%,available,tablet,paypal,0
+101035,11191,Olivia,Bronx,"New York City","Shared Room",apartment,177.89,17,49,2.71,280,40.718344,-73.93287,2023-04-19,2021-11-24,4.48,8,2,1.5,5,NULL,strict,90%,AVAILABLE,tablet,cash,0
+119331,10312,unknown,Manhattan,"New York City","Entire Home/Apt",Loft,102.32,16,36,NULL,141,40.759356,-73.981957,2020-07-26,2024-09-08,4.1,1,5,2,12,t,flexible,NULL,available,tablet,cash,0
+106053,11080,Emma,Bronx,"New York City","Private Room",Townhouse,130.75,365,56,2.25,168,40.71708,-73.951758,2016-08-15,2019-01-19,4.92,-1,-1,"1.5 bath",6,True,strict,90%,active,NULL,cash,0
+110034,11871,unknown,Bronx,"New York City","Shared Room","House ",163.42,12,34,9.37,63,40.753647,-74.060327,2023-05-30,2022-05-29,4.6,8,4,"2.5 baths",10,F,Flexible,90%,active,NULL,card,0
+116536,8800,unknown,Brooklyn,"New York City","Entire Home/Apt",Loft,112.6,1,39,2.13,41,40.715236,-73.865385,2017-04-26,2024-07-06,4.18,0,5,"2.5 baths",4,NULL,Flexible,95%,available,Mobile,cash,0
+116271,9863,Emma,Brooklyn,"New York City","Private Room",House,170,90,66,0.62,231,40.701151,-73.98966,2021-04-15,2017-01-30,3.6,-1,1,1.5,1,True,flexible,NULL,active,Mobile,NULL,0
+101403,10033,David,Brooklyn,"New York City","Shared Room",Apartment,68.61,14,42,0.12,352,40.548631,-73.959377,2024-02-15,2019-04-13,4.97,-1,NULL,"2 baths",NULL,True,strict,90%,available,Desktop,paypal,0
+113175,9009,Sophia,Manhattan,"New York City","Entire Home/Apt",House,143.6,17,43,NULL,304,40.842588,-73.968978,2020-08-16,NULL,NULL,5,0,"2.5 baths",8,f,Flexible,"85 %",Active,mobile,cash,0
+101183,11284,Emma,Bronx,"New York City","Hotel Room",apartment,218.86,27,53,11.3,185,40.652117,-73.99709,2017-08-25,2017-05-12,4.57,10,NULL,"3 baths",12,False,strict,95%,active,tablet,paypal,0
+115192,6138,David,Queens,"New York City","Private Room",Townhouse,241.62,19,50,2.66,123,40.697494,-73.928757,2018-09-15,2024-02-20,4.92,NULL,3,NULL,5,NULL,strict,"85 %",active,Desktop,Card,0
+104878,6217,Olivia,Manhattan,"New York City","Hotel Room",Townhouse,160.68,18,49,2.76,294,40.626582,-73.932179,2015-08-26,2015-04-10,3.39,-1,-1,"2 baths",NULL,False,flexible,"85 %",Active,NULL,card,0
+103469,11589,David,Manhattan,"New York City","Private Room",NULL,229.03,23,46,1.42,219,40.790361,-73.945673,2020-01-11,2023-01-15,4.26,2,1,"1.5 bath",5,t,moderate,95%,AVAILABLE,Desktop,PayPal,0
+108986,11961,Sophia,"Staten Island","New York City","Shared Room",Loft,175.51,90,59,2.09,330,40.758027,-74.019152,2018-01-28,2025-05-11,3.51,3,4,"3 baths",8,NULL,strict,NULL,AVAILABLE,mobile,PayPal,0
+112287,5149,Emma,Queens,"New York City","Private Room","Guest suite",111.08,26,58,1.97,98,40.664583,-74.005348,2020-11-22,2016-06-16,4.74,8,NULL,"2 baths",NULL,NULL,MODERATE,95%,AVAILABLE,tablet,PayPal,0
+105569,5817,Michael,Bronx,"New York City","Private Room",Loft,59.45,1000,46,1.9,207,40.701361,-73.903823,2023-04-27,2024-08-31,4.53,-1,-1,"1.5 bath",1,T,strict,90%,Active,desktop,card,0
+104392,8879,David,Bronx,"New York City","Entire Home/Apt",NULL,186.39,20,45,0.56,136,40.612392,-74.028942,2018-02-22,2021-01-19,4.79,7,1,NULL,5,F,Flexible,"85 %",available,NULL,PayPal,0
+106904,6860,Michael,Bronx,"New York City","Entire Home/Apt",House,92.6,8,50,2.7,120,40.857998,-73.929955,2023-04-29,2018-06-26,4.19,10,3,NULL,5,t,flexible,80,available,Desktop,cash,0
+117120,10700,Sophia,Brooklyn,"New York City","Shared Room",Loft,218.86,4,48,3.13,29,40.714068,-73.94102,2025-07-01,2023-01-03,4,6,4,"2.5 baths",10,NULL,flexible,95%,active,tablet,paypal,0
+107829,5199,Emma,Queens,"New York City","Private Room","Guest suite",115.6,10,50,2.68,109,40.673492,-73.969171,2015-12-04,NULL,4.02,4,6,1.5,1,f,MODERATE,95%,AVAILABLE,Mobile,Card,0
+110909,5223,Emma,Queens,"New York City","Private Room",Condo,89.14,17,43,2.18,27,40.640746,-73.864407,2019-06-08,2020-05-05,4.51,2,6,"1.5 bath",NULL,f,moderate,90%,available,desktop,cash,0
+119408,6333,Sophia,"Staten Island","New York City","Entire Home/Apt",Apartment,54.1,1000,41,1.6,331,40.680095,-73.890054,2025-01-23,NULL,4.61,2,0,"1.5 bath",3,NULL,MODERATE,100%,available,desktop,PayPal,0
+101581,8281,Olivia,"Staten Island","New York City","Private Room",House,261.06,25,31,3.08,264,40.809032,-74.099897,2024-02-26,2024-07-19,5,0,4,"3 baths",4,t,MODERATE,95%,booked,Mobile,cash,0
+107754,6665,"John Smith",Manhattan,"New York City","Entire Home/Apt",Condo,431.23,5,37,4.93,314,40.776796,-73.98061,2015-02-26,2019-11-17,3.99,0,3,2,3,F,Flexible,80,Active,NULL,NULL,0
+113793,8676,unknown,Manhattan,"New York City","Private Room",Condo,23.37,13,44,2.81,181,40.622804,-74.158052,2025-02-22,2023-05-29,4.31,4,3,NULL,8,t,Flexible,80,NULL,mobile,cash,0
+108044,9436,Olivia,Brooklyn,"New York City","Shared Room",Apartment,255.52,14,50,0.72,11,40.721,-73.95928,2020-11-05,NULL,4,0,0,"3 baths",5,NULL,strict,90%,active,mobile,NULL,0
+102326,11896,Emma,Brooklyn,"New York City","Entire Home/Apt",NULL,50.69,27,54,5.42,23,40.766329,-73.81559,2021-08-02,2025-07-19,4.99,1,NULL,"1 bath",4,True,moderate,100%,Active,Mobile,card,0
+119077,5172,Sophia,"Staten Island","New York City","Entire Home/Apt",House,59.2,10,42,2.9,108,40.699835,-73.999033,2022-10-24,2022-01-03,4.45,7,1,"2.5 baths",3,F,flexible,"85 %",booked,tablet,Card,0
+100929,9534,"John Smith","Staten Island","New York City","Entire Home/Apt",Apartment,95.27,10,36,1.42,22,40.655965,-73.991761,2025-07-02,2021-01-05,3.85,8,5,NULL,5,F,Flexible,95%,Active,Desktop,paypal,0
+119529,8939,Michael,Queens,"New York City","Shared Room",Townhouse,60.74,29,41,0.01,92,40.696976,-73.889629,2024-07-14,2019-02-04,4.71,4,6,"1.5 bath",8,False,moderate,100%,AVAILABLE,Desktop,paypal,0
+112767,6780,David,Brooklyn,"New York City","Private Room",Townhouse,112.88,13,43,1.64,101,40.727207,-73.972111,2015-04-14,2019-08-28,3.92,0,0,"1.5 bath",3,F,flexible,100%,NULL,mobile,Card,0
+104326,9675,unknown,"Staten Island","New York City","Shared Room",House,86.51,23,46,1.15,221,40.698622,-73.956005,2022-06-08,2023-02-19,3.82,2,6,"2.5 baths",NULL,NULL,Flexible,95%,active,desktop,NULL,0
+117428,8033,"John Smith",Queens,"New York City","Hotel Room","House ",425.49,90,42,1.27,162,40.713174,-73.973995,2022-03-30,2019-10-02,4.74,2,4,2,8,F,MODERATE,"85 %",booked,desktop,PayPal,0
+103949,8629,"John Smith",Queens,"New York City","Entire Home/Apt",Apartment,76,22,53,1.07,219,40.773991,-73.969819,2019-11-16,2021-12-17,3.92,10,1,1.5,1,False,moderate,"85 %",Active,mobile,cash,0
+113805,11660,David,"Staten Island","New York City","Private Room",Apartment,108.28,10,45,2.14,156,40.747755,-73.876389,2020-11-18,2021-12-22,4.08,5,2,"1 bath",12,True,MODERATE,NULL,NULL,mobile,paypal,0
+115469,7312,Sophia,Manhattan,"New York City","Private Room","Guest suite",184.61,26,42,2.03,208,40.757471,-73.848741,2016-02-02,2016-04-13,5,5,NULL,1.5,1,T,moderate,95%,Active,Desktop,cash,0
+111234,9571,Sophia,Brooklyn,"New York City","Entire Home/Apt",Condo,74.48,24,44,0.32,118,40.761669,-74.046644,2018-06-28,2017-11-21,4.29,1,0,1,6,False,flexible,90%,AVAILABLE,Desktop,paypal,0
+119357,10201,Michael,Bronx,"New York City","Hotel Room",Condo,147.79,21,45,3.47,227,40.754649,-74.014993,2024-07-27,2024-04-19,3.85,NULL,0,"2.5 baths",2,T,moderate,95%,booked,desktop,card,0
+118966,5531,Olivia,Queens,"New York City","Private Room",Condo,133.54,180,38,0.96,14,40.787684,-74.045019,2019-02-09,2019-02-24,4.86,7,NULL,"3 baths",2,NULL,moderate,90%,available,NULL,paypal,0
+119187,8857,David,Queens,"New York City","Private Room","Guest suite",54.75,15,38,1,246,40.797156,-74.005881,2018-08-15,2020-02-14,3.42,7,4,"1.5 bath",NULL,True,flexible,80,AVAILABLE,Desktop,PayPal,0
+103473,5895,"John Smith",Brooklyn,"New York City","Private Room",Townhouse,199.09,23,52,2.92,130,40.668536,-73.914055,2015-03-22,2020-03-01,4.42,5,1,1,6,True,strict,95%,available,NULL,NULL,0
+106951,5306,Michael,Queens,"New York City","Private Room",Condo,149.12,22,60,0.41,341,40.691591,-73.904745,2017-03-27,2020-08-28,4.08,2,5,1,6,True,Flexible,95%,booked,mobile,Card,0
+105305,7425,Emma,Queens,"New York City","Hotel Room",Townhouse,103.19,6,48,1.26,196,40.764903,-73.890425,2019-05-02,2020-08-06,4.1,NULL,6,"2 baths",12,F,strict_14_with_grace_period,"85 %",Active,tablet,cash,0
+110350,8299,Sophia,Brooklyn,"New York City","Private Room",Townhouse,344.37,1,48,2.64,359,40.735396,-73.936955,2016-09-05,2017-09-21,4.85,2,-1,"2 baths",4,T,strict_14_with_grace_period,"85 %",AVAILABLE,tablet,NULL,0
+104286,9936,Emma,"Staten Island","New York City","Entire Home/Apt",Apartment,88.2,20,48,0.36,230,40.719866,-74.020763,2021-04-10,NULL,4.58,0,2,"1 bath",NULL,True,strict_14_with_grace_period,95%,active,Mobile,PayPal,0
+118150,9655,Emma,Brooklyn,"New York City","Entire Home/Apt","House ",268.64,18,53,2.17,16,40.751678,-74.038517,2017-10-10,2024-02-05,4.01,7,4,"1.5 bath",NULL,False,MODERATE,95%,active,Mobile,NULL,0
+104771,10510,David,Bronx,"New York City","Private Room",NULL,74.46,6,41,3.54,235,40.672919,-73.898474,2024-03-23,2025-07-16,4.71,8,-1,"1 bath",2,NULL,strict,95%,Active,NULL,card,0
+105737,8802,Olivia,Bronx,"New York City","Private Room",Condo,81.77,27,50,3.2,199,40.749254,-74.054463,2023-08-03,2022-12-08,4.52,7,5,NULL,10,NULL,strict,"85 %",active,mobile,card,0
+106229,10593,Olivia,Bronx,"New York City","Shared Room",Apartment,164.01,26,38,2.42,263,40.709476,-74.070934,2018-11-06,2018-09-11,4.89,10,4,"2.5 baths",8,T,strict,90%,Active,Desktop,card,0
+117325,7537,Sophia,Bronx,"New York City","Hotel Room",Townhouse,265.49,25,54,NULL,50,40.726421,-73.92216,2015-07-05,2015-11-21,3.97,4,2,1,10,f,strict,95%,available,Mobile,NULL,0
+102699,5441,"John Smith",Bronx,"New York City","Private Room",NULL,101,3,26,1.63,259,40.662646,-74.008827,2020-02-03,2023-01-06,4.2,7,-1,1.5,1,False,Flexible,100%,active,NULL,Card,0
+105164,9822,David,Bronx,"New York City","Private Room",Condo,40.96,3,41,2.82,346,40.707314,-73.912492,2023-11-14,2021-11-25,4.66,10,4,1,6,False,strict,80,active,mobile,NULL,0
+115069,6537,unknown,Queens,"New York City","Shared Room","House ",238.85,90,55,3.38,54,40.709072,-73.96243,2023-07-09,2018-08-06,5,4,3,"2.5 baths",3,t,flexible,90%,Active,desktop,NULL,0
+104780,9715,David,Manhattan,"New York City","Private Room",Apartment,193.65,24,40,2.28,140,40.77912,-73.917902,2022-08-13,2021-04-20,4.69,4,6,"1.5 bath",3,NULL,Flexible,95%,AVAILABLE,Mobile,Card,0
+103942,10824,"John Smith","Staten Island","New York City","Shared Room",House,128.82,24,44,2.62,106,40.687186,-73.913165,2019-09-05,2016-04-28,4.33,0,1,1,6,True,Flexible,90%,active,mobile,PayPal,0
+113304,5434,unknown,Bronx,"New York City","Entire Home/Apt",House,117.95,11,55,2.9,159,40.717484,-73.922077,2020-05-10,2023-11-08,4.11,1,1,"1.5 bath",5,f,strict,"85 %",Active,NULL,card,0
+107639,9080,Sophia,Brooklyn,"New York City","Private Room",NULL,92.47,4,49,4.19,7,40.638573,-73.914937,2023-08-08,2023-01-10,3.63,3,-1,2,12,False,Flexible,100%,AVAILABLE,Mobile,PayPal,0
+111057,5890,Emma,"Staten Island","New York City","Private Room",House,186.73,30,43,0.63,2,40.78006,-73.939959,2020-11-25,2020-08-20,4.59,7,2,"2.5 baths",6,False,flexible,95%,AVAILABLE,tablet,NULL,0
+112647,6486,unknown,Brooklyn,"New York City","Private Room",Apartment,186.45,1,38,1.18,197,40.688715,-73.930116,2017-03-08,2017-08-29,3.85,3,1,"2 baths",3,t,moderate,80,AVAILABLE,mobile,paypal,0
+111513,11867,unknown,Manhattan,"New York City","Hotel Room",Apartment,127,365,58,1.94,4,40.745468,-73.971033,2020-06-23,2019-01-19,3.74,10,-1,1.5,8,T,strict_14_with_grace_period,NULL,active,desktop,card,0
+104505,10424,Sophia,Brooklyn,"New York City","Entire Home/Apt",NULL,103.46,27,41,0.77,190,40.703455,-73.949491,2018-10-08,2024-08-06,4.33,5,NULL,1.5,1,NULL,MODERATE,"85 %",booked,tablet,paypal,0
+102863,10908,Michael,Bronx,"New York City","Private Room","Guest suite",125.83,20,49,0.3,61,40.677731,-74.036502,2017-09-23,2015-12-01,5,2,5,NULL,8,F,strict_14_with_grace_period,90%,AVAILABLE,Mobile,NULL,0
+116270,6823,David,Manhattan,"New York City","Entire Home/Apt",Loft,135.46,29,50,2.75,50,40.741237,-74.016997,2019-08-28,2020-04-08,4.27,10,-1,"1.5 bath",8,f,MODERATE,NULL,AVAILABLE,Mobile,cash,0
+105219,9118,Olivia,Manhattan,"New York City","Shared Room","House ",65.92,23,40,NULL,104,40.714511,-73.88284,2020-03-27,2021-05-25,4.35,6,6,1,6,f,Flexible,95%,AVAILABLE,Mobile,cash,0
+119891,10121,Michael,Brooklyn,"New York City","Entire Home/Apt",Apartment,500.29,60,39,2.55,26,40.738139,-73.862929,2023-09-02,2015-04-20,5,6,3,"2.5 baths",4,t,strict,80,available,Desktop,Card,0
+111249,6700,Sophia,Bronx,"New York City","Private Room",NULL,384.75,4,47,2.51,113,40.76363,-73.907206,2018-05-26,2021-12-16,4.34,0,5,"1 bath",4,t,strict_14_with_grace_period,80,Active,Desktop,paypal,0
+108830,9517,unknown,Brooklyn,"New York City","Private Room","House ",104.84,7,46,1.41,61,40.680305,-74.027173,2023-08-13,2024-06-24,4.44,3,0,"2 baths",3,True,strict,100%,AVAILABLE,Mobile,cash,0
+113961,7235,David,Brooklyn,"New York City","Entire Home/Apt",NULL,248.4,180,52,2.62,293,40.785489,-73.990067,2024-05-15,2024-03-11,4.34,NULL,6,"3 baths",3,t,strict_14_with_grace_period,100%,Active,Desktop,Card,0
+114813,9748,Michael,Manhattan,"New York City","Private Room",Apartment,118.3,180,50,1.64,21,40.698746,-74.038733,2015-06-05,2015-11-03,4.1,10,4,2,8,T,MODERATE,"85 %",booked,Mobile,Card,0
+103975,11575,Sophia,Queens,"New York City","Entire Home/Apt",Apartment,50.88,6,45,4.11,180,40.755435,-74.098276,2018-11-07,2016-08-22,3.91,NULL,3,"1 bath",3,t,Flexible,80,available,mobile,NULL,0
+111751,6735,unknown,Bronx,"New York City","Entire Home/Apt",Loft,296.68,2,45,1.77,214,40.717216,-73.986058,2018-11-11,2025-07-21,3.39,7,0,"2.5 baths",8,T,flexible,90%,booked,NULL,Card,0
+106843,6405,Michael,Manhattan,"New York City","Entire Home/Apt",Condo,157.34,365,52,0.32,65,40.730163,-74.065109,2016-12-17,2019-11-17,3.79,0,NULL,"3 baths",3,t,MODERATE,90%,available,mobile,Card,0
+108736,5139,"John Smith",Queens,"New York City","Entire Home/Apt","House ",83.44,18,41,1.73,156,40.796821,-73.994111,2022-05-23,2019-04-08,4,2,NULL,2,NULL,True,MODERATE,100%,booked,mobile,paypal,0
+118318,9926,Michael,Manhattan,"New York City","Shared Room",House,162.21,23,61,2.96,140,40.773628,-73.89227,2016-07-12,2024-11-07,4.03,-1,-1,2,12,F,strict_14_with_grace_period,"85 %",Active,mobile,paypal,0
+115605,9349,David,Queens,"New York City","Private Room",Loft,295.91,5,50,2.38,214,40.701036,-73.996424,2015-01-05,2015-03-21,4.48,0,6,NULL,4,NULL,moderate,95%,AVAILABLE,desktop,cash,0
+117798,9447,unknown,Manhattan,"New York City","Private Room","House ",212.63,11,39,1.73,40,40.706003,-74.041343,2015-01-06,2024-05-21,4.79,0,NULL,1,8,t,moderate,80,active,desktop,card,0
+100452,6410,Emma,Queens,"New York City","Entire Home/Apt",apartment,115.23,60,40,1.5,259,40.702185,-74.061684,2023-01-25,2015-02-20,4.06,8,4,"2 baths",10,False,flexible,90%,NULL,mobile,card,0
+110227,6780,Olivia,Brooklyn,"New York City","Shared Room",apartment,90.06,4,48,1.14,219,40.685739,-73.930633,2019-12-21,2024-08-02,4.42,2,0,1,NULL,F,flexible,95%,booked,mobile,NULL,0
+118877,10918,unknown,Bronx,"New York City","Entire Home/Apt","House ",266.76,29,37,1.47,67,40.688408,-73.94315,2017-02-28,2021-05-22,4.12,4,6,"1.5 bath",3,False,strict,NULL,AVAILABLE,Mobile,card,0
+110163,5333,Olivia,Queens,"New York City","Entire Home/Apt",House,66.21,365,45,3.49,10,40.66199,-74.02336,2025-08-24,2023-05-03,4.1,4,5,"3 baths",8,T,flexible,90%,Active,mobile,NULL,0
+114700,9657,"John Smith","Staten Island","New York City","Hotel Room",apartment,166.73,90,53,3.56,182,40.69108,-74.024095,2016-09-17,2024-03-25,4.56,8,-1,"1 bath",1,T,flexible,80,available,desktop,card,0
+116694,9554,unknown,Manhattan,"New York City","Private Room",Townhouse,227.49,16,48,0.62,188,40.754882,-73.958646,2021-10-27,2017-06-04,4.65,4,6,"1.5 bath",NULL,f,flexible,NULL,Active,Mobile,Card,0
+112792,9176,David,"Staten Island","New York City","Shared Room",House,119.18,8,47,0.82,5,40.710236,-73.90567,2018-09-19,2020-12-01,4.52,NULL,5,"1 bath",1,F,MODERATE,95%,booked,NULL,card,0
+110338,9310,Olivia,Manhattan,"New York City","Hotel Room",NULL,647.03,29,52,0.21,180,40.729133,-73.916698,2024-03-25,2020-07-12,4.59,4,2,"1 bath",1,t,strict_14_with_grace_period,NULL,AVAILABLE,Mobile,Card,0
+115279,10625,unknown,Queens,"New York City","Hotel Room","Guest suite",317.06,22,36,0.81,32,40.71061,-74.022241,2015-01-05,2021-04-22,4.12,4,6,1,8,NULL,strict_14_with_grace_period,80,active,mobile,Card,0
+108055,9944,unknown,Brooklyn,"New York City","Private Room",apartment,109.22,23,50,NULL,94,40.689426,-73.987725,2019-01-29,2019-12-05,4.13,10,3,"2.5 baths",10,False,MODERATE,NULL,available,tablet,cash,0
+102200,5090,David,Bronx,"New York City","Entire Home/Apt",Townhouse,130.65,1000,46,1.82,188,40.642489,-74.014589,2021-03-13,2017-06-20,4.41,3,4,"1.5 bath",1,T,moderate,"85 %",NULL,NULL,NULL,0
+116484,9162,unknown,Queens,"New York City","Shared Room","House ",95.54,21,50,0.35,284,40.708782,-73.842153,2023-08-14,2020-06-14,4.18,5,NULL,2,6,f,strict,90%,Active,mobile,NULL,0
+117698,9706,David,"Staten Island","New York City","Hotel Room",Apartment,161.99,4,47,1.43,208,40.654609,-73.895327,2020-12-19,2022-08-31,4.43,7,2,"2 baths",10,False,MODERATE,"85 %",active,desktop,Card,0
+112559,10301,Olivia,Brooklyn,"New York City","Entire Home/Apt",apartment,69.01,365,39,0.92,55,40.747362,-73.964165,2021-08-20,2019-01-02,NULL,2,2,1,10,t,MODERATE,NULL,active,Mobile,NULL,0
+115562,6724,Michael,Brooklyn,"New York City","Private Room",NULL,263.81,12,39,2.72,250,40.685976,-73.978063,2025-04-11,NULL,3.81,10,2,"1 bath",2,F,MODERATE,95%,Active,NULL,cash,0
+105643,11080,Sophia,"Staten Island","New York City","Entire Home/Apt",Apartment,142.03,12,47,0.96,191,40.798374,-74.03072,2023-10-15,2023-12-14,4.51,10,6,"2 baths",NULL,False,strict_14_with_grace_period,90%,available,tablet,paypal,0
+108030,10597,Sophia,Queens,"New York City","Private Room",Loft,143,13,44,0.27,179,40.672713,-74.026184,2020-04-11,2018-02-21,4.74,1,NULL,"1.5 bath",12,F,Flexible,80,booked,tablet,cash,0
+109348,11947,Olivia,Queens,"New York City","Entire Home/Apt",Condo,87.61,25,55,1.03,324,40.752493,-73.907114,2018-08-16,2020-02-05,5,8,NULL,"1 bath",8,F,flexible,95%,AVAILABLE,NULL,Card,0
+107168,8145,"John Smith",Bronx,"New York City","Private Room",Loft,174.36,16,45,1.69,71,40.63861,-73.909722,2023-11-04,2020-11-22,4.94,1,NULL,2,1,True,flexible,80,Active,desktop,card,0
+119415,10824,unknown,Bronx,"New York City","Private Room",apartment,64.47,25,43,4.03,321,40.691965,-73.958601,2020-04-06,2024-10-24,4.32,NULL,1,"1 bath",3,t,moderate,95%,active,Mobile,PayPal,0
+110948,8191,Emma,Brooklyn,"New York City","Hotel Room",Loft,124.67,20,50,2.16,282,40.774154,-74.004128,2016-06-30,2021-03-09,3.74,1,6,"3 baths",NULL,T,moderate,80,AVAILABLE,NULL,cash,0
+103722,8701,Emma,Queens,"New York City","Entire Home/Apt","House ",112.93,30,36,0.64,60,40.684631,-74.110101,2021-02-25,2024-10-01,4.04,4,-1,"2.5 baths",8,False,Flexible,80,Active,Desktop,Card,0
+119456,7516,David,Bronx,"New York City","Entire Home/Apt",NULL,145.2,17,37,1.97,251,40.711877,-74.06219,2017-09-07,NULL,4.39,-1,3,"1 bath",10,T,strict_14_with_grace_period,NULL,booked,tablet,paypal,0
+111316,10753,Michael,"Staten Island","New York City","Private Room",Apartment,117.33,20,44,1.16,155,40.709142,-74.015552,2019-05-22,2025-04-26,4.65,10,NULL,"1 bath",12,T,strict_14_with_grace_period,95%,Active,Mobile,Card,0
+107278,8619,Emma,Manhattan,"New York City","Private Room","House ",242.74,19,42,1,303,40.755422,-73.951593,2022-01-10,2015-03-24,4.46,NULL,3,1,NULL,NULL,strict_14_with_grace_period,"85 %",Active,mobile,paypal,0
+107794,10189,unknown,Bronx,"New York City","Entire Home/Apt",NULL,219.63,11,47,2.89,254,40.749008,-73.939903,2025-07-08,2016-02-16,5,NULL,0,"2.5 baths",6,NULL,flexible,100%,available,Desktop,Card,0
+110802,9517,Olivia,"Staten Island","New York City","Shared Room",apartment,193.72,26,35,4.12,311,40.642988,-73.901282,2020-11-19,2021-07-23,4.55,5,5,"3 baths",NULL,True,strict_14_with_grace_period,95%,NULL,Desktop,card,0
+103932,9913,"John Smith",Bronx,"New York City","Private Room",Apartment,269.47,3,36,2.55,170,40.762712,-74.101904,2020-04-09,NULL,4.21,-1,2,"2 baths",6,False,moderate,90%,Active,NULL,card,0
+102352,9934,David,"Staten Island","New York City","Shared Room",Condo,71.31,25,51,1.61,74,40.643667,-73.979026,2025-05-16,2015-11-15,4.17,-1,-1,2,1,False,flexible,80,NULL,desktop,NULL,0
+103726,5460,David,Queens,"New York City","Private Room",Townhouse,53.11,22,40,1.72,152,40.689532,-74.018207,2021-01-27,2024-10-29,5,-1,1,"1.5 bath",8,F,flexible,80,NULL,mobile,PayPal,0
+112121,9832,"John Smith",Manhattan,"New York City","Hotel Room",Townhouse,24.35,14,49,0.99,89,40.752494,-74.008161,2015-07-02,2024-10-31,3.86,-1,4,"1 bath",8,T,Flexible,"85 %",Active,Desktop,PayPal,0
+108263,5129,Michael,"Staten Island","New York City","Private Room",NULL,153.55,22,53,2.46,312,40.754535,-73.942282,2016-11-04,NULL,5,6,6,1,NULL,False,MODERATE,100%,active,Desktop,card,0
+119841,9694,David,Queens,"New York City","Entire Home/Apt","House ",104.18,4,35,0.49,168,40.659817,-73.921464,2018-02-18,2025-01-03,NULL,4,2,"3 baths",6,NULL,MODERATE,100%,available,Desktop,cash,0
+109625,9467,"John Smith",Bronx,"New York City","Hotel Room",Loft,78,8,36,0.64,319,40.740805,-73.926192,2024-10-02,2021-08-27,4.53,8,3,1,5,F,flexible,90%,available,Desktop,Card,0
+108785,11629,Sophia,Bronx,"New York City","Hotel Room",Condo,284.97,3,39,2.78,357,40.727346,-73.987016,2025-01-26,NULL,NULL,0,-1,NULL,3,False,MODERATE,NULL,active,tablet,NULL,0
+113107,8852,David,Brooklyn,"New York City","Hotel Room",Loft,149.16,10,34,6.5,108,40.729848,-74.030216,2017-06-15,2015-12-31,4.8,-1,3,"1.5 bath",NULL,f,strict,90%,NULL,desktop,paypal,0
+116789,11250,Sophia,Manhattan,"New York City","Shared Room",apartment,147.94,1,47,5.67,361,40.739049,-73.940197,2020-08-24,2015-07-07,3.57,2,5,"2.5 baths",5,NULL,flexible,100%,Active,NULL,PayPal,0
+108424,9825,Michael,Brooklyn,"New York City","Private Room",House,73.86,10,50,1.49,1,40.673308,-73.875043,2019-07-05,2019-01-03,5,5,-1,"1 bath",NULL,False,flexible,95%,AVAILABLE,NULL,paypal,0
+110313,11160,unknown,Bronx,"New York City","Shared Room",Condo,247.4,18,42,0.82,322,40.760765,-73.942474,2020-03-20,2015-11-10,3.74,3,NULL,NULL,8,False,Flexible,90%,available,tablet,PayPal,0
+110091,9754,unknown,"Staten Island","New York City","Private Room",NULL,176.9,9,38,0.87,132,40.611054,-73.956932,2021-12-18,2025-05-18,3.67,10,3,"1.5 bath",4,NULL,MODERATE,NULL,NULL,tablet,NULL,0
+118099,11342,David,Brooklyn,"New York City","Hotel Room","Guest suite",196.46,14,44,0.85,294,40.705542,-73.865396,2017-04-16,2023-04-15,5,4,1,"2 baths",3,F,flexible,NULL,available,tablet,card,0
+104157,11575,Emma,Manhattan,"New York City","Private Room",Loft,151.79,11,51,0.15,261,40.756144,-73.980768,2017-10-28,2015-06-22,3.92,2,4,"1 bath",5,F,flexible,80,active,desktop,paypal,0
+109878,10025,Sophia,Bronx,"New York City","Hotel Room",Apartment,89.44,10,48,3.14,250,40.722234,-73.932949,2022-04-05,2017-10-08,3.32,5,3,1,8,False,strict,"85 %",active,Mobile,paypal,0
+110598,7898,David,Manhattan,"New York City","Private Room",Townhouse,101.91,3650,38,4.13,311,40.776648,-73.903159,2024-01-09,2018-02-05,3.55,0,0,1.5,4,f,strict,"85 %",available,Desktop,PayPal,0
+116549,9890,"John Smith","Staten Island","New York City","Private Room",Apartment,889.97,29,46,NULL,176,40.8519,-73.952231,2022-10-24,2021-10-06,4.8,NULL,0,"3 baths",12,F,strict_14_with_grace_period,NULL,booked,Desktop,NULL,0
+108890,10803,"John Smith",Manhattan,"New York City","Private Room","Guest suite",105.33,5,47,NULL,215,40.729439,-73.945933,2023-10-18,2025-01-03,4.26,5,NULL,"2 baths",NULL,t,strict_14_with_grace_period,NULL,booked,mobile,cash,0
+108467,11032,"John Smith",Brooklyn,"New York City","Private Room",Apartment,59.81,20,40,1.28,33,40.722585,-73.996976,2020-01-12,2023-05-05,4.69,-1,1,"2.5 baths",NULL,t,strict_14_with_grace_period,80,booked,mobile,PayPal,0
+118471,8713,Olivia,Queens,"New York City","Shared Room",Townhouse,147.2,19,49,2.55,159,40.784793,-74.029684,2019-03-09,2024-02-10,4.12,3,0,1,1,True,strict_14_with_grace_period,100%,active,Desktop,cash,0
+113584,10741,"John Smith",Bronx,"New York City","Hotel Room","Guest suite",68.46,21,61,3.59,14,40.706394,-73.947255,2019-01-26,2022-01-14,NULL,10,3,"1.5 bath",NULL,False,flexible,"85 %",AVAILABLE,mobile,Card,0
+117513,11209,Michael,Brooklyn,"New York City","Private Room",NULL,100.42,12,54,0.44,220,40.682885,-73.944999,2015-05-21,2020-02-26,5,NULL,4,"1 bath",12,True,moderate,80,AVAILABLE,Mobile,NULL,0
+107592,9131,unknown,"Staten Island","New York City","Entire Home/Apt",House,69.13,25,51,NULL,158,40.736191,-73.913525,2017-06-01,2019-02-17,4.52,10,2,"2 baths",NULL,f,strict,"85 %",AVAILABLE,Desktop,PayPal,0
+118898,7312,Emma,Manhattan,"New York City","Private Room",NULL,249.39,90,48,1.69,262,40.692162,-73.994377,2024-11-23,NULL,4.05,5,2,"2 baths",6,False,flexible,90%,NULL,NULL,NULL,0
+113631,5478,"John Smith",Bronx,"New York City","Hotel Room","Guest suite",191.72,9,44,1.46,214,40.683302,-73.942755,2025-05-15,2019-01-26,3.97,1,NULL,"2 baths",6,False,flexible,90%,NULL,Desktop,PayPal,0
+102362,10569,"John Smith","Staten Island","New York City","Hotel Room",House,134.51,26,53,2.62,355,40.771964,-74.035043,2017-03-21,2020-09-14,4.71,8,4,NULL,6,F,strict_14_with_grace_period,"85 %",available,Desktop,NULL,0
+108654,7727,Emma,Manhattan,"New York City","Private Room",Loft,41.35,6,44,1.65,327,40.581326,-74.035911,2016-12-05,2023-12-16,4.02,7,-1,1.5,NULL,NULL,strict,"85 %",available,desktop,paypal,0
+113577,8752,Emma,Manhattan,"New York City","Private Room",apartment,192.46,21,38,0.2,282,40.642057,-74.028942,2019-07-20,2017-03-02,NULL,6,-1,"3 baths",5,F,moderate,"85 %",Active,mobile,Card,0
+115156,6037,Olivia,Manhattan,"New York City","Private Room",Condo,267.97,27,51,2.84,260,40.67111,-73.999023,2015-03-25,2015-06-15,4.48,1,0,"1.5 bath",3,T,Flexible,90%,Active,mobile,PayPal,0
+108175,10078,Sophia,"Staten Island","New York City","Entire Home/Apt",House,180.13,60,32,2.2,329,40.734526,-74.059784,2024-10-04,2015-07-07,4.72,-1,2,"2.5 baths",4,F,strict_14_with_grace_period,90%,available,Desktop,Card,0
+111947,6726,Emma,Brooklyn,"New York City","Hotel Room","Guest suite",253.23,27,42,2.37,68,40.623278,-74.024131,2024-06-18,2017-03-31,4.35,4,4,2,3,F,moderate,90%,active,Mobile,Card,0
+117635,8930,unknown,"Staten Island","New York City","Private Room","Guest suite",193.18,22,47,0.17,281,40.768513,-74.041931,2024-01-29,2021-09-10,4.81,6,NULL,"1 bath",3,T,strict,90%,Active,desktop,Card,0
+102857,5073,David,Manhattan,"New York City","Private Room",Townhouse,89.55,1,56,0.79,261,40.670676,-73.969617,2016-07-21,2017-03-25,4.47,-1,3,"2 baths",10,False,MODERATE,NULL,Active,Desktop,paypal,0
+103624,6284,unknown,"Staten Island","New York City","Shared Room",Apartment,185.07,26,42,NULL,133,40.700754,-73.92773,2019-05-25,2019-11-15,3.71,8,NULL,"1.5 bath",1,T,strict,NULL,booked,Mobile,NULL,0
+110291,6315,Sophia,Manhattan,"New York City","Shared Room",NULL,103.6,28,36,5.1,27,40.733276,-73.96938,2024-12-21,2020-07-12,5,4,3,NULL,6,t,moderate,90%,active,Desktop,NULL,0
+102387,5576,Sophia,"Staten Island","New York City","Entire Home/Apt",Townhouse,523.59,3,42,3.29,63,40.716473,-73.905713,2015-06-04,2024-05-28,4.91,3,2,"3 baths",8,t,Flexible,"85 %",NULL,tablet,card,0
+105632,5732,Olivia,Queens,"New York City","Entire Home/Apt",apartment,143.74,7,59,1.11,351,40.685273,-73.990843,2016-05-30,NULL,4.3,1,6,"1 bath",5,T,moderate,NULL,Active,Desktop,paypal,0
+107752,10619,Olivia,Brooklyn,"New York City","Entire Home/Apt",apartment,122.14,180,48,3.84,246,40.679791,-73.90902,2015-08-30,2020-09-01,4.14,8,3,"2 baths",8,NULL,MODERATE,90%,available,Mobile,NULL,0
+103129,6312,David,"Staten Island","New York City","Private Room",Condo,90.11,180,50,0.66,235,40.7357,-73.872842,2019-03-16,2017-06-27,4.41,4,0,NULL,1,True,flexible,NULL,NULL,Desktop,NULL,0
+106154,8263,Emma,Bronx,"New York City","Private Room",Apartment,297.25,9,49,0.51,144,40.729376,-73.97537,2021-04-09,NULL,4.34,7,NULL,"1 bath",10,NULL,flexible,NULL,booked,desktop,paypal,0
+104446,10896,Emma,Brooklyn,"New York City","Shared Room",Apartment,10,3650,48,0.23,361,40.666343,-73.930867,2018-06-03,2024-06-17,5,5,NULL,"1 bath",1,f,strict,"85 %",AVAILABLE,Mobile,card,0
+115739,8739,Michael,Brooklyn,"New York City","Entire Home/Apt",NULL,257.87,23,59,1.43,326,40.698383,-73.886408,2015-04-20,2021-07-24,4.42,-1,6,1.5,6,False,MODERATE,NULL,booked,tablet,cash,0
+106830,7852,David,Bronx,"New York City","Shared Room",apartment,335.54,24,66,4.47,61,40.724208,-73.907084,2017-09-08,2018-02-11,4.61,7,6,2,NULL,F,Flexible,90%,booked,mobile,NULL,0
+108893,11822,"John Smith","Staten Island","New York City","Private Room",Apartment,247.81,1000,42,2.4,138,40.72335,-73.977754,2019-07-25,2017-07-05,3.8,10,6,"1 bath",2,f,MODERATE,"85 %",Active,mobile,Card,0
+113294,5592,Michael,Brooklyn,"New York City","Shared Room","Guest suite",651.68,21,53,3.29,100,40.764149,-74.009141,2015-09-09,2021-08-26,4.2,6,5,NULL,1,NULL,MODERATE,"85 %",AVAILABLE,NULL,cash,0
+103827,6300,Olivia,Queens,"New York City","Private Room",House,185.18,1000,51,2.3,346,40.729389,-74.0076,2022-11-20,2016-05-06,4.81,8,0,"2.5 baths",NULL,False,flexible,"85 %",AVAILABLE,NULL,cash,0
+110329,7738,Olivia,Bronx,"New York City","Hotel Room","House ",252.49,19,50,NULL,112,40.719242,-73.995877,2024-09-03,2018-09-04,4.64,-1,3,"1 bath",2,NULL,strict_14_with_grace_period,95%,available,desktop,card,0
+115335,5645,David,"Staten Island","New York City","Entire Home/Apt","Guest suite",153.38,3650,43,2.48,57,40.677144,-74.033472,2021-09-14,2019-09-02,4.89,7,1,1.5,5,f,Flexible,90%,available,tablet,PayPal,0
+100961,9543,"John Smith",Manhattan,"New York City","Private Room",NULL,114.9,28,41,0.6,308,40.554044,-73.973414,2025-02-25,2018-07-19,4.41,7,5,"1 bath",8,NULL,strict,80,NULL,NULL,NULL,0
+104833,7788,Michael,"Staten Island","New York City","Private Room",apartment,174.09,16,47,1.88,91,40.726894,-73.953236,2023-04-07,2021-09-02,4.01,3,5,"1.5 bath",10,f,strict_14_with_grace_period,80,Active,mobile,PayPal,0
+119749,9623,Olivia,Manhattan,"New York City","Private Room",NULL,289.78,30,39,NULL,70,40.712984,-73.842669,2017-09-23,2020-04-19,3.94,NULL,4,"1 bath",8,F,MODERATE,NULL,active,Mobile,NULL,0
+105084,6152,Sophia,"Staten Island","New York City","Entire Home/Apt",apartment,129.83,26,42,0.96,32,40.709987,-73.913324,2023-02-12,NULL,4.17,2,4,NULL,NULL,t,strict_14_with_grace_period,"85 %",booked,tablet,Card,0
+119710,10898,Michael,Manhattan,"New York City","Private Room",Condo,163.47,1,39,2.71,92,40.711767,-74.006391,2024-02-10,NULL,3.19,7,3,1,8,NULL,moderate,90%,NULL,NULL,cash,0
+119024,6084,David,Bronx,"New York City","Hotel Room",Apartment,115.66,60,41,3.14,286,40.78295,-74.00599,2021-07-18,2015-12-07,3.99,5,-1,"1 bath",6,False,flexible,90%,Active,mobile,cash,0
+110125,5251,Olivia,Manhattan,"New York City","Private Room",Townhouse,133.38,90,40,4.83,163,40.734491,-73.943002,2023-12-01,2022-05-03,3.59,7,3,1,6,t,strict,95%,active,Mobile,card,0
+119639,8412,Michael,Brooklyn,"New York City","Hotel Room","House ",393.23,19,53,1.15,17,40.752526,-73.877879,2019-09-11,2020-07-27,4.86,10,1,1.5,1,F,strict,90%,NULL,desktop,cash,0
+102302,10632,David,"Staten Island","New York City","Hotel Room",Apartment,215.05,3650,47,1.43,54,40.698924,-73.971006,2021-09-23,2022-12-13,4.62,6,3,"1 bath",6,F,MODERATE,"85 %",booked,mobile,paypal,0
+108961,5927,Emma,Brooklyn,"New York City","Private Room","Guest suite",102.85,7,43,1.11,328,40.616155,-73.972004,2017-12-11,2022-01-21,4.54,5,3,"1.5 bath",NULL,NULL,Flexible,"85 %",active,tablet,Card,0
+104752,11416,Michael,Bronx,"New York City","Entire Home/Apt",Townhouse,276.89,60,46,0.7,106,40.728591,-74.049417,2016-07-30,2021-03-20,4.15,5,4,"1 bath",NULL,F,strict_14_with_grace_period,"85 %",NULL,mobile,NULL,0
+101528,10006,Olivia,Manhattan,"New York City","Private Room",Condo,112.37,6,33,5.35,289,40.853775,-74.020076,2023-04-28,2016-06-25,4.51,8,NULL,2,2,True,moderate,90%,AVAILABLE,NULL,paypal,0
+101863,11008,Sophia,Queens,"New York City","Hotel Room","House ",98.12,10,55,1.45,77,40.700351,-74.056764,2020-04-13,2016-06-27,4.07,8,6,1.5,6,f,moderate,80,Active,desktop,card,0
+111302,11606,David,Brooklyn,"New York City","Hotel Room",House,287.3,3,44,0.84,276,40.669086,-73.942312,2017-09-16,2024-12-11,4.85,0,4,1.5,1,NULL,moderate,95%,AVAILABLE,NULL,paypal,0
+104697,6593,Emma,Manhattan,"New York City","Entire Home/Apt",NULL,172.99,180,55,2.07,161,40.64724,-73.972303,2018-10-20,2025-07-26,4.29,4,-1,2,NULL,f,flexible,100%,available,NULL,NULL,0
+100352,10981,Emma,Queens,"New York City","Private Room",apartment,117.74,3650,46,0.39,99,40.727959,-74.063384,2019-12-06,2024-04-03,3.54,3,3,"1.5 bath",NULL,NULL,moderate,80,booked,NULL,PayPal,0
+119052,9106,David,Queens,"New York City","Shared Room","Guest suite",477.39,21,28,2.73,283,40.713371,-73.957418,2021-05-17,2015-11-26,4.38,3,3,1.5,3,True,strict,"85 %",NULL,Desktop,cash,0
+116190,10252,Olivia,Brooklyn,"New York City","Private Room",Townhouse,69.3,10,50,4.33,356,40.722502,-73.980131,2024-05-22,2022-10-22,4.46,5,0,1,5,t,MODERATE,"85 %",available,Mobile,paypal,0
+116560,10517,Emma,"Staten Island","New York City","Private Room",Townhouse,238.21,3,44,2.84,338,40.716062,-73.992778,2019-02-26,2017-05-16,3.64,3,3,"3 baths",NULL,False,moderate,100%,active,Desktop,card,0
+113461,10993,Emma,Manhattan,"New York City","Entire Home/Apt",apartment,159.28,22,45,5.07,209,40.641482,-73.975655,2015-10-20,2020-12-15,5,4,NULL,1.5,10,F,Flexible,"85 %",NULL,desktop,Card,0
+107909,11359,Sophia,Brooklyn,"New York City","Private Room","Guest suite",103.74,22,49,0.56,246,40.669932,-73.844469,2019-11-29,NULL,4.11,7,-1,NULL,6,F,strict_14_with_grace_period,95%,Active,desktop,PayPal,0
+100475,9496,"John Smith","Staten Island","New York City","Entire Home/Apt",Condo,231.68,60,52,2.56,349,40.692501,-73.956763,2021-06-04,NULL,4.72,1,6,2,5,False,Flexible,90%,Active,desktop,card,0
+108940,10290,"John Smith",Manhattan,"New York City","Hotel Room","Guest suite",152.81,25,52,1.49,264,40.687118,-73.963405,2022-07-23,NULL,NULL,6,0,1.5,2,False,strict_14_with_grace_period,100%,booked,NULL,PayPal,0
+105663,11240,Sophia,Brooklyn,"New York City","Shared Room",Loft,167.03,6,49,1.23,5,40.729532,-73.960961,2022-05-21,2018-05-25,4.58,3,2,2,6,NULL,Flexible,100%,booked,NULL,paypal,0
+112900,9181,Emma,Brooklyn,"New York City","Shared Room",Loft,53.66,60,37,2.85,217,40.753308,-73.987916,2019-04-17,2018-12-25,4.59,1,-1,"2 baths",NULL,NULL,strict,100%,NULL,desktop,card,0
+100813,10779,unknown,"Staten Island","New York City","Private Room","Guest suite",123.17,8,39,0.41,329,40.785505,-73.88834,2024-01-27,2017-06-16,3.86,6,2,"3 baths",5,True,moderate,90%,active,NULL,card,0
+118508,7165,Emma,Queens,"New York City","Private Room","Guest suite",203.09,90,55,0.58,224,40.78224,-73.88044,2022-07-27,2021-09-18,3.97,5,5,"1 bath",NULL,NULL,Flexible,95%,available,desktop,card,0
+114000,5823,Michael,Manhattan,"New York City","Shared Room",Townhouse,186.61,8,40,0.55,149,40.735704,-74.014367,2023-01-27,2017-12-18,4.22,5,0,2,1,F,MODERATE,"85 %",AVAILABLE,desktop,PayPal,0
+115830,7597,unknown,Manhattan,"New York City","Private Room",House,84.52,12,46,6.16,254,40.698099,-74.029683,2022-06-15,2024-01-05,4.13,3,4,NULL,12,False,Flexible,100%,NULL,Desktop,card,0
+109996,11842,Sophia,Bronx,"New York City","Hotel Room",House,40.29,13,52,3.9,304,40.655145,-73.914057,2022-06-02,2023-10-21,4.51,1,4,1.5,2,F,flexible,95%,available,mobile,card,0
+111569,7966,Sophia,"Staten Island","New York City","Entire Home/Apt","Guest suite",179.05,180,48,1.09,42,40.727357,-74.038461,2018-10-01,2015-11-22,4.81,8,3,"2.5 baths",1,T,strict_14_with_grace_period,NULL,Active,mobile,Card,0
+118753,10707,unknown,Bronx,"New York City","Hotel Room",Townhouse,181.13,22,44,0.85,244,40.777968,-74.008721,2016-05-13,2017-03-23,3.79,7,0,"1.5 bath",NULL,t,flexible,"85 %",NULL,Mobile,PayPal,0
+113593,7077,unknown,"Staten Island","New York City","Private Room",House,247.05,20,51,6.19,113,40.710471,-73.934482,2021-08-08,2020-10-15,3.92,0,NULL,"2 baths",6,NULL,strict_14_with_grace_period,95%,AVAILABLE,desktop,cash,0
+113912,11249,Emma,"Staten Island","New York City","Entire Home/Apt",Condo,36.56,12,54,0.15,313,40.751856,-73.996429,2018-05-21,NULL,4.28,5,5,1.5,6,NULL,MODERATE,90%,available,desktop,paypal,0
+114169,10302,Olivia,Brooklyn,"New York City","Shared Room",Townhouse,194.26,10,67,0.51,176,40.741668,-73.9908,2022-04-29,2025-05-14,4.91,6,1,NULL,1,False,MODERATE,95%,available,Mobile,Card,0
+110736,8691,unknown,Manhattan,"New York City","Entire Home/Apt","House ",323.25,4,35,1.43,257,40.687645,-73.857045,2020-05-04,2019-09-22,5,-1,1,2,4,False,moderate,NULL,booked,tablet,Card,0
+113889,7866,David,"Staten Island","New York City","Private Room","Guest suite",259.47,3650,51,3.22,314,40.727748,-73.95233,2021-03-15,2019-08-30,NULL,NULL,0,1,1,True,strict_14_with_grace_period,95%,booked,Mobile,Card,0
+108399,10674,"John Smith",Queens,"New York City","Entire Home/Apt","House ",76.21,60,46,3.28,300,40.721203,-73.898643,2021-02-10,2019-05-13,NULL,8,NULL,"2 baths",5,False,strict,100%,booked,mobile,card,0
+107803,7573,Olivia,Bronx,"New York City","Hotel Room",House,298.83,4,46,1.06,30,40.809491,-73.930198,2019-11-28,2023-10-17,4.61,3,0,"1 bath",1,True,moderate,80,booked,Desktop,cash,0
+114413,9924,David,Queens,"New York City","Entire Home/Apt","Guest suite",129.94,365,38,1.88,79,40.663844,-74.00653,2017-08-23,2022-10-20,4.62,5,2,1,6,f,moderate,NULL,active,Mobile,Card,0
+113986,11319,Olivia,Manhattan,"New York City","Entire Home/Apt",House,595.04,11,48,3.2,270,40.749738,-73.882183,2020-05-06,2016-09-22,3.52,1,5,1,2,True,strict_14_with_grace_period,90%,NULL,desktop,NULL,0
+114726,10914,unknown,Bronx,"New York City","Shared Room","House ",131.39,12,43,3.2,286,40.698336,-73.995565,2015-11-10,2018-10-02,3.81,-1,3,"3 baths",8,T,moderate,95%,Active,desktop,Card,0
+118875,10518,Olivia,Manhattan,"New York City","Shared Room","Guest suite",42.28,1000,42,NULL,284,40.750645,-73.795697,2023-05-02,2015-05-07,4.74,8,NULL,1.5,8,False,Flexible,95%,booked,Desktop,paypal,0
+103069,6951,unknown,Manhattan,"New York City","Private Room",Loft,50.46,7,51,1.77,214,40.665395,-74.029532,2020-06-22,2024-04-11,3.73,0,4,1.5,10,T,MODERATE,95%,available,tablet,cash,0
+106818,8627,Michael,Manhattan,"New York City","Shared Room",Loft,81.74,17,47,0.28,237,40.770406,-73.907778,2021-04-24,2020-07-12,4.38,1,-1,1,3,T,MODERATE,NULL,AVAILABLE,Mobile,PayPal,0
+109241,9690,unknown,Manhattan,"New York City","Entire Home/Apt",apartment,244.09,20,47,0.35,91,40.854313,-73.964608,2023-02-05,2021-06-16,4.1,1,6,NULL,6,T,strict,95%,booked,tablet,NULL,0
+105381,5445,Olivia,"Staten Island","New York City","Private Room",Apartment,211.11,4,46,2.72,170,40.701853,-73.96507,2017-02-18,2025-06-02,NULL,1,4,"1 bath",1,t,moderate,NULL,AVAILABLE,desktop,PayPal,0
+109755,9211,Sophia,"Staten Island","New York City","Private Room",Townhouse,51.78,25,37,2.12,197,40.737016,-74.165709,2023-04-11,2021-05-04,3.89,5,4,1,3,F,Flexible,95%,NULL,mobile,NULL,0
+105107,7387,Olivia,"Staten Island","New York City","Shared Room",Apartment,107,90,44,4.04,307,40.783803,-73.958609,2022-03-29,2023-05-05,4.7,0,NULL,"2.5 baths",3,T,MODERATE,80,booked,Desktop,Card,0
+118581,9113,"John Smith","Staten Island","New York City","Private Room",Townhouse,40.94,1,44,3.39,237,40.683588,-74.023563,2023-06-04,2016-05-18,5,3,0,"1.5 bath",4,True,Flexible,95%,Active,desktop,NULL,0
+106921,7489,Emma,Manhattan,"New York City","Entire Home/Apt","Guest suite",332.76,17,56,4.66,236,40.663927,-73.927692,2021-06-04,2015-11-20,3.88,-1,0,"1 bath",6,t,MODERATE,100%,booked,Desktop,NULL,0
+106443,11933,Olivia,Queens,"New York City","Private Room",Condo,206.7,365,50,NULL,129,40.688757,-73.948204,2018-03-16,2018-09-14,4.85,3,4,1.5,1,NULL,strict_14_with_grace_period,90%,AVAILABLE,Desktop,Card,0
+104978,8110,Sophia,Brooklyn,"New York City","Entire Home/Apt",House,108.11,5,49,0.14,28,40.902597,-73.961582,2019-02-10,2021-09-22,4.8,4,2,2,8,t,flexible,95%,AVAILABLE,NULL,paypal,0
+113293,11772,Olivia,"Staten Island","New York City","Hotel Room",Apartment,107.92,3650,52,3.91,228,40.768809,-74.023133,2019-04-22,2024-09-08,4.01,5,6,"2.5 baths",6,F,moderate,95%,AVAILABLE,mobile,card,0
+118374,10797,unknown,"Staten Island","New York City","Private Room",Townhouse,182.7,1000,36,NULL,148,40.698972,-73.95913,2020-10-03,2019-08-22,4.27,7,NULL,"1 bath",4,F,Flexible,100%,Active,Mobile,paypal,0
+119498,9477,"John Smith",Bronx,"New York City","Private Room",apartment,60.17,19,41,1.05,296,40.731768,-74.029643,2023-01-13,2018-10-27,4.2,2,5,1.5,NULL,False,strict,100%,Active,Mobile,NULL,0
+107342,10664,Sophia,Manhattan,"New York City","Private Room",Condo,434.02,24,36,0.58,101,40.729923,-73.929177,2019-04-16,2024-03-01,4.93,10,NULL,"2 baths",4,False,moderate,90%,AVAILABLE,Desktop,PayPal,0
+115750,5143,Michael,Manhattan,"New York City","Entire Home/Apt",Apartment,41.52,90,41,3.81,210,40.763756,-74.003035,2024-02-11,2016-07-01,3.89,2,2,"3 baths",6,True,strict_14_with_grace_period,NULL,booked,NULL,cash,0
+106299,7464,"John Smith",Bronx,"New York City","Hotel Room",House,99.84,9,42,2.36,235,40.755837,-74.049986,2025-01-01,2022-03-10,3.73,5,NULL,"1 bath",NULL,T,moderate,90%,NULL,mobile,NULL,0
+104337,7236,Michael,Queens,"New York City","Private Room",Townhouse,69.47,3650,43,0.16,187,40.76381,-73.931154,2021-09-05,2015-10-31,4.52,5,NULL,"2 baths",8,True,moderate,80,active,Mobile,Card,0
+112810,9563,unknown,"Staten Island","New York City","Hotel Room",Apartment,150.8,365,38,4.3,170,40.758095,-73.957625,2017-03-26,2020-02-13,3.82,3,5,"2 baths",1,f,MODERATE,NULL,available,Mobile,Card,0
+115428,9961,Sophia,Queens,"New York City","Hotel Room","House ",61.53,20,39,1.78,228,40.808259,-74.00053,2019-12-01,2020-09-17,3.64,1,-1,2,5,False,flexible,"85 %",AVAILABLE,Desktop,paypal,0
+116433,9071,unknown,Manhattan,"New York City","Private Room",Townhouse,80,30,59,2.18,143,40.817129,-73.951589,2016-11-07,2017-03-11,5,0,-1,"1 bath",5,t,strict_14_with_grace_period,80,AVAILABLE,desktop,cash,0
+109977,8896,"John Smith",Brooklyn,"New York City","Private Room",Condo,310.88,9,45,0.47,256,40.679838,-73.933527,2018-06-10,NULL,5,4,2,"1.5 bath",12,F,moderate,80,Active,Desktop,PayPal,0
+100323,9549,unknown,Queens,"New York City","Private Room","Guest suite",114.59,3,39,2.02,16,40.546854,-73.973472,2016-10-27,2019-08-06,4.75,-1,3,"3 baths",2,NULL,MODERATE,100%,Active,mobile,card,0
+118060,6247,"John Smith",Bronx,"New York City","Private Room",apartment,215.55,365,42,2.14,281,40.805722,-73.913256,2023-05-18,2017-03-17,4.14,4,-1,"2 baths",2,T,strict,100%,booked,Desktop,Card,0
+116454,10477,unknown,Brooklyn,"New York City","Shared Room",Apartment,66.9,29,32,1.24,87,40.806556,-73.957347,2015-02-11,2017-03-05,4.48,8,2,"2.5 baths",2,F,strict,80,available,tablet,paypal,0
+100384,6046,unknown,Brooklyn,"New York City","Entire Home/Apt",apartment,80.38,1,53,1.92,329,40.76852,-73.99141,2024-06-15,2020-04-29,4.45,6,4,"2.5 baths",2,F,moderate,"85 %",booked,Mobile,Card,0
+110366,7836,Emma,"Staten Island","New York City","Entire Home/Apt",Condo,118.31,10,42,1.45,243,40.524911,-73.948706,2024-05-09,2015-12-06,4.77,4,1,1,6,T,strict_14_with_grace_period,100%,booked,NULL,Card,0
+112244,11944,Olivia,Brooklyn,"New York City","Entire Home/Apt",Loft,250.92,90,40,0.68,199,40.643831,-73.941384,2023-05-22,2020-06-21,4.55,10,3,"2 baths",3,NULL,Flexible,80,available,mobile,paypal,0
+116582,6455,Michael,"Staten Island","New York City","Shared Room","House ",339.24,14,54,NULL,305,40.791071,-73.929939,2015-05-12,2015-01-25,4.27,10,0,"3 baths",1,F,strict,100%,Active,Desktop,PayPal,0
+100439,11710,David,Manhattan,"New York City","Private Room",Loft,71,25,36,1.33,210,40.707597,-74.024288,2019-08-31,2020-03-02,4.55,10,1,1.5,10,True,MODERATE,"85 %",AVAILABLE,Desktop,paypal,0
+111998,9472,Sophia,Manhattan,"New York City","Hotel Room",Apartment,670.1,9,41,1.68,211,40.719881,-73.911936,2019-07-28,2021-02-13,4.13,8,-1,2,8,T,moderate,80,NULL,tablet,paypal,0
+110213,9379,unknown,Queens,"New York City","Entire Home/Apt",Condo,441.52,90,44,2.17,351,40.757348,-73.878965,2023-03-04,2017-08-30,4.51,8,NULL,"3 baths",12,T,strict,NULL,booked,tablet,Card,0
+108226,10800,Emma,"Staten Island","New York City","Entire Home/Apt",House,224.93,27,49,7.01,35,40.810373,-73.946217,2024-03-31,2022-05-21,4.61,8,3,"2 baths",NULL,t,flexible,100%,available,Mobile,NULL,0
+117195,11612,Sophia,Brooklyn,"New York City","Private Room",NULL,95.22,2,45,2.83,40,40.714646,-74.002384,2021-12-02,2020-06-16,5,6,1,"1 bath",8,T,moderate,"85 %",active,NULL,paypal,0
+104389,8702,Sophia,Brooklyn,"New York City","Shared Room",Apartment,94.22,11,45,2.67,331,40.753345,-73.920087,2025-07-26,2022-07-25,4.09,7,-1,"1.5 bath",5,NULL,strict_14_with_grace_period,90%,AVAILABLE,NULL,paypal,0
+112481,11412,David,Manhattan,"New York City","Entire Home/Apt",Townhouse,555.38,3650,42,2.85,175,40.685338,-73.823167,2021-01-03,2022-04-18,4.42,2,6,"2.5 baths",4,T,MODERATE,95%,available,Mobile,cash,0
+107500,7057,Sophia,Bronx,"New York City","Entire Home/Apt",Loft,216.36,5,46,0.74,224,40.787491,-74.039258,2020-03-01,2020-03-18,4.17,-1,3,1,2,t,strict,95%,booked,desktop,cash,0
+110544,10331,Sophia,Bronx,"New York City","Hotel Room",Condo,410.82,23,46,1.3,79,40.768282,-73.919113,2015-11-27,2023-05-15,4.33,6,-1,"2 baths",4,T,strict_14_with_grace_period,100%,AVAILABLE,tablet,card,0
+113580,10262,unknown,Queens,"New York City","Private Room",Loft,72.8,3650,40,0.56,343,40.718317,-73.985705,2018-11-21,2024-12-25,4.79,0,4,"2 baths",1,NULL,moderate,NULL,active,Mobile,cash,0
+117817,10156,"John Smith","Staten Island","New York City","Private Room",NULL,266.73,28,41,2.36,338,40.750241,-74.059291,2018-08-07,2021-12-13,4.17,3,4,"2.5 baths",10,t,moderate,"85 %",Active,Mobile,cash,0
+114760,9156,Emma,Bronx,"New York City","Entire Home/Apt",NULL,72.34,5,44,0.69,157,40.749404,-73.958873,2022-10-16,2016-02-11,4.36,1,2,2,8,NULL,strict,95%,NULL,desktop,paypal,0
+101693,11668,Michael,Queens,"New York City","Private Room",Condo,101.8,3650,46,1.23,203,40.763757,-73.895356,2020-06-01,2019-01-17,4.59,NULL,4,1.5,8,False,strict_14_with_grace_period,NULL,booked,Mobile,NULL,0
+103283,7631,Emma,Brooklyn,"New York City","Entire Home/Apt",Condo,143,23,46,1.24,104,40.73925,-73.948331,2024-03-05,2020-01-11,3.56,NULL,1,"1 bath",NULL,NULL,Flexible,80,AVAILABLE,tablet,card,0
+102335,7341,Sophia,Queens,"New York City","Entire Home/Apt","Guest suite",62,4,51,0.3,183,40.682767,-74.054279,2019-10-27,2018-09-25,5,2,2,"2.5 baths",1,F,moderate,NULL,NULL,tablet,NULL,0
+118643,11954,Emma,Bronx,"New York City","Hotel Room",Loft,68.26,1,44,1.7,110,40.720362,-73.86975,2022-02-02,2023-11-21,4.49,3,4,NULL,2,False,MODERATE,"85 %",Active,Mobile,cash,0
+111683,8459,Emma,Queens,"New York City","Entire Home/Apt",House,71.19,18,42,0.92,77,40.673853,-73.864137,2015-07-03,2023-05-20,3.78,3,NULL,"1 bath",4,False,Flexible,80,AVAILABLE,tablet,cash,0
+115044,10139,Emma,Queens,"New York City","Shared Room",NULL,196.13,15,43,1.46,45,40.605925,-73.854331,2018-08-10,NULL,3.92,8,2,1,8,True,Flexible,"85 %",booked,mobile,cash,0
+118671,6362,Sophia,Bronx,"New York City","Private Room",Loft,324.25,12,54,2.13,125,40.789134,-74.0189,2020-12-04,2020-04-23,4.95,1,-1,1,4,T,flexible,90%,Active,tablet,cash,0
+115815,9960,Emma,Brooklyn,"New York City","Entire Home/Apt","Guest suite",123.08,22,42,3.71,145,40.721497,-73.995284,2024-08-30,2016-09-10,4.63,10,6,1,1,t,strict_14_with_grace_period,100%,Active,tablet,NULL,0
+106212,5911,Olivia,Bronx,"New York City","Private Room","Guest suite",204.46,22,42,3.41,352,40.823377,-73.975584,2017-11-16,2025-04-20,3.55,6,0,"3 baths",6,f,Flexible,"85 %",booked,Mobile,cash,0
+107093,11639,unknown,Manhattan,"New York City","Shared Room",Loft,294.92,21,45,0.55,179,40.728443,-73.935751,2018-01-16,2024-03-09,4.31,10,-1,"2.5 baths",NULL,F,flexible,"85 %",booked,mobile,card,0
+118037,9867,Emma,Queens,"New York City","Private Room",Townhouse,165.27,15,49,0.92,329,40.700486,-73.885699,2017-12-06,2017-01-28,5,0,-1,2,12,t,strict,NULL,NULL,Mobile,card,0
+101283,8111,Michael,"Staten Island","New York City","Private Room",Condo,87.33,23,45,1.93,351,40.751335,-73.971856,2015-02-05,2023-01-12,NULL,10,3,"1.5 bath",4,F,strict,NULL,available,desktop,cash,0
+119585,5270,Sophia,"Staten Island","New York City","Private Room",Condo,146.19,12,47,1.24,340,40.720571,-73.968409,2016-01-18,2021-12-29,5,0,-1,NULL,5,False,strict_14_with_grace_period,NULL,booked,Desktop,NULL,0
+115355,9879,Sophia,Brooklyn,"New York City","Private Room","Guest suite",78.42,14,47,0.31,349,40.761637,-74.022274,2019-11-03,2020-08-05,4.05,4,0,"2 baths",12,t,flexible,NULL,booked,mobile,PayPal,0
+117916,5510,Olivia,"Staten Island","New York City","Entire Home/Apt",apartment,86.37,9,55,2.1,315,40.710935,-73.945117,2025-02-10,2024-07-21,4.95,3,1,1.5,2,F,strict_14_with_grace_period,"85 %",NULL,Mobile,NULL,0
+116739,5393,David,Bronx,"New York City","Private Room",Townhouse,79.83,1000,41,0.61,316,40.710246,-74.051524,2015-07-12,2021-02-24,3.44,4,3,"3 baths",NULL,f,strict,95%,active,Mobile,paypal,0
+105006,7709,Emma,Manhattan,"New York City","Entire Home/Apt",Condo,146.37,180,45,0.2,271,40.724761,-73.964158,2022-07-18,2015-02-17,4.79,-1,5,"3 baths",3,f,MODERATE,90%,NULL,tablet,PayPal,0
+113814,11193,unknown,Manhattan,"New York City","Private Room",Apartment,281.78,12,35,0.29,142,40.700108,-73.963804,2024-02-27,2020-12-10,4,7,0,NULL,1,True,moderate,100%,available,NULL,card,0
+119660,9593,Olivia,Manhattan,"New York City","Shared Room",Condo,157.27,5,52,1.69,197,40.740559,-73.930504,2016-07-22,2017-04-18,4.34,2,3,"1.5 bath",5,t,strict,NULL,booked,Mobile,Card,0
+101979,8330,Emma,"Staten Island","New York City","Private Room",Apartment,58,12,44,1,177,40.726793,-73.936928,2020-05-31,2019-03-22,3.91,1,6,NULL,6,f,MODERATE,NULL,NULL,mobile,card,0
+105916,5918,unknown,Bronx,"New York City","Hotel Room",Condo,144.85,18,48,1.69,195,40.699753,-74.023716,2019-07-14,2020-10-07,NULL,4,-1,1,6,t,strict,100%,Active,Mobile,NULL,0
+103172,11380,unknown,"Staten Island","New York City","Private Room",NULL,138.1,21,40,1.51,6,40.834953,-74.060307,2025-07-01,2022-06-03,4.24,6,NULL,"2 baths",6,True,MODERATE,95%,booked,Mobile,PayPal,0
+119967,5601,Sophia,Manhattan,"New York City","Entire Home/Apt",apartment,158.65,22,56,1.12,215,40.654815,-74.004615,2016-09-14,2016-08-11,4.06,10,NULL,"3 baths",8,NULL,moderate,"85 %",active,tablet,Card,0
+104352,6382,David,"Staten Island","New York City","Entire Home/Apt",House,121.65,30,47,0.3,283,40.722705,-74.021942,2021-11-08,NULL,4.28,2,3,1,10,True,Flexible,95%,available,tablet,cash,0
+112177,10874,Olivia,Queens,"New York City","Entire Home/Apt",Loft,220.62,24,49,2.41,194,40.665794,-74.048352,2018-09-25,2017-11-12,4.96,4,6,"3 baths",3,T,strict_14_with_grace_period,90%,Active,mobile,card,0
+109926,11380,Olivia,"Staten Island","New York City","Entire Home/Apt",Townhouse,646.33,5,48,1.43,192,40.692454,-73.883306,2025-02-17,2023-03-09,4.21,NULL,0,"2.5 baths",NULL,False,Flexible,"85 %",AVAILABLE,NULL,Card,0
+108060,11055,"John Smith",Queens,"New York City","Private Room",apartment,119.51,23,39,2.73,79,40.726701,-74.094031,2024-11-12,2024-01-19,3.47,0,3,2,10,f,strict,NULL,Active,Desktop,PayPal,0
+115883,10753,Sophia,Brooklyn,"New York City","Private Room",Condo,359.42,11,28,0.73,8,40.644063,-73.91733,2015-03-20,2019-06-08,3.7,5,5,1.5,10,T,strict,80,NULL,NULL,cash,0
+114203,9188,Emma,Bronx,"New York City","Private Room","Guest suite",57.21,24,37,3.22,265,40.780234,-73.951398,2018-08-10,2019-12-01,4.37,6,NULL,"3 baths",3,f,Flexible,100%,Active,Mobile,card,0
+105999,11524,unknown,"Staten Island","New York City","Entire Home/Apt",Loft,102.99,24,44,2.6,122,40.74905,-73.857525,2023-07-08,2021-10-07,4.73,5,-1,1.5,6,f,moderate,95%,active,NULL,paypal,0
+101490,6902,Michael,Queens,"New York City","Private Room","Guest suite",115.96,28,45,1.53,354,40.69288,-74.030526,2021-03-10,2024-01-07,4.64,1,5,"1.5 bath",8,False,moderate,95%,booked,mobile,Card,0
+112232,9447,Michael,Manhattan,"New York City","Entire Home/Apt",NULL,177.83,1000,47,0.55,208,40.670673,-73.996186,2017-11-30,2017-11-13,4.5,2,3,"1.5 bath",NULL,False,flexible,80,NULL,desktop,card,0
+102484,11084,unknown,Brooklyn,"New York City","Entire Home/Apt",Townhouse,90.92,28,45,3.85,160,40.738063,-73.927534,2025-03-19,2023-09-07,4.14,10,4,1,3,NULL,flexible,100%,NULL,tablet,cash,0
+105953,10954,Michael,Bronx,"New York City","Private Room",NULL,168.1,6,49,NULL,357,40.752926,-73.909549,2021-02-12,2021-05-25,3.34,2,1,"2.5 baths",8,f,strict,95%,Active,desktop,paypal,0
+104462,11756,Sophia,"Staten Island","New York City","Entire Home/Apt","House ",40.82,6,40,0.78,121,40.738509,-73.937276,2022-02-27,2022-06-11,4.2,2,3,2,5,False,flexible,80,booked,Desktop,paypal,0
+101513,8676,Olivia,Queens,"New York City","Entire Home/Apt",apartment,357.85,23,41,3,3,40.645785,-73.857068,2024-03-26,2016-02-06,4.17,-1,NULL,"1.5 bath",3,t,strict_14_with_grace_period,80,NULL,tablet,NULL,0
+103571,10417,unknown,Manhattan,"New York City","Entire Home/Apt",apartment,112.79,22,49,0.58,275,40.847749,-73.959934,2020-07-18,2021-02-21,4.26,3,6,NULL,3,T,strict_14_with_grace_period,90%,NULL,tablet,cash,0
+107376,7647,Sophia,Bronx,"New York City","Entire Home/Apt",Townhouse,150.27,28,53,2.75,116,40.71254,-74.018812,2021-04-04,2021-01-26,4.05,NULL,3,NULL,5,NULL,flexible,100%,AVAILABLE,desktop,PayPal,0
+100448,6687,Emma,"Staten Island","New York City","Private Room",NULL,75,365,49,5.59,127,40.746828,-73.92905,2016-05-19,2015-10-07,3.84,NULL,-1,"1 bath",1,T,Flexible,100%,booked,NULL,PayPal,0
+115773,5355,Olivia,Queens,"New York City","Private Room",apartment,124.21,4,55,3.22,265,40.663245,-74.043178,2015-06-22,2018-09-01,3.89,7,1,"3 baths",2,T,MODERATE,"85 %",AVAILABLE,NULL,NULL,0
+112057,8924,unknown,Bronx,"New York City","Private Room",Condo,213,12,57,3.93,108,40.724966,-74.039109,2019-07-19,2020-07-04,3.7,2,NULL,1,1,False,strict_14_with_grace_period,90%,AVAILABLE,desktop,card,0
+112139,11870,Michael,"Staten Island","New York City","Private Room","Guest suite",181.03,21,47,0.8,201,40.747097,-74.007288,2020-06-05,2023-02-17,4.08,3,3,1.5,1,t,flexible,"85 %",AVAILABLE,Mobile,Card,0
+103234,10851,David,Brooklyn,"New York City","Hotel Room","Guest suite",52.59,26,56,0.8,333,40.71448,-73.944001,2024-08-01,NULL,NULL,4,NULL,2,4,T,Flexible,"85 %",active,NULL,card,0
+104903,9558,Michael,Bronx,"New York City","Private Room","Guest suite",160.61,15,50,0.09,21,40.648359,-73.900834,2023-10-28,2022-01-28,4.55,10,NULL,2,3,F,flexible,80,active,tablet,cash,0
+104707,11505,David,Bronx,"New York City","Hotel Room",Townhouse,136,365,47,0.22,40,40.793,-73.956895,2017-07-30,2021-01-07,4,3,1,"2 baths",12,F,strict,"85 %",NULL,mobile,paypal,0
+106142,6882,Olivia,Queens,"New York City","Private Room",Condo,194.63,24,37,1.99,194,40.790571,-73.833242,2017-10-18,2020-02-27,4.25,0,4,"2 baths",NULL,t,moderate,NULL,AVAILABLE,Mobile,card,0
+119491,7804,Olivia,Manhattan,"New York City","Private Room",Townhouse,202.87,27,44,0.83,84,40.690767,-73.962012,2015-01-19,2024-10-03,4.3,10,NULL,"1 bath",3,T,Flexible,100%,available,tablet,Card,0
+119761,6683,Michael,Bronx,"New York City","Shared Room",Apartment,182.48,90,40,0.58,188,40.702599,-73.972019,2020-02-25,NULL,4.13,-1,4,1.5,4,True,Flexible,NULL,AVAILABLE,NULL,PayPal,0
+117359,6144,Olivia,Manhattan,"New York City","Entire Home/Apt",Loft,93,8,47,NULL,122,40.656308,-73.909407,2016-10-20,2016-08-23,3.81,2,NULL,NULL,1,NULL,strict_14_with_grace_period,90%,NULL,tablet,cash,0
+119425,11247,David,Bronx,"New York City","Private Room",Apartment,72.86,365,55,0.18,46,40.739923,-74.112676,2019-10-22,2023-12-19,4.19,8,5,"3 baths",5,True,flexible,100%,Active,mobile,card,0
+104206,10881,David,Bronx,"New York City","Hotel Room",Loft,35.13,28,42,0.9,2,40.765547,-73.848313,2022-04-13,2024-11-19,3.74,3,4,"3 baths",12,F,moderate,80,Active,NULL,Card,0
+114404,8622,Olivia,Brooklyn,"New York City","Private Room",House,80.59,19,54,1.18,53,40.684285,-73.940693,2015-07-27,2016-09-27,3.84,2,0,"3 baths",NULL,F,MODERATE,80,available,Mobile,card,0
+115644,7922,Sophia,Brooklyn,"New York City","Entire Home/Apt",Townhouse,127.92,1,49,0.09,344,40.748883,-73.903012,2019-06-02,2022-05-02,4.34,10,-1,"1 bath",10,T,moderate,NULL,NULL,desktop,NULL,0
+100804,10269,unknown,Brooklyn,"New York City","Shared Room",Apartment,478.7,6,41,NULL,242,40.660447,-74.010326,2022-07-21,2023-12-30,5,6,-1,"2 baths",6,False,strict,80,booked,Mobile,PayPal,0
+112805,6906,David,Queens,"New York City","Entire Home/Apt",apartment,125.32,10,36,0.44,334,40.764795,-74.005455,2019-09-08,NULL,3.97,0,1,1.5,3,T,strict,90%,AVAILABLE,Desktop,card,0
+100857,11896,unknown,Brooklyn,"New York City","Private Room",NULL,303.45,17,45,0.97,260,40.694533,-73.917654,2021-07-22,2022-01-03,4.69,10,2,1,3,F,MODERATE,100%,AVAILABLE,Mobile,Card,0
+117899,5566,unknown,Brooklyn,"New York City","Private Room",NULL,143.05,28,55,0.26,251,40.766995,-73.991572,2015-04-14,2016-04-08,4.71,-1,6,2,3,True,MODERATE,100%,NULL,NULL,paypal,0
+101088,6063,unknown,Queens,"New York City","Shared Room",Condo,57.33,13,62,NULL,129,40.646268,-73.94034,2022-09-12,2015-09-25,4.27,0,3,"3 baths",2,False,moderate,"85 %",available,Mobile,NULL,0
+103994,10233,unknown,"Staten Island","New York City","Entire Home/Apt",House,68.94,7,41,1.43,161,40.792155,-73.997883,2024-02-21,2017-12-17,4.58,6,-1,1.5,NULL,F,strict_14_with_grace_period,100%,AVAILABLE,NULL,NULL,0
+118433,5799,unknown,Brooklyn,"New York City","Private Room",Townhouse,60.17,27,42,0.61,236,40.710648,-73.863226,2015-10-13,2020-09-02,4.59,7,5,1,2,F,moderate,95%,active,Mobile,paypal,0
+105703,8472,Emma,Manhattan,"New York City","Entire Home/Apt","Guest suite",264.28,29,50,2.16,320,40.721086,-73.934479,2024-09-06,2021-05-22,4.76,0,NULL,"2.5 baths",NULL,NULL,Flexible,95%,available,NULL,cash,0
+108676,11856,Emma,Queens,"New York City","Hotel Room",House,43.84,28,55,1.98,345,40.775799,-74.054126,2018-08-25,2017-12-19,NULL,0,NULL,1,NULL,f,moderate,"85 %",NULL,NULL,card,0
+107651,6768,Michael,Manhattan,"New York City","Private Room",apartment,115.99,14,44,1.26,217,40.712443,-73.948397,2018-07-18,2022-03-25,3.8,8,NULL,2,4,t,strict_14_with_grace_period,NULL,Active,Desktop,cash,0
+119855,11230,Sophia,Bronx,"New York City","Hotel Room",Apartment,61.34,11,47,2.23,259,40.721131,-73.962883,2024-03-19,2022-12-08,4.65,8,6,"1.5 bath",NULL,True,flexible,95%,booked,Mobile,cash,0
+102572,5043,Michael,Bronx,"New York City","Private Room",Townhouse,98.3,22,51,1.61,17,40.746205,-73.882233,2024-01-13,2021-06-19,4.39,5,NULL,"1.5 bath",12,NULL,moderate,NULL,available,Desktop,paypal,0
+108724,9978,Emma,"Staten Island","New York City","Entire Home/Apt","Guest suite",107.74,23,41,2.73,251,40.709574,-73.842331,2017-12-07,2021-09-29,4.36,4,4,2,12,t,moderate,90%,available,desktop,PayPal,0
+110389,5842,Michael,Queens,"New York City","Hotel Room",apartment,144.84,15,39,0.19,293,40.67277,-73.940271,2022-11-04,NULL,4.1,1,2,"1 bath",NULL,True,strict_14_with_grace_period,95%,Active,desktop,NULL,0
+119732,8956,"John Smith",Manhattan,"New York City","Entire Home/Apt",Loft,109.95,29,40,1.43,124,40.802281,-73.978934,2018-10-20,2016-06-23,4.44,0,5,NULL,6,f,MODERATE,90%,AVAILABLE,Mobile,paypal,0
+114241,9697,Olivia,Bronx,"New York City","Private Room",Townhouse,257.86,13,48,2.55,22,40.709803,-73.980575,2024-02-06,2017-03-29,4.95,0,-1,"1 bath",10,True,strict,NULL,booked,mobile,paypal,0
+115733,9836,Emma,Queens,"New York City","Hotel Room",House,55.75,22,36,0.34,253,40.792926,-73.890682,2018-07-27,2020-09-04,3.93,10,NULL,2,4,T,flexible,95%,available,Mobile,paypal,0
+115759,8694,Michael,Bronx,"New York City","Private Room","Guest suite",110.04,4,55,1.65,199,40.606422,-73.895228,2022-11-28,NULL,4.12,3,3,2,12,T,moderate,"85 %",AVAILABLE,mobile,card,0
+119741,8175,Sophia,"Staten Island","New York City","Hotel Room",House,227.69,22,53,0.88,77,40.701241,-73.867431,2017-06-16,2021-09-16,4.31,7,2,"3 baths",8,False,strict,95%,AVAILABLE,Mobile,paypal,0
+103837,5728,David,Queens,"New York City","Entire Home/Apt",Loft,62.85,19,50,0.81,240,40.685887,-74.051136,2017-03-23,2017-08-04,4.28,NULL,3,2,12,t,moderate,100%,Active,mobile,cash,0
+100607,8547,Emma,Queens,"New York City","Entire Home/Apt","Guest suite",83.22,12,51,1.12,206,40.708301,-73.936634,2015-07-13,2015-06-23,4.05,NULL,0,NULL,3,NULL,flexible,NULL,booked,mobile,paypal,0
+117795,9027,David,Manhattan,"New York City","Shared Room","House ",318.89,8,37,3.01,159,40.675489,-74.013293,2019-03-26,2021-07-09,4.57,NULL,1,"3 baths",NULL,NULL,flexible,100%,NULL,mobile,PayPal,0
+108619,5866,Sophia,Brooklyn,"New York City","Private Room",Loft,149.35,29,45,2,297,40.678759,-74.144887,2021-03-23,2024-11-11,4.51,7,NULL,"3 baths",2,t,MODERATE,NULL,Active,desktop,card,0
+116628,8598,unknown,Bronx,"New York City","Private Room",apartment,58.47,12,52,1.25,32,40.76801,-74.003196,2024-09-22,2019-05-30,4.72,3,-1,"2 baths",5,F,strict,80,Active,NULL,cash,0
+105364,5490,Emma,"Staten Island","New York City","Shared Room",House,113.74,1,45,0.41,27,40.691479,-73.988435,2024-07-11,2019-10-31,5,3,5,"1.5 bath",NULL,False,Flexible,100%,available,desktop,cash,0
+112828,8986,Michael,Queens,"New York City","Private Room",Townhouse,159.12,26,46,0.57,314,40.783588,-73.966932,2025-03-09,2018-10-30,3.33,6,0,"1 bath",NULL,f,strict_14_with_grace_period,95%,NULL,Desktop,paypal,0
+104849,6630,Emma,Queens,"New York City","Private Room",Townhouse,114.67,25,53,2.16,28,40.734226,-73.960976,2016-04-02,2015-08-23,4.22,7,5,"1 bath",12,f,moderate,100%,Active,NULL,Card,0
+109686,11005,Olivia,"Staten Island","New York City","Shared Room",Apartment,38.12,8,32,3.57,29,40.733461,-73.825254,2020-10-21,2017-07-23,3.96,1,0,"1.5 bath",2,True,Flexible,80,active,mobile,card,0
+108569,11086,Michael,Bronx,"New York City","Private Room",apartment,66.04,22,53,NULL,278,40.651966,-73.998221,2019-11-20,2016-09-17,4.56,2,1,"1 bath",5,F,strict_14_with_grace_period,"85 %",active,NULL,cash,0
+112728,7540,Sophia,Queens,"New York City","Entire Home/Apt",apartment,317.77,16,52,3.96,233,40.627401,-73.982511,2023-08-02,2016-09-23,3.97,8,0,"3 baths",8,f,strict,100%,booked,Mobile,PayPal,0
+106329,7043,unknown,Brooklyn,"New York City","Private Room",Condo,134.07,14,55,3.04,185,40.82744,-73.827324,2022-11-05,2017-07-16,4.52,NULL,3,"2 baths",10,t,moderate,100%,available,NULL,PayPal,0
+111369,9410,unknown,"Staten Island","New York City","Private Room",apartment,350.71,90,48,6.12,215,40.690161,-73.843526,2015-12-02,2023-01-20,3.83,2,5,1,12,f,MODERATE,100%,booked,Desktop,card,0
+115083,7181,Olivia,Brooklyn,"New York City","Shared Room",House,113.13,60,44,2.08,324,40.746801,-73.909946,2021-05-17,2017-10-19,4.63,4,-1,"3 baths",1,f,strict_14_with_grace_period,NULL,booked,desktop,cash,0
+118669,6964,unknown,"Staten Island","New York City","Private Room",Loft,112.65,20,48,2.82,251,40.697218,-74.021183,2021-05-31,2015-05-10,5,3,NULL,1,12,T,MODERATE,NULL,active,tablet,Card,0
+108307,11727,Olivia,Bronx,"New York City","Entire Home/Apt",apartment,139.93,180,53,2.75,253,40.747811,-73.987406,2023-10-15,2025-01-16,4.26,7,1,2,8,False,strict,95%,Active,tablet,card,0
+100719,6157,Emma,Queens,"New York City","Hotel Room",NULL,58.82,90,48,2.08,8,40.684337,-73.849156,2025-06-15,2018-06-08,4.12,-1,4,"2.5 baths",8,t,moderate,80,AVAILABLE,Desktop,Card,0
+114810,10121,unknown,Brooklyn,"New York City","Entire Home/Apt",Loft,111.22,90,40,0.16,233,40.697897,-73.998078,2016-07-31,NULL,4.17,7,4,"1.5 bath",3,F,moderate,90%,booked,tablet,NULL,0
+118553,10895,unknown,Bronx,"New York City","Private Room",NULL,65.37,60,53,1.36,99,40.68651,-73.955437,2025-03-22,2016-10-25,3.47,6,NULL,2,4,F,flexible,90%,NULL,desktop,card,0
+115106,6750,Emma,"Staten Island","New York City","Shared Room","Guest suite",294.43,1000,50,1.45,258,40.712128,-73.961217,2025-05-03,2021-02-16,4.69,6,6,"3 baths",10,T,Flexible,100%,AVAILABLE,tablet,PayPal,0
+100128,11433,unknown,"Staten Island","New York City","Entire Home/Apt",House,137.19,9,40,0.73,207,40.756423,-73.984823,2018-01-21,2021-11-19,3.53,2,NULL,"2 baths",3,NULL,Flexible,NULL,NULL,mobile,card,0
+117123,10252,Olivia,Queens,"New York City","Entire Home/Apt",Loft,21.66,12,55,3.56,320,40.728543,-73.956573,2023-05-01,2019-05-07,3.66,5,6,1.5,4,True,MODERATE,NULL,booked,desktop,Card,0
+104171,9917,David,"Staten Island","New York City","Entire Home/Apt",apartment,209.24,27,36,1.85,232,40.751435,-73.997411,2016-07-12,2018-01-31,4.01,5,5,NULL,NULL,f,moderate,"85 %",Active,NULL,paypal,0
+113131,8360,Sophia,Queens,"New York City","Entire Home/Apt",House,201.4,3650,38,1.68,145,40.77336,-73.887474,2018-07-02,2019-07-29,4.26,10,NULL,NULL,6,False,flexible,80,available,NULL,card,0
+108942,10566,"John Smith",Manhattan,"New York City","Entire Home/Apt",apartment,249.22,2,39,2.41,120,40.757507,-73.927063,2017-08-22,2025-05-26,4.44,2,NULL,NULL,5,NULL,MODERATE,80,active,mobile,cash,0
+108727,7670,"John Smith",Queens,"New York City","Hotel Room",Townhouse,84.41,3650,40,0.46,145,40.745567,-73.968794,2020-08-05,2022-09-04,4.45,6,2,1,NULL,f,strict,90%,AVAILABLE,tablet,Card,0
+119438,6635,David,"Staten Island","New York City","Private Room",Apartment,286.87,7,44,3.12,323,40.71083,-73.950495,2019-11-01,2017-09-17,NULL,6,2,1.5,2,NULL,flexible,80,Active,tablet,paypal,0
+103464,5371,Emma,Bronx,"New York City","Entire Home/Apt","House ",175.73,11,43,2.51,39,40.609214,-74.099747,2020-10-01,2015-12-31,3.31,3,-1,"1 bath",1,f,flexible,NULL,available,Desktop,NULL,0
+107915,10969,Emma,"Staten Island","New York City","Private Room","House ",405.14,14,47,0.86,95,40.805831,-73.91615,2016-11-23,2024-11-12,4.06,10,6,1.5,2,t,moderate,"85 %",booked,desktop,card,0
+106003,8857,unknown,"Staten Island","New York City","Entire Home/Apt",Townhouse,214,20,46,NULL,356,40.695506,-73.932542,2020-08-20,2022-07-23,3.8,2,2,"1 bath",2,False,MODERATE,"85 %",AVAILABLE,tablet,card,0
+100248,5855,Olivia,Queens,"New York City","Entire Home/Apt","House ",54.59,19,56,NULL,276,40.733391,-74.015273,2018-05-02,2022-08-07,4.69,-1,NULL,2,1,NULL,MODERATE,90%,booked,Mobile,PayPal,0
+106505,5732,"John Smith",Bronx,"New York City","Shared Room","Guest suite",111.61,4,53,2.29,158,40.707758,-73.808548,2016-09-04,2015-08-25,4.67,0,4,"2 baths",6,False,flexible,90%,available,tablet,Card,0
+119540,6922,Michael,Brooklyn,"New York City","Private Room",House,203.54,365,40,3.57,178,40.769437,-74.029744,2017-11-19,2021-03-07,4.04,6,5,"2 baths",NULL,False,MODERATE,"85 %",available,Desktop,card,0
+106351,10367,unknown,Queens,"New York City","Entire Home/Apt",Apartment,390.06,22,46,1.27,237,40.697592,-73.915372,2023-04-14,2020-01-20,3.72,NULL,-1,1,12,False,Flexible,95%,NULL,Desktop,PayPal,0
+110586,7695,David,Manhattan,"New York City","Private Room",Loft,28.49,26,38,2.49,273,40.691109,-74.06682,2024-08-15,2021-11-11,4.1,0,5,1.5,5,F,MODERATE,80,available,tablet,PayPal,0
+103249,11094,"John Smith","Staten Island","New York City","Private Room",NULL,108.77,11,56,3.79,101,40.750139,-73.987114,2020-03-08,NULL,4.18,-1,NULL,1,8,NULL,strict,95%,NULL,Mobile,paypal,0
+102389,6308,David,Queens,"New York City","Private Room",Condo,93.56,17,34,0.3,191,40.830972,-73.893539,2023-09-25,2017-08-19,4.48,1,1,NULL,10,F,strict,"85 %",NULL,NULL,card,0
+102688,5662,Emma,"Staten Island","New York City","Entire Home/Apt",NULL,211.98,16,39,1.31,136,40.710911,-74.08851,2025-01-15,2015-09-05,5,1,5,"1.5 bath",2,False,strict_14_with_grace_period,100%,Active,Desktop,cash,0
+111523,7038,David,"Staten Island","New York City","Entire Home/Apt","Guest suite",312.09,60,33,2.61,342,40.685893,-74.003182,2020-01-18,2020-05-05,5,1,NULL,"2 baths",1,F,Flexible,95%,NULL,Desktop,paypal,0
+112852,6185,Emma,Bronx,"New York City","Entire Home/Apt",Townhouse,129.46,22,52,1.59,268,40.634729,-74.003238,2018-12-07,NULL,3.29,3,1,NULL,NULL,True,moderate,"85 %",Active,Desktop,paypal,0
+107336,7340,"John Smith",Manhattan,"New York City","Private Room",Loft,127.13,29,56,0.64,250,40.72463,-73.977202,2023-06-06,2024-10-31,4.41,3,3,"2.5 baths",1,False,strict,100%,booked,Desktop,cash,0
+118415,9013,David,Bronx,"New York City","Hotel Room",Loft,72.76,1,36,NULL,320,40.75568,-74.044672,2018-06-21,2024-12-14,3.9,NULL,4,"2 baths",5,T,Flexible,"85 %",active,desktop,NULL,0
+102754,5342,David,Queens,"New York City","Private Room",apartment,76.64,30,53,2.24,278,40.653071,-73.841945,2018-12-10,2016-07-19,3.94,4,3,"3 baths",12,f,MODERATE,80,active,desktop,NULL,0
+110495,7511,unknown,Manhattan,"New York City","Entire Home/Apt",House,51.11,29,34,1.27,297,40.651948,-73.834292,2020-08-23,2021-11-12,4.08,5,0,"1 bath",8,F,moderate,"85 %",Active,Desktop,paypal,0
+108109,10719,Emma,Bronx,"New York City","Private Room","Guest suite",177.72,14,38,NULL,141,40.768263,-73.977117,2024-07-28,2015-04-12,4.47,2,0,"2 baths",4,NULL,moderate,90%,active,tablet,Card,0
+108824,7758,Olivia,Queens,"New York City","Entire Home/Apt","Guest suite",141.26,13,49,1.07,121,40.737344,-73.999732,2021-11-27,2019-08-07,3.98,0,1,1,12,F,strict_14_with_grace_period,80,booked,mobile,Card,0
+103753,10627,Emma,Manhattan,"New York City","Private Room","Guest suite",119,28,40,1.17,291,40.823408,-73.899137,2023-02-14,2022-12-19,4.64,10,0,1.5,1,f,MODERATE,95%,Active,mobile,card,0
+116875,11526,Emma,Manhattan,"New York City","Private Room",Apartment,51.13,12,43,0.56,325,40.647015,-74.053569,2022-04-13,2025-03-14,4.55,7,6,1,NULL,False,Flexible,NULL,active,tablet,NULL,0
+115078,7422,Michael,Manhattan,"New York City","Private Room",Condo,154.05,4,38,0.99,54,40.724832,-73.951802,2015-06-30,2025-02-18,4.52,8,5,"2.5 baths",2,False,Flexible,100%,active,desktop,NULL,0
+103927,7430,Michael,Queens,"New York City","Hotel Room",Apartment,160.69,15,49,1.82,171,40.740276,-73.968715,2018-11-06,2018-10-04,5,1,3,"2 baths",NULL,NULL,Flexible,"85 %",Active,NULL,paypal,0
+116075,5950,David,Manhattan,"New York City","Shared Room",apartment,166.48,60,43,0.42,278,40.741317,-74.010578,2021-06-24,2025-03-17,4.44,6,0,"1.5 bath",10,f,strict_14_with_grace_period,90%,available,Mobile,PayPal,0
+111483,5670,unknown,Bronx,"New York City","Shared Room",Apartment,110.35,8,41,5.24,5,40.672443,-73.96203,2015-05-31,2023-07-04,5,3,0,2,NULL,NULL,moderate,100%,Active,NULL,NULL,0
+113120,8334,unknown,Queens,"New York City","Private Room","House ",212.5,90,49,3.94,203,40.760027,-73.899943,2024-05-10,NULL,3.72,1,6,NULL,NULL,False,flexible,100%,available,NULL,Card,0
+111766,5668,unknown,Queens,"New York City","Entire Home/Apt",House,85.86,2,46,2.26,305,40.707876,-73.966217,2021-03-29,2022-08-27,4.27,-1,5,"1.5 bath",6,False,moderate,NULL,AVAILABLE,Desktop,NULL,0
+113765,9975,Olivia,Brooklyn,"New York City","Shared Room","House ",71,5,40,0.68,172,40.737006,-74.030088,2023-04-28,2019-10-08,5,0,5,2,2,T,Flexible,80,NULL,Desktop,PayPal,0
+114506,6414,"John Smith","Staten Island","New York City","Shared Room",Apartment,201.99,365,43,0.65,332,40.793316,-74.010371,2019-06-25,2016-03-25,5,4,3,2,1,NULL,MODERATE,90%,active,NULL,NULL,0
+112512,11787,Michael,Manhattan,"New York City","Shared Room",Condo,173.04,180,38,1.53,136,40.733718,-73.865451,2020-02-19,2022-06-18,3.88,10,NULL,2,12,False,moderate,NULL,booked,NULL,paypal,0
+101202,11039,"John Smith",Queens,"New York City","Private Room","House ",161.64,11,49,1.39,256,40.66758,-74.110381,2017-03-05,2023-05-18,NULL,10,5,1.5,NULL,t,strict,NULL,AVAILABLE,Desktop,paypal,0
+118095,6756,Emma,Manhattan,"New York City","Shared Room","House ",150.32,180,40,0.7,238,40.725384,-73.899358,2017-12-13,2017-02-25,4.91,3,3,"2 baths",NULL,T,flexible,100%,Active,mobile,Card,0
+108958,7430,Sophia,Bronx,"New York City","Hotel Room",Condo,45.37,19,48,3.03,284,40.653911,-74.107102,2021-10-26,2019-02-07,3.93,6,5,"2 baths",1,t,MODERATE,90%,Active,desktop,Card,0
+111104,9419,Emma,Bronx,"New York City","Entire Home/Apt",Townhouse,406.33,8,45,1.2,123,40.731205,-73.960202,2020-10-01,2015-05-16,4.28,0,1,"3 baths",2,False,Flexible,80,booked,desktop,paypal,0
+117104,8255,Sophia,Bronx,"New York City","Private Room",NULL,181.07,15,45,2.73,139,40.853981,-73.912319,2016-09-25,2019-03-02,5,8,1,"1 bath",4,t,Flexible,90%,booked,NULL,NULL,0
+100116,7569,Olivia,Brooklyn,"New York City","Private Room",Condo,67.75,14,41,3.31,56,40.663129,-73.833393,2023-07-12,2024-03-16,4.98,-1,6,1.5,5,False,MODERATE,100%,available,NULL,paypal,0
+103951,8240,unknown,Manhattan,"New York City","Private Room",Condo,112.14,18,40,4.22,36,40.709185,-73.908932,2024-05-16,2023-12-17,4.39,3,1,1,2,f,flexible,90%,AVAILABLE,NULL,cash,0
+112296,9178,Olivia,"Staten Island","New York City","Shared Room","Guest suite",326.77,26,60,7.28,62,40.672048,-73.975505,2025-06-04,2024-11-17,3.8,7,6,"3 baths",10,True,Flexible,90%,Active,NULL,Card,0
+116486,8629,unknown,Manhattan,"New York City","Hotel Room",Townhouse,137.46,6,51,0.35,193,40.675747,-74.042885,2020-08-28,2024-12-16,4.44,6,0,1,4,False,flexible,80,active,Mobile,card,0
+119480,11655,unknown,Bronx,"New York City","Shared Room",Apartment,168.4,22,39,3.57,35,40.78886,-73.96831,2017-12-09,NULL,4.94,0,NULL,"1 bath",5,F,moderate,90%,NULL,desktop,cash,0
+113731,10320,David,Queens,"New York City","Private Room",Condo,68,14,49,0.4,185,40.727416,-73.882669,2023-10-29,2024-03-03,3.86,10,0,1.5,3,f,flexible,NULL,available,Desktop,paypal,0
+110511,10722,Sophia,Manhattan,"New York City","Private Room",NULL,74.6,6,56,0.87,136,40.731323,-74.02887,2024-12-18,2017-10-14,NULL,1,2,2,2,False,MODERATE,"85 %",AVAILABLE,desktop,NULL,0
+118050,5915,unknown,Queens,"New York City","Shared Room",Townhouse,63.8,19,46,3.66,9,40.654635,-74.003665,2022-04-27,2024-08-31,4.87,4,3,"3 baths",6,F,MODERATE,"85 %",booked,Mobile,card,0
+100485,6983,Sophia,Queens,"New York City","Private Room",NULL,112.85,90,44,1.85,249,40.730699,-73.886047,2020-07-31,NULL,4.63,2,2,"2 baths",8,NULL,strict_14_with_grace_period,100%,AVAILABLE,tablet,cash,0
+103948,8630,Michael,Bronx,"New York City","Entire Home/Apt",Loft,65,20,37,1.08,14,40.692557,-74.000668,2024-09-03,NULL,4.31,8,5,2,5,F,flexible,80,booked,desktop,NULL,0
+111185,8665,"John Smith",Queens,"New York City","Hotel Room",Condo,673.47,8,33,1.65,330,40.704554,-73.97912,2018-01-04,2017-12-08,NULL,8,6,"1.5 bath",4,True,strict_14_with_grace_period,80,NULL,Desktop,cash,0
+103705,9220,Olivia,"Staten Island","New York City","Private Room",House,209.31,29,58,NULL,90,40.731908,-73.98199,2016-11-05,2020-02-05,4.38,8,1,"2 baths",12,NULL,MODERATE,80,Active,tablet,paypal,0
+118639,10433,Olivia,Brooklyn,"New York City","Entire Home/Apt",NULL,126,60,57,1.14,154,40.675723,-73.912992,2023-03-11,2024-01-01,3.99,7,NULL,"2 baths",8,f,strict_14_with_grace_period,100%,Active,NULL,paypal,0
+101769,9460,Olivia,Bronx,"New York City","Hotel Room",Townhouse,80.71,9,51,1.23,172,40.742914,-73.929674,2018-11-10,2017-10-13,4.42,8,5,"3 baths",2,NULL,strict_14_with_grace_period,NULL,booked,tablet,PayPal,0
+110105,9870,"John Smith",Bronx,"New York City","Private Room","Guest suite",123.42,1,47,0.57,177,40.704372,-73.991662,2024-03-06,NULL,4.14,5,-1,1,NULL,False,strict,95%,active,Mobile,Card,0
+107502,11478,David,"Staten Island","New York City","Private Room",Townhouse,118.27,1,50,0.47,40,40.704929,-73.946452,2021-02-17,2024-03-26,4.39,1,NULL,"3 baths",2,F,strict_14_with_grace_period,100%,booked,Mobile,cash,0
+113195,7387,Emma,Queens,"New York City","Hotel Room",NULL,210.15,365,50,1.49,354,40.668444,-73.911183,2022-09-26,2022-01-11,4.36,10,4,2,4,T,strict,100%,available,Mobile,cash,0
+100342,10540,Michael,"Staten Island","New York City","Private Room","Guest suite",72.95,26,38,1.42,207,40.775848,-73.904713,2025-04-25,2024-11-14,4.53,-1,6,1.5,5,t,MODERATE,"85 %",AVAILABLE,tablet,paypal,0
+106513,6720,"John Smith","Staten Island","New York City","Entire Home/Apt",Townhouse,188.07,19,44,4.14,94,40.73036,-73.888123,2020-06-10,2022-07-27,4.62,NULL,NULL,"3 baths",3,t,moderate,95%,NULL,NULL,Card,0
+105765,10706,unknown,"Staten Island","New York City","Shared Room",Townhouse,149.68,19,41,3.43,352,40.761304,-73.997035,2023-05-19,2019-08-13,5,1,3,1.5,8,F,moderate,95%,available,NULL,Card,0
+110126,6545,Michael,Bronx,"New York City","Entire Home/Apt","Guest suite",27.84,2,41,1.18,327,40.76173,-73.972718,2021-06-24,2024-10-23,4.69,10,4,"1 bath",4,T,Flexible,90%,active,mobile,paypal,0
+106424,9245,Olivia,Bronx,"New York City","Hotel Room",apartment,217.8,3650,44,0.35,140,40.761869,-74.04365,2018-05-28,2023-03-07,4.29,-1,2,"1.5 bath",6,True,flexible,100%,booked,NULL,card,0
+100314,11490,"John Smith","Staten Island","New York City","Private Room",Townhouse,99.4,28,60,2.28,83,40.754459,-73.937664,2023-11-11,2019-05-27,4.13,1,NULL,1.5,4,True,strict_14_with_grace_period,NULL,AVAILABLE,tablet,cash,0
+101085,9581,Emma,"Staten Island","New York City","Entire Home/Apt",NULL,218,11,41,3.59,61,40.711408,-73.908859,2021-12-31,2022-04-11,3.99,8,NULL,1,2,f,MODERATE,NULL,active,desktop,NULL,0
+118755,7526,David,Manhattan,"New York City","Private Room",apartment,45.73,30,46,1.83,191,40.745281,-74.055913,2023-04-11,NULL,4.88,2,5,NULL,10,T,strict,95%,booked,Desktop,Card,0
+109888,9728,David,Brooklyn,"New York City","Private Room",Townhouse,38.7,16,49,NULL,23,40.696916,-73.813012,2019-03-04,2024-06-24,5,8,6,"2 baths",NULL,NULL,strict,100%,active,mobile,PayPal,0
+117806,11447,David,Bronx,"New York City","Hotel Room",Townhouse,164.76,23,52,5,348,40.634196,-73.899236,2024-01-26,2024-10-23,4.87,NULL,1,2,10,T,moderate,"85 %",active,NULL,paypal,0
+116704,6676,Olivia,Manhattan,"New York City","Entire Home/Apt","Guest suite",276.8,25,30,0.58,128,40.656708,-74.004561,2019-09-21,2025-03-13,5,4,0,2,1,F,flexible,"85 %",AVAILABLE,mobile,card,0
+100410,7525,David,Bronx,"New York City","Private Room",Townhouse,84.32,27,54,1.47,267,40.759542,-73.892981,2019-03-05,2015-02-22,NULL,0,NULL,1,1,NULL,strict_14_with_grace_period,80,Active,mobile,Card,0
+119142,11448,David,"Staten Island","New York City","Shared Room",Condo,333.74,25,38,3.89,299,40.723506,-73.945485,2017-05-31,2020-11-30,4.44,1,3,1.5,10,t,Flexible,90%,NULL,NULL,paypal,0
+104405,11688,Olivia,Bronx,"New York City","Private Room",NULL,545.14,25,44,3.21,214,40.637759,-74.000581,2016-04-20,2015-12-28,3.78,7,1,"1 bath",12,f,moderate,100%,booked,mobile,NULL,0
+113459,7893,unknown,Queens,"New York City","Entire Home/Apt",apartment,236.68,23,45,1.04,239,40.693657,-74.021809,2023-07-04,2023-10-08,3.73,6,2,"1 bath",1,T,moderate,"85 %",booked,Mobile,NULL,0
+105117,5659,unknown,Queens,"New York City","Shared Room",House,72.53,19,31,1.88,33,40.796626,-73.999445,2024-06-16,2025-05-27,4.05,NULL,4,1.5,NULL,False,moderate,80,available,tablet,paypal,0
+103288,9432,unknown,Manhattan,"New York City","Hotel Room",apartment,189.29,16,40,0.76,118,40.812521,-74.025181,2019-02-25,2015-03-02,4.85,6,3,"1.5 bath",8,NULL,strict,90%,active,tablet,PayPal,0
+103596,11630,"John Smith",Manhattan,"New York City","Entire Home/Apt",apartment,61.17,60,36,0.58,332,40.841853,-74.027138,2015-12-20,2022-02-11,4.09,4,1,"1 bath",3,True,MODERATE,100%,Active,desktop,PayPal,0
+114138,6810,"John Smith",Brooklyn,"New York City","Shared Room",House,54.66,12,41,2.71,315,40.789239,-73.985513,2015-01-07,2022-09-16,4.82,-1,4,"2.5 baths",10,NULL,Flexible,"85 %",active,Mobile,PayPal,0
+101906,6561,unknown,Brooklyn,"New York City","Hotel Room",Townhouse,255.33,3650,44,0.93,88,40.652832,-74.006697,2021-06-23,2015-11-06,4.81,-1,1,"1.5 bath",NULL,F,moderate,95%,booked,desktop,card,0
+112812,10741,David,Manhattan,"New York City","Entire Home/Apt",NULL,75.35,16,42,3.7,10,40.780205,-74.009321,2017-05-02,2019-01-18,4.42,10,4,"1 bath",12,NULL,strict,100%,booked,tablet,cash,0
+112269,8063,David,Brooklyn,"New York City","Shared Room",NULL,107.71,26,37,1.9,20,40.733851,-73.952272,2023-12-10,2022-08-13,NULL,3,1,2,4,F,moderate,80,Active,Mobile,paypal,0
+109782,6668,"John Smith",Queens,"New York City","Entire Home/Apt",NULL,99.12,27,49,5.05,338,40.77098,-74.039346,2021-11-23,2021-04-19,4.36,6,0,"2.5 baths",3,True,strict_14_with_grace_period,NULL,booked,desktop,paypal,0
+118603,6068,Emma,Brooklyn,"New York City","Private Room",Apartment,157.87,3,56,2.41,298,40.752217,-73.949265,2016-03-11,2022-05-02,4,4,3,"3 baths",1,F,moderate,80,booked,Desktop,Card,0
+103185,9309,unknown,Queens,"New York City","Private Room",Condo,59.85,365,51,5.31,170,40.659618,-73.980968,2016-09-21,2020-01-31,4.25,4,3,"2.5 baths",12,F,MODERATE,"85 %",AVAILABLE,Mobile,paypal,0
+117141,10768,Emma,Bronx,"New York City","Private Room",Apartment,116.78,21,51,0.8,175,40.787793,-74.056542,2017-04-01,2015-12-11,NULL,7,-1,1,1,True,MODERATE,95%,booked,desktop,card,0
+116517,11197,Sophia,Bronx,"New York City","Private Room",NULL,55.74,18,37,2.15,23,40.689793,-73.929264,2025-03-22,2020-12-24,4.08,-1,-1,"3 baths",8,T,strict,95%,NULL,NULL,cash,0
+108600,5883,Olivia,Queens,"New York City","Entire Home/Apt",Condo,190.54,14,46,3.04,254,40.754507,-74.019995,2020-04-20,2017-09-19,5,5,3,1,5,f,Flexible,100%,active,mobile,Card,0
+109321,6293,Emma,Brooklyn,"New York City","Hotel Room",apartment,49.39,24,50,1.55,50,40.71621,-73.962943,2021-07-11,2023-03-17,NULL,8,0,"3 baths",4,t,flexible,100%,active,NULL,NULL,0
+107357,10038,Michael,"Staten Island","New York City","Entire Home/Apt","House ",73.09,23,43,0.77,59,40.692985,-73.992997,2023-01-05,2017-11-21,4.67,0,NULL,1.5,12,False,MODERATE,NULL,Active,desktop,paypal,0
+106673,7398,Emma,"Staten Island","New York City","Shared Room",Loft,97.73,8,48,NULL,210,40.743822,-73.949262,2018-11-09,2021-01-13,4.99,10,NULL,NULL,NULL,t,moderate,100%,booked,Desktop,Card,0
+118736,9249,unknown,Manhattan,"New York City","Private Room",Loft,187.71,4,57,NULL,12,40.652788,-73.933669,2019-07-19,2023-11-11,4.27,5,NULL,1.5,5,True,Flexible,100%,Active,desktop,Card,0
+103923,5704,Olivia,"Staten Island","New York City","Entire Home/Apt",Condo,89,7,32,3.73,97,40.673973,-73.845917,2024-11-20,2020-10-31,4.13,4,0,NULL,1,F,MODERATE,NULL,AVAILABLE,Mobile,PayPal,0
+114158,7668,"John Smith",Brooklyn,"New York City","Entire Home/Apt",Condo,144.79,9,42,0.7,260,40.795751,-74.00625,2019-02-07,NULL,3.87,0,3,"2 baths",2,t,moderate,95%,available,NULL,cash,0
+102278,11079,Olivia,Manhattan,"New York City","Shared Room",apartment,207.64,8,59,3.19,287,40.631172,-73.914601,2025-08-02,2015-02-17,4.31,8,NULL,2,5,True,strict,80,AVAILABLE,tablet,cash,0
+118054,6447,Olivia,Manhattan,"New York City","Hotel Room",Condo,110.37,4,51,1.63,242,40.771991,-74.05142,2022-03-09,2021-09-04,3.06,3,NULL,1.5,NULL,NULL,strict_14_with_grace_period,"85 %",AVAILABLE,NULL,card,0
+108343,5284,Olivia,Manhattan,"New York City","Hotel Room",apartment,10,12,34,1.45,266,40.669291,-73.969758,2022-05-05,2024-09-24,4.17,3,6,"1 bath",12,True,flexible,90%,NULL,tablet,paypal,0
+102066,8202,Sophia,Queens,"New York City","Entire Home/Apt","Guest suite",150.94,5,48,1.61,117,40.724785,-73.962318,2016-05-27,2017-09-22,4.28,3,0,"3 baths",8,F,flexible,NULL,active,tablet,cash,0
+113103,6869,Michael,Brooklyn,"New York City","Private Room",apartment,184.02,3,36,1.17,110,40.634561,-73.965742,2022-04-11,2016-03-06,4.72,8,4,2,6,t,strict,100%,active,mobile,cash,0
+113997,8612,unknown,"Staten Island","New York City","Hotel Room","Guest suite",61,1000,50,0.35,130,40.758303,-73.913076,2023-02-16,2016-12-25,3.56,6,2,"2 baths",5,F,MODERATE,"85 %",AVAILABLE,NULL,Card,0
+113232,6574,Sophia,"Staten Island","New York City","Entire Home/Apt",apartment,92.7,29,47,NULL,38,40.737335,-73.982912,2025-04-10,2020-02-11,4.32,8,3,"3 baths",6,True,strict_14_with_grace_period,95%,active,mobile,paypal,0
+109444,7690,David,Bronx,"New York City","Hotel Room",Townhouse,248.19,10,52,2.01,84,40.766182,-73.918416,2016-03-22,2015-02-15,4.37,4,0,"2 baths",8,T,flexible,80,NULL,Desktop,Card,0
+108139,11392,unknown,Bronx,"New York City","Shared Room","Guest suite",206.16,19,33,1.01,221,40.75221,-73.955639,2016-12-18,NULL,4.87,2,NULL,"1 bath",8,f,strict,NULL,available,Mobile,paypal,0
+109510,5224,Michael,Manhattan,"New York City","Private Room",apartment,147.16,24,51,3.9,160,40.683159,-73.953857,2023-07-26,2016-10-27,4.42,1,2,"1.5 bath",6,True,strict_14_with_grace_period,"85 %",NULL,Mobile,paypal,0
+117871,9009,"John Smith",Brooklyn,"New York City","Private Room",Condo,65.89,22,40,1.43,254,40.639136,-73.888494,2022-08-28,2016-10-02,4.87,-1,5,1,8,T,moderate,80,NULL,Mobile,paypal,0
+107223,6244,David,Bronx,"New York City","Entire Home/Apt",Loft,59.45,21,45,1.56,288,40.848325,-73.971164,2021-12-23,NULL,4.27,NULL,5,"1 bath",NULL,T,flexible,80,active,Mobile,Card,0
+103503,5098,unknown,Manhattan,"New York City","Hotel Room",NULL,126.78,12,47,2.04,117,40.695427,-74.016023,2017-03-05,2021-12-14,4.1,4,1,"2.5 baths",12,NULL,moderate,NULL,active,Desktop,paypal,0
+110679,11036,Michael,Manhattan,"New York City","Hotel Room",NULL,264.51,20,51,2.14,359,40.747925,-73.989748,2022-06-03,2022-05-28,4.26,3,6,"2 baths",5,True,moderate,100%,NULL,Desktop,NULL,0
+109235,7043,unknown,Brooklyn,"New York City","Private Room",Condo,94.82,28,55,1.85,224,40.771237,-74.007484,2020-06-13,2024-07-05,4.27,-1,-1,2,2,f,strict,"85 %",booked,desktop,NULL,0
+103530,11358,Michael,Queens,"New York City","Shared Room",House,109.82,9,55,2.77,148,40.66518,-74.042302,2023-04-27,2021-07-13,5,2,NULL,"1.5 bath",8,False,moderate,95%,NULL,NULL,NULL,0
+107403,5747,Olivia,Bronx,"New York City","Entire Home/Apt",Loft,325.72,24,45,2.02,95,40.76772,-73.991615,2016-09-27,2016-04-25,4.4,5,2,"1.5 bath",5,F,Flexible,80,active,Mobile,NULL,0
+117421,11183,Sophia,Queens,"New York City","Private Room",apartment,69.83,30,49,1.09,268,40.621708,-73.91109,2017-04-18,2021-01-23,4.89,NULL,6,"2 baths",2,F,flexible,95%,available,Mobile,cash,0
+110731,10552,Sophia,Manhattan,"New York City","Hotel Room",Townhouse,174.91,19,51,0.71,186,40.661873,-73.82725,2022-03-20,2015-01-16,4.55,1,NULL,1.5,NULL,True,strict,90%,Active,tablet,Card,0
+102044,8105,Michael,Queens,"New York City","Private Room","Guest suite",191.02,22,42,0.19,352,40.723595,-73.94504,2023-10-20,2019-09-18,4.37,0,4,"1.5 bath",NULL,T,strict_14_with_grace_period,NULL,active,Desktop,PayPal,0
+119733,9530,Michael,Manhattan,"New York City","Shared Room",Townhouse,59.15,12,45,4.33,350,40.715676,-74.032092,2020-03-15,2017-12-13,4.17,1,0,1,2,F,strict,90%,NULL,Mobile,paypal,0
+110864,10535,David,Manhattan,"New York City","Hotel Room",Townhouse,400.52,13,55,0.72,331,40.768369,-73.937452,2020-08-25,2023-07-30,3.93,1,NULL,1.5,NULL,F,Flexible,95%,booked,desktop,Card,0
+109458,10746,unknown,Brooklyn,"New York City","Hotel Room",NULL,169.09,2,37,0.13,314,40.715004,-73.966452,2023-11-30,NULL,4.3,6,-1,"2.5 baths",3,NULL,strict,90%,active,desktop,cash,0
+100252,10758,Emma,Brooklyn,"New York City","Private Room",Condo,172.92,1000,42,1.46,24,40.611394,-73.780889,2016-10-27,2015-10-20,4.49,10,5,2,5,F,moderate,NULL,AVAILABLE,Mobile,Card,0
+114143,8226,Emma,Brooklyn,"New York City","Private Room",apartment,103.82,7,63,1.55,266,40.666492,-74.001282,2015-03-13,2025-08-16,4.4,-1,NULL,NULL,1,False,flexible,80,booked,Desktop,cash,0
+117127,10387,David,Bronx,"New York City","Entire Home/Apt",Condo,69,9,42,2.36,272,40.699487,-73.871795,2022-03-31,2021-01-23,4.01,10,4,1.5,NULL,F,moderate,"85 %",booked,Desktop,NULL,0
+105849,8505,Sophia,Queens,"New York City","Entire Home/Apt",NULL,183,20,42,2.33,165,40.73981,-73.971482,2019-10-18,2017-04-08,4.2,NULL,1,2,10,True,Flexible,95%,NULL,desktop,PayPal,0
+116098,6879,unknown,Manhattan,"New York City","Entire Home/Apt",Townhouse,100.51,3,57,3.1,186,40.78995,-74.041971,2023-11-13,2024-02-17,4.65,2,0,1,8,f,flexible,"85 %",active,Desktop,paypal,0
+107338,5756,Sophia,Brooklyn,"New York City","Private Room",apartment,75,90,59,0.71,326,40.71189,-73.927122,2015-05-08,2019-01-08,3.91,NULL,1,"1.5 bath",4,f,flexible,80,available,tablet,Card,0
+101291,10568,Emma,Bronx,"New York City","Entire Home/Apt",NULL,320.59,90,39,0.16,270,40.763886,-73.992946,2018-10-24,2015-06-05,3.49,2,NULL,2,12,T,flexible,"85 %",Active,mobile,paypal,0
+109982,8143,Michael,Brooklyn,"New York City","Hotel Room","Guest suite",66.96,26,37,5.02,267,40.842608,-73.949317,2020-06-03,2022-10-10,4.64,1,NULL,2,NULL,NULL,Flexible,NULL,NULL,Desktop,card,0
+106613,6074,Olivia,"Staten Island","New York City","Private Room",NULL,159.94,14,43,0.74,195,40.743464,-73.8031,2017-10-14,2022-09-30,4.79,0,1,"2 baths",3,T,strict,80,AVAILABLE,tablet,paypal,0
+112160,10495,"John Smith","Staten Island","New York City","Private Room",Condo,113.95,365,48,0.41,305,40.710065,-73.979018,2017-06-20,2023-05-22,3.29,8,5,NULL,10,f,MODERATE,80,active,Desktop,cash,0
+103144,8698,unknown,Bronx,"New York City","Shared Room",NULL,91.31,180,43,1.56,229,40.803065,-74.046978,2024-05-01,2017-02-15,4.51,0,-1,"2 baths",4,False,flexible,NULL,available,NULL,PayPal,0
+108087,11674,Olivia,Queens,"New York City","Shared Room",Apartment,143.2,21,45,0.35,41,40.747851,-73.989011,2020-09-24,2022-11-18,4.92,3,5,"1 bath",5,False,MODERATE,95%,available,Desktop,NULL,0
+106815,7060,David,"Staten Island","New York City","Private Room",apartment,71.75,6,53,0.93,333,40.749898,-74.036188,2015-01-06,2018-02-11,NULL,3,0,NULL,12,f,strict,100%,NULL,Mobile,NULL,0
+116162,6204,"John Smith",Queens,"New York City","Private Room",NULL,83.73,19,38,1.05,299,40.68451,-74.007036,2017-12-05,2017-07-12,4.78,-1,2,1,10,f,Flexible,NULL,Active,Desktop,card,0
+109164,5204,unknown,Bronx,"New York City","Entire Home/Apt",Loft,154.83,4,37,NULL,280,40.634387,-73.992743,2020-05-13,2017-09-26,4.03,-1,NULL,"1.5 bath",6,False,strict,"85 %",booked,desktop,NULL,0
+109718,11017,unknown,Queens,"New York City","Private Room",Townhouse,164.71,21,44,0.95,312,40.748417,-73.88503,2016-08-06,2021-07-24,4.8,7,3,1.5,2,t,flexible,95%,Active,desktop,card,0
+100829,6354,unknown,Brooklyn,"New York City","Hotel Room",Loft,132.99,2,54,3.91,27,40.747584,-73.988594,2023-05-19,2020-01-16,3.44,-1,2,"2.5 baths",NULL,False,moderate,95%,booked,NULL,card,0
+115655,6253,"John Smith",Manhattan,"New York City","Hotel Room",Loft,108.71,2,47,1.21,138,40.670251,-73.938995,2021-12-15,2020-12-22,3.95,-1,1,1.5,10,f,flexible,90%,AVAILABLE,mobile,card,0
+100972,7181,Michael,Manhattan,"New York City","Shared Room",Apartment,96.99,90,38,0.76,35,40.775263,-74.058575,2024-05-17,2025-02-10,4.31,-1,NULL,"1 bath",1,NULL,Flexible,"85 %",available,Desktop,card,0
+113756,8948,"John Smith",Bronx,"New York City","Private Room",House,88.07,29,41,3.42,197,40.637334,-73.979305,2020-05-25,2018-01-04,3.72,4,3,NULL,2,t,strict_14_with_grace_period,90%,NULL,Desktop,PayPal,0
+115557,7408,Michael,Manhattan,"New York City","Private Room",House,62.8,15,36,6.52,186,40.706394,-73.947917,2021-10-27,2015-02-27,3.86,8,2,NULL,2,T,flexible,95%,available,Mobile,paypal,0
+101536,7199,David,Manhattan,"New York City","Entire Home/Apt",Apartment,538.27,14,45,2.76,323,40.69469,-73.902347,2020-09-01,2023-08-13,4.2,6,-1,"2.5 baths",4,F,strict,80,available,NULL,PayPal,0
+102409,8954,Michael,Brooklyn,"New York City","Hotel Room",apartment,50.77,30,38,1.27,19,40.730342,-74.001694,2024-12-08,2021-08-06,4.89,5,4,"2.5 baths",2,F,strict,NULL,NULL,tablet,cash,0
+105237,10254,Olivia,Brooklyn,"New York City","Entire Home/Apt",Loft,294,14,53,0.18,90,40.75795,-74.047878,2015-07-31,2020-04-26,4.05,10,2,"2 baths",1,NULL,flexible,80,Active,tablet,Card,0
+105355,5870,Emma,Manhattan,"New York City","Entire Home/Apt","Guest suite",430.87,25,39,0.3,211,40.823033,-73.877459,2016-01-31,2018-04-13,4.01,3,-1,"1.5 bath",6,f,MODERATE,90%,booked,NULL,Card,0
+112984,8337,unknown,"Staten Island","New York City","Private Room",Apartment,63.3,23,40,0.24,296,40.760573,-74.026122,2017-01-29,2017-02-11,4.47,4,2,NULL,5,t,strict_14_with_grace_period,80,booked,Desktop,cash,0
+103116,10898,"John Smith",Bronx,"New York City","Private Room",Condo,130.11,8,51,1.57,302,40.766585,-73.823537,2024-01-01,NULL,4.72,4,0,"2.5 baths",8,NULL,flexible,NULL,NULL,mobile,card,0
+114846,5210,unknown,Manhattan,"New York City","Entire Home/Apt",NULL,467.5,4,27,NULL,167,40.688501,-73.882736,2018-09-28,2019-08-23,4.52,-1,0,2,8,T,strict,95%,NULL,desktop,PayPal,0
+117378,7249,Michael,Manhattan,"New York City","Hotel Room",Loft,103.93,180,42,0.78,90,40.728613,-73.945211,2017-06-18,NULL,3.91,3,0,"2 baths",8,False,strict,100%,NULL,Mobile,NULL,0
+117192,8076,Michael,Manhattan,"New York City","Private Room",Condo,92,3650,39,NULL,358,40.78159,-74.02154,2015-04-20,2024-12-12,5,1,0,"3 baths",12,False,Flexible,95%,AVAILABLE,mobile,card,0
+109239,10299,"John Smith",Manhattan,"New York City","Entire Home/Apt","Guest suite",245.41,22,46,3.69,43,40.722145,-73.865683,2016-03-23,2015-09-10,4.47,2,3,NULL,12,F,strict_14_with_grace_period,"85 %",booked,Mobile,Card,0
+106934,11338,"John Smith",Brooklyn,"New York City","Entire Home/Apt","House ",139.4,23,27,NULL,71,40.809609,-73.962301,2019-12-25,NULL,4.76,2,4,1,3,NULL,MODERATE,95%,available,Mobile,PayPal,0
+118159,11181,Olivia,Queens,"New York City","Private Room",House,78.36,60,54,2.02,266,40.702209,-74.061489,2021-07-13,2021-03-17,3.72,2,6,1,1,True,strict,80,NULL,desktop,cash,0
+102989,9269,Sophia,Bronx,"New York City","Hotel Room","House ",98.84,2,50,6.24,327,40.754755,-73.867042,2015-01-11,2018-10-19,4.74,4,NULL,"1.5 bath",8,T,MODERATE,80,booked,Mobile,cash,0
+103777,6532,Emma,Brooklyn,"New York City","Hotel Room",NULL,154.16,60,33,0.39,101,40.714874,-74.029359,2016-10-02,NULL,5,10,1,"1.5 bath",2,F,MODERATE,90%,booked,desktop,paypal,0
+118890,6065,unknown,Brooklyn,"New York City","Shared Room",Apartment,92.65,10,46,1.57,194,40.815617,-74.092131,2021-09-30,2023-10-18,4.56,6,0,1,5,True,strict_14_with_grace_period,100%,NULL,NULL,NULL,0
+107516,7314,Olivia,Bronx,"New York City","Entire Home/Apt",Loft,90.62,180,50,1.57,138,40.711396,-74.097278,2016-06-21,2018-06-02,4.31,8,3,"1 bath",3,t,MODERATE,95%,AVAILABLE,desktop,cash,0
+113202,9319,Michael,Brooklyn,"New York City","Private Room","House ",151.45,22,37,3.59,203,40.749934,-73.950361,2018-12-18,2019-08-08,5,3,NULL,NULL,4,True,moderate,100%,AVAILABLE,Desktop,cash,0
+116711,8767,David,Bronx,"New York City","Entire Home/Apt",Condo,62.47,15,46,2.24,298,40.658328,-74.006789,2025-04-03,2018-05-22,4.69,8,3,NULL,10,NULL,Flexible,90%,NULL,Mobile,card,0
+107538,6451,Olivia,"Staten Island","New York City","Private Room",Condo,75.98,20,38,6.61,17,40.751193,-73.980663,2020-01-08,2021-07-29,4.16,4,1,"3 baths",6,NULL,MODERATE,NULL,AVAILABLE,NULL,Card,0
+112546,11218,Olivia,Queens,"New York City","Shared Room","House ",278.05,26,41,0.24,31,40.726403,-73.958429,2022-08-23,2020-09-24,5,0,5,1.5,1,F,flexible,"85 %",booked,Desktop,PayPal,0
+114515,8677,Olivia,Brooklyn,"New York City","Entire Home/Apt","House ",144.01,15,41,NULL,132,40.683014,-73.9101,2024-12-27,2016-04-12,3.34,1,NULL,2,NULL,F,MODERATE,80,AVAILABLE,Desktop,cash,0
+104047,7325,"John Smith",Queens,"New York City","Private Room",Apartment,129.46,16,47,1.18,4,40.756274,-74.049598,2019-07-23,2022-12-02,3.88,2,6,"2.5 baths",2,False,Flexible,90%,active,Desktop,Card,0
+103353,8472,"John Smith",Brooklyn,"New York City","Private Room",Apartment,181.43,8,46,0.94,124,40.746057,-73.891559,2020-01-02,2024-05-29,4.54,-1,4,1,12,True,moderate,95%,Active,Desktop,PayPal,0
+115172,9890,Sophia,Brooklyn,"New York City","Hotel Room",NULL,94.05,26,34,0.34,311,40.752863,-74.008135,2020-09-24,NULL,3.72,3,1,1,8,f,Flexible,80,NULL,Mobile,PayPal,0
+114922,6274,Emma,"Staten Island","New York City","Hotel Room",House,169.22,10,42,1.42,280,40.67291,-73.86916,2021-05-04,2022-07-10,4.55,-1,4,2,5,t,Flexible,90%,booked,desktop,paypal,0
+104297,7528,unknown,"Staten Island","New York City","Private Room",apartment,419.08,17,64,1.81,217,40.64893,-74.056743,2022-09-24,2019-10-02,4.31,6,1,NULL,4,t,Flexible,90%,Active,mobile,paypal,0
+118396,9560,Michael,"Staten Island","New York City","Hotel Room",Condo,120.5,5,50,2.41,234,40.763025,-73.905158,2017-03-12,2020-07-21,3.48,NULL,NULL,"3 baths",NULL,False,Flexible,80,AVAILABLE,Desktop,PayPal,0
+119022,11451,David,Manhattan,"New York City","Private Room",Apartment,57.82,10,56,0.88,7,40.679736,-73.937768,2015-12-06,2016-05-24,4.17,3,NULL,"3 baths",NULL,T,Flexible,95%,NULL,NULL,paypal,0
+100696,5718,"John Smith",Queens,"New York City","Entire Home/Apt",Condo,118.1,29,41,1.38,360,40.813308,-73.927248,2024-05-12,2024-08-28,4.69,5,6,"2.5 baths",8,F,strict_14_with_grace_period,100%,active,desktop,NULL,0
+115663,8425,"John Smith",Brooklyn,"New York City","Private Room",Condo,95.3,13,57,2.64,271,40.668692,-73.979239,2020-11-12,2021-07-29,4.83,2,6,"2.5 baths",NULL,True,strict,"85 %",NULL,desktop,Card,0
+101444,9244,David,"Staten Island","New York City","Private Room","Guest suite",109.83,7,43,0.5,31,40.747631,-74.03418,2024-01-29,NULL,4.03,10,3,1.5,2,f,moderate,"85 %",booked,tablet,paypal,0
+119055,9934,Olivia,Manhattan,"New York City","Hotel Room",Apartment,147.37,19,49,1.79,252,40.775932,-73.888129,2018-09-07,2019-03-12,4,1,0,1.5,10,F,moderate,100%,Active,Mobile,paypal,0
+115770,11049,unknown,Brooklyn,"New York City","Private Room",Townhouse,37.43,26,53,0.86,319,40.711021,-74.016678,2016-09-03,2021-12-13,3.63,7,3,1.5,NULL,NULL,MODERATE,"85 %",Active,tablet,NULL,0
+119259,6054,David,Queens,"New York City","Entire Home/Apt",Condo,71.25,29,49,0.99,344,40.834634,-73.995873,2017-12-08,2024-03-06,3.98,4,0,1.5,8,True,flexible,NULL,AVAILABLE,NULL,PayPal,0
+118091,10432,David,"Staten Island","New York City","Private Room","House ",840.32,24,45,0.69,30,40.747439,-73.902229,2016-06-07,2024-01-17,4.89,2,1,"1 bath",NULL,F,strict,95%,active,NULL,cash,0
+118446,7143,Olivia,Manhattan,"New York City","Private Room",Condo,106.3,2,52,3.51,278,40.708426,-73.911066,2020-02-04,2021-06-08,4.81,-1,1,1,3,T,MODERATE,"85 %",booked,tablet,card,0
+104694,8174,unknown,Manhattan,"New York City","Private Room",apartment,406.24,24,34,NULL,114,40.662041,-74.062801,2025-06-11,2020-09-17,3.95,7,1,"1 bath",8,False,Flexible,"85 %",AVAILABLE,tablet,cash,0
+115478,6886,Emma,"Staten Island","New York City","Private Room",Loft,94.8,3,47,1.98,295,40.690552,-74.072781,2023-03-03,2020-08-29,4.23,5,3,2,1,T,moderate,"85 %",active,tablet,NULL,0
+117233,6878,Sophia,Manhattan,"New York City","Entire Home/Apt",apartment,101.65,28,47,1.36,318,40.727914,-73.856402,2022-10-05,2016-12-25,4.49,3,0,"2.5 baths",NULL,True,Flexible,NULL,NULL,NULL,paypal,0
+106886,10670,unknown,Manhattan,"New York City","Private Room",Condo,483.72,28,32,3.41,138,40.623912,-73.99682,2017-01-17,NULL,4.15,0,1,"2 baths",12,NULL,MODERATE,80,AVAILABLE,tablet,card,0
+111207,6722,"John Smith",Manhattan,"New York City","Hotel Room",apartment,74.3,8,46,2.01,346,40.705916,-73.977182,2018-12-11,2020-04-11,4.01,6,-1,"2 baths",1,T,moderate,100%,NULL,tablet,PayPal,0
+106445,5889,"John Smith",Brooklyn,"New York City","Private Room",Condo,214.37,1,36,0.46,13,40.714084,-73.924677,2020-04-09,2023-04-19,4.71,0,3,"2.5 baths",2,f,strict_14_with_grace_period,NULL,active,NULL,Card,0
+116219,5476,Michael,Brooklyn,"New York City","Shared Room",Apartment,175.49,9,52,3.61,356,40.700682,-73.979165,2019-11-07,2015-09-20,4.31,4,5,2,12,t,strict,"85 %",available,mobile,card,0
+109385,7444,"John Smith","Staten Island","New York City","Private Room",House,176.9,10,53,1.3,166,40.649874,-73.963373,2016-09-20,2020-07-08,4.58,4,NULL,"3 baths",6,T,moderate,95%,AVAILABLE,mobile,card,0
+119696,6842,Emma,Bronx,"New York City","Entire Home/Apt",Loft,101.01,20,43,0.87,316,40.684753,-73.864522,2021-02-01,2021-02-02,4.59,8,4,NULL,8,True,strict,NULL,Active,tablet,PayPal,0
+100140,9599,Olivia,Brooklyn,"New York City","Private Room",apartment,367.8,12,54,0.95,241,40.615543,-73.959297,2021-08-01,2022-07-01,4.33,0,5,1.5,NULL,False,strict,"85 %",Active,NULL,card,0
+118388,6173,unknown,Queens,"New York City","Private Room",Condo,199,17,51,0.77,279,40.700884,-74.011058,2016-09-22,2017-08-14,4.43,2,NULL,"3 baths",8,NULL,flexible,80,AVAILABLE,mobile,NULL,0
+118059,5801,unknown,Bronx,"New York City","Private Room",Apartment,100.28,8,47,1.93,266,40.762588,-73.917462,2016-01-20,2023-12-03,4.79,-1,4,2,6,False,Flexible,"85 %",Active,desktop,cash,0
+105993,6231,Sophia,Brooklyn,"New York City","Entire Home/Apt","Guest suite",84.66,14,47,1.45,29,40.656852,-74.024489,2017-02-13,2024-10-23,NULL,6,-1,1.5,NULL,NULL,strict,95%,Active,desktop,cash,0
+100994,5761,Michael,Brooklyn,"New York City","Entire Home/Apt",Condo,131.21,60,50,0.86,74,40.701579,-73.915733,2024-03-23,2021-09-16,5,8,4,1.5,4,F,moderate,90%,available,desktop,NULL,0
+119718,6796,Michael,Manhattan,"New York City","Private Room","House ",94.06,5,37,1.83,78,40.684182,-74.019637,2020-06-13,2015-11-03,4.89,3,NULL,"1 bath",6,t,flexible,"85 %",Active,Mobile,card,0
+114534,9268,David,Manhattan,"New York City","Entire Home/Apt","House ",152.48,365,34,0.88,230,40.724068,-73.991749,2019-04-01,2017-05-14,3.95,4,0,"2 baths",10,False,strict_14_with_grace_period,80,Active,desktop,PayPal,0
+111248,8844,"John Smith",Queens,"New York City","Private Room","House ",293.8,2,51,1.44,241,40.768458,-74.036006,2023-10-29,2021-03-03,4.33,10,NULL,1,2,f,strict_14_with_grace_period,"85 %",AVAILABLE,NULL,PayPal,0
+103214,11280,Sophia,Manhattan,"New York City","Hotel Room",Loft,111.66,12,48,2.11,230,40.678645,-73.979019,2025-02-26,2019-12-22,4.66,4,NULL,1.5,4,T,strict,NULL,Active,Desktop,NULL,0
+119500,5295,Emma,Manhattan,"New York City","Hotel Room",Apartment,119.49,3650,38,1.91,79,40.782115,-73.913455,2022-06-23,2017-01-31,3.85,1,3,"1 bath",3,T,strict_14_with_grace_period,95%,Active,tablet,cash,0
+104046,6820,Olivia,Queens,"New York City","Private Room",House,52.95,12,42,5.27,122,40.712837,-74.014779,2020-10-11,2020-01-25,4.77,10,-1,1.5,NULL,f,Flexible,NULL,booked,Desktop,PayPal,0
+115114,5848,unknown,Bronx,"New York City","Hotel Room",House,225.07,8,58,1.17,311,40.721333,-73.856059,2024-05-11,2015-09-14,3.91,3,6,NULL,NULL,T,moderate,100%,booked,desktop,paypal,0
+102004,6248,Sophia,Bronx,"New York City","Private Room",Apartment,143.09,10,42,0.82,22,40.732197,-73.956031,2021-05-08,2017-04-22,4.52,0,1,"2 baths",12,False,flexible,80,AVAILABLE,mobile,PayPal,0
+117237,9836,Olivia,"Staten Island","New York City","Hotel Room",Condo,266.82,13,46,2.88,164,40.659926,-74.14708,2018-06-10,2016-01-08,5,5,0,2,3,True,moderate,95%,NULL,desktop,PayPal,0
+112793,10081,Michael,"Staten Island","New York City","Hotel Room",Apartment,70.02,11,37,3.1,357,40.568716,-73.902147,2025-06-12,NULL,3.69,3,0,1,8,t,strict_14_with_grace_period,90%,active,mobile,Card,0
+116140,11061,David,Manhattan,"New York City","Entire Home/Apt",House,157.19,14,53,NULL,264,40.710202,-73.854019,2025-06-14,2022-05-02,3.97,7,-1,"1 bath",2,f,Flexible,90%,booked,tablet,paypal,0
+104085,5007,Emma,Bronx,"New York City","Private Room",Apartment,322.35,6,33,1.5,283,40.726857,-74.048239,2020-03-26,2015-02-21,4.77,10,-1,"1 bath",8,True,strict,100%,AVAILABLE,Mobile,PayPal,0
+104837,11690,Michael,Manhattan,"New York City","Shared Room",NULL,134.95,13,58,0.23,111,40.717078,-73.897462,2019-10-26,2019-08-19,5,0,5,"3 baths",2,NULL,strict,"85 %",NULL,tablet,cash,0
+107162,10795,Emma,Queens,"New York City","Entire Home/Apt",Apartment,74.83,2,39,3.97,152,40.691485,-73.9232,2020-06-30,2017-12-02,4.22,7,2,NULL,5,True,strict,80,NULL,Desktop,NULL,0
+102406,6275,unknown,Queens,"New York City","Entire Home/Apt","House ",143,20,54,NULL,25,40.761658,-73.988764,2025-08-11,2019-04-06,4.99,3,NULL,1,10,f,moderate,"85 %",booked,Mobile,PayPal,0
+109828,11183,David,"Staten Island","New York City","Private Room",Townhouse,43.21,27,39,2.05,337,40.686741,-73.837272,2018-04-18,2022-04-28,3.68,10,3,"1.5 bath",3,T,moderate,"85 %",available,tablet,Card,0
+111417,7515,unknown,Manhattan,"New York City","Entire Home/Apt",Apartment,117.93,12,49,2,316,40.740755,-73.928049,2016-05-22,2019-07-02,4.68,6,3,"3 baths",1,True,strict_14_with_grace_period,90%,NULL,Desktop,Card,0
+109296,5119,Emma,Queens,"New York City","Entire Home/Apt",apartment,67.69,1,47,0.67,316,40.725674,-73.964776,2016-10-25,NULL,4.96,0,0,2,6,T,strict_14_with_grace_period,80,Active,tablet,cash,0
+102982,8085,unknown,"Staten Island","New York City","Entire Home/Apt",Condo,54.61,15,46,0.43,254,40.655688,-73.824684,2024-01-19,2021-04-25,4.61,8,1,"3 baths",1,t,strict,80,booked,NULL,paypal,0
+103913,6214,"John Smith",Brooklyn,"New York City","Hotel Room",Townhouse,295.7,3,45,1.3,196,40.696461,-73.996657,2024-10-06,2016-02-11,4.91,1,2,1,NULL,True,flexible,95%,active,desktop,Card,0
+104402,11175,"John Smith",Brooklyn,"New York City","Shared Room",House,88.39,4,38,0.32,276,40.731205,-73.967963,2019-12-02,2020-08-24,4.39,5,NULL,"2.5 baths",10,False,strict_14_with_grace_period,100%,available,mobile,cash,0
+116209,6744,Olivia,Queens,"New York City","Entire Home/Apt",Condo,138.27,13,41,3.36,233,40.66022,-74.081708,2021-03-16,2023-07-19,4.43,7,1,"1 bath",10,NULL,strict,95%,Active,mobile,card,0
+118187,6198,Emma,Brooklyn,"New York City","Hotel Room",Townhouse,99.64,19,48,4.75,160,40.719447,-73.910009,2024-09-11,2023-01-11,3.99,2,4,1,12,NULL,Flexible,80,AVAILABLE,Mobile,NULL,0
+104485,8989,Emma,"Staten Island","New York City","Hotel Room",Apartment,294.01,7,41,4.83,360,40.667333,-73.975942,2017-12-01,2017-10-19,4.7,4,4,"1.5 bath",6,False,moderate,100%,AVAILABLE,mobile,Card,0
+110812,8759,Emma,Manhattan,"New York City","Private Room",apartment,318.56,11,37,2.22,115,40.709393,-74.033534,2019-12-13,2017-12-29,4.59,-1,1,1.5,NULL,False,flexible,"85 %",active,Mobile,PayPal,0
+103101,11607,Sophia,"Staten Island","New York City","Private Room",House,269.16,12,47,2.72,78,40.726721,-74.037863,2015-12-12,2023-03-13,5,NULL,0,1.5,2,f,strict_14_with_grace_period,80,active,Desktop,Card,0
+111425,8476,David,Bronx,"New York City","Entire Home/Apt",Apartment,285.23,30,51,NULL,363,40.710207,-73.972831,2022-02-28,2020-03-17,NULL,10,NULL,"1 bath",1,f,flexible,90%,NULL,Desktop,card,0
+112786,6441,Olivia,Manhattan,"New York City","Private Room",Townhouse,54.94,180,53,3.74,10,40.726795,-73.88773,2025-06-08,2024-03-31,4.15,8,2,"1 bath",8,False,Flexible,"85 %",NULL,NULL,card,0
+104565,10164,unknown,Brooklyn,"New York City","Entire Home/Apt",Apartment,297.86,4,37,5.29,79,40.847835,-74.008555,2020-02-05,2024-10-20,5,4,0,1.5,6,True,MODERATE,90%,booked,mobile,card,0
+118270,5851,Michael,Bronx,"New York City","Private Room","House ",211.21,11,43,0.63,281,40.814502,-73.981604,2021-04-27,2022-04-28,4.92,-1,6,NULL,10,t,strict,"85 %",NULL,mobile,Card,0
+117628,9413,Olivia,Bronx,"New York City","Entire Home/Apt","House ",211.85,12,48,0.48,161,40.754961,-73.973894,2016-12-12,2024-09-27,4.36,0,6,NULL,12,F,strict_14_with_grace_period,90%,AVAILABLE,mobile,NULL,0
+119041,10822,unknown,Queens,"New York City","Shared Room",Loft,116.3,28,41,1.76,24,40.741021,-73.925869,2017-02-24,2024-05-28,4.99,2,4,2,10,T,MODERATE,NULL,available,NULL,PayPal,0
+103980,11994,Emma,Bronx,"New York City","Entire Home/Apt",Apartment,44.01,23,36,2.24,230,40.687527,-74.036959,2023-05-20,2021-10-10,4.01,1,1,"1.5 bath",NULL,F,flexible,80,AVAILABLE,Mobile,cash,0
+111586,10939,unknown,Queens,"New York City","Entire Home/Apt",Condo,109.09,16,47,6.4,304,40.725172,-73.946396,2020-10-05,2023-10-24,4.41,2,6,"1.5 bath",3,f,Flexible,NULL,Active,Desktop,card,0
+112935,7469,Olivia,"Staten Island","New York City","Private Room","Guest suite",358.49,4,52,0.73,271,40.636235,-73.949061,2017-10-05,2023-07-29,4.34,10,3,NULL,2,False,moderate,NULL,booked,tablet,Card,0
+109211,10054,Michael,Brooklyn,"New York City","Private Room",Condo,714.92,24,50,1.6,120,40.625366,-73.900722,2021-11-14,NULL,4.72,7,0,1,3,NULL,moderate,90%,Active,desktop,Card,0
+108407,8086,Olivia,Bronx,"New York City","Private Room",NULL,93.44,24,62,1.03,248,40.736178,-73.937991,2023-09-03,2016-01-24,4.08,-1,2,"2.5 baths",12,False,flexible,90%,booked,mobile,NULL,0
+102767,8884,Emma,Brooklyn,"New York City","Shared Room",Townhouse,108.42,15,41,0.82,357,40.805279,-73.976368,2016-12-20,2019-02-20,4.72,10,3,"2.5 baths",NULL,f,strict_14_with_grace_period,100%,active,tablet,paypal,0
+111915,5561,Sophia,"Staten Island","New York City","Entire Home/Apt",Loft,62.25,15,41,4.13,322,40.698154,-73.906948,2019-03-06,2024-09-19,4.26,6,NULL,"3 baths",12,f,strict,"85 %",AVAILABLE,tablet,Card,0
+103683,5896,"John Smith",Queens,"New York City","Private Room","House ",235.43,5,52,2.92,338,40.819887,-73.949687,2021-03-16,2019-04-17,4.28,4,-1,2,3,F,strict_14_with_grace_period,90%,AVAILABLE,desktop,card,0
+119899,10050,"John Smith",Brooklyn,"New York City","Entire Home/Apt",Loft,236.6,29,55,4.7,359,40.696074,-73.945222,2020-02-19,2016-09-14,3.37,6,2,"1.5 bath",10,t,MODERATE,80,AVAILABLE,tablet,NULL,0
+110691,10994,Sophia,Brooklyn,"New York City","Shared Room",House,113.9,6,43,NULL,24,40.736338,-74.003132,2019-06-01,2024-01-04,4.33,0,NULL,1.5,4,True,flexible,100%,AVAILABLE,NULL,Card,0
+119045,5148,Michael,Brooklyn,"New York City","Private Room","House ",129.72,27,61,4.13,363,40.75114,-73.829557,2017-06-25,2018-06-21,4.62,-1,-1,"1 bath",3,T,strict_14_with_grace_period,"85 %",Active,Mobile,PayPal,0
+109163,8993,unknown,Brooklyn,"New York City","Private Room",Apartment,128.5,26,40,1.82,113,40.75193,-73.909102,2016-03-23,NULL,5,10,4,1,5,f,flexible,80,AVAILABLE,tablet,cash,0
+106330,5273,unknown,Brooklyn,"New York City","Hotel Room",House,62.06,18,47,1.56,107,40.694195,-73.906429,2022-09-07,2023-07-29,4.57,-1,5,"1 bath",3,False,strict,NULL,booked,Desktop,PayPal,0
+108154,7522,Michael,Manhattan,"New York City","Entire Home/Apt",House,86.93,60,41,NULL,332,40.722461,-74.059309,2022-12-13,2019-08-27,3.69,4,NULL,"2 baths",10,f,strict,95%,AVAILABLE,desktop,PayPal,0
+109214,11998,David,"Staten Island","New York City","Entire Home/Apt",Loft,108.41,21,47,4.31,299,40.70535,-73.988269,2021-08-19,2025-07-10,4.17,0,5,"3 baths",3,F,Flexible,"85 %",booked,mobile,cash,0
+106240,11752,unknown,Manhattan,"New York City","Entire Home/Apt",apartment,120.65,12,51,3.36,172,40.700172,-73.945051,2020-04-04,2018-01-09,4.62,4,3,"1 bath",12,f,flexible,80,Active,tablet,Card,0
+110762,11299,Emma,Bronx,"New York City","Entire Home/Apt","Guest suite",497,8,51,2.63,97,40.718186,-73.96304,2015-04-17,2018-09-25,4.23,0,0,"2 baths",2,t,flexible,95%,available,desktop,paypal,0
+111465,8259,Emma,Manhattan,"New York City","Shared Room","Guest suite",166,14,53,0.63,188,40.757166,-73.991411,2019-06-14,2022-12-07,4.73,5,3,1,6,True,MODERATE,"85 %",active,desktop,NULL,0
+117788,11368,"John Smith",Brooklyn,"New York City","Hotel Room","Guest suite",82.86,90,45,3.94,231,40.726671,-74.069619,2018-02-23,2019-08-22,5,NULL,NULL,"2.5 baths",5,True,strict,80,active,Mobile,PayPal,0
+102042,5029,Emma,Brooklyn,"New York City","Entire Home/Apt",Apartment,167.53,180,45,3.19,212,40.734801,-73.942792,2015-05-05,2023-03-19,3.77,6,NULL,"2.5 baths",4,F,strict,NULL,booked,Mobile,paypal,0
+101347,5346,Sophia,"Staten Island","New York City","Hotel Room",Loft,44.86,6,43,4.38,110,40.791384,-73.919834,2022-08-13,2021-04-24,4.16,7,-1,"3 baths",NULL,False,strict,NULL,booked,mobile,PayPal,0
+103966,11247,Michael,"Staten Island","New York City","Entire Home/Apt",Condo,617.27,11,39,2.71,188,40.705864,-73.859362,2018-09-07,2021-06-03,NULL,0,2,1.5,12,t,MODERATE,95%,AVAILABLE,Mobile,paypal,0
+103278,9284,unknown,Bronx,"New York City","Shared Room",Townhouse,97.93,1,47,1.66,285,40.660521,-73.960997,2025-08-29,2015-06-10,4.17,0,5,"1 bath",4,False,moderate,NULL,NULL,Mobile,NULL,0
+103270,10589,Michael,Brooklyn,"New York City","Private Room",apartment,71.3,9,49,3.65,186,40.745872,-73.863416,2021-03-30,2015-01-19,4.65,NULL,NULL,1,12,NULL,Flexible,NULL,booked,desktop,PayPal,0
+105251,6089,David,Bronx,"New York City","Entire Home/Apt",NULL,401.49,14,43,2.25,296,40.720676,-73.929459,2015-03-08,2017-03-12,3.84,10,1,"2 baths",10,F,flexible,80,booked,mobile,paypal,0
+110808,11892,unknown,Brooklyn,"New York City","Private Room",Condo,223.56,60,43,0.88,19,40.740435,-73.939282,2021-12-06,2016-11-11,NULL,8,5,"2 baths",3,False,strict,80,AVAILABLE,desktop,Card,0
+116585,10530,unknown,"Staten Island","New York City","Private Room",NULL,48.34,1,37,5.42,41,40.686462,-73.901246,2023-09-11,2020-03-16,4.74,8,3,"1.5 bath",NULL,True,moderate,"85 %",AVAILABLE,NULL,card,0
+113752,11269,Emma,Queens,"New York City","Shared Room","Guest suite",92.76,19,48,2.56,207,40.733599,-73.999679,2020-01-31,2018-10-12,4.62,10,-1,1.5,12,f,MODERATE,95%,Active,mobile,paypal,0
+112557,9333,Olivia,"Staten Island","New York City","Private Room",NULL,186.19,26,35,0.12,233,40.73888,-73.901406,2023-08-17,2019-03-26,4.76,-1,1,"3 baths",8,T,moderate,100%,booked,NULL,NULL,0
+102271,6083,Sophia,"Staten Island","New York City","Private Room","House ",133.26,11,38,2.74,270,40.751336,-73.93349,2025-05-08,2020-04-26,NULL,1,-1,1.5,4,False,strict_14_with_grace_period,"85 %",Active,Desktop,card,0
+111427,6665,Sophia,"Staten Island","New York City","Private Room",Loft,226.32,2,51,0.99,316,40.63183,-74.033155,2019-10-16,2017-10-19,4.7,10,2,1.5,8,True,strict,"85 %",NULL,mobile,card,0
+118726,9515,Olivia,Queens,"New York City","Private Room",Townhouse,65.66,1,41,2.3,352,40.678766,-73.9692,2019-04-18,2015-03-21,4.19,-1,3,"1 bath",6,True,moderate,80,AVAILABLE,NULL,cash,0
+108269,11355,Sophia,Manhattan,"New York City","Private Room",Apartment,96.19,29,43,1.14,232,40.743482,-74.071266,2024-11-11,NULL,3.95,1,3,1,10,T,flexible,NULL,Active,mobile,Card,0
+104642,8286,Emma,Bronx,"New York City","Entire Home/Apt",Condo,75.14,23,47,2.1,263,40.717719,-73.987284,2020-07-05,2018-02-24,4.47,6,1,"1 bath",1,NULL,moderate,NULL,booked,tablet,Card,0
+103572,7212,Olivia,Manhattan,"New York City","Shared Room","House ",42,90,39,1.74,93,40.756818,-73.880869,2019-10-14,2021-04-04,3.87,5,3,"2 baths",4,F,flexible,95%,Active,NULL,Card,0
+104955,5825,unknown,Manhattan,"New York City","Entire Home/Apt",Apartment,138,27,41,0.62,111,40.622088,-74.064486,2015-08-24,2021-05-27,4.28,-1,6,"1 bath",NULL,NULL,MODERATE,90%,NULL,desktop,PayPal,0
+111319,6354,Sophia,Bronx,"New York City","Private Room",NULL,319.39,30,50,NULL,223,40.717178,-73.950409,2018-01-08,2022-06-28,3.94,10,-1,"1 bath",8,F,MODERATE,NULL,available,desktop,paypal,0
+119272,6456,unknown,Bronx,"New York City","Private Room",House,194.06,6,53,6.5,266,40.754359,-73.982371,2019-01-01,2023-11-14,4.85,0,6,"1 bath",10,False,Flexible,95%,booked,desktop,PayPal,0
+119184,5365,Emma,Brooklyn,"New York City","Hotel Room",Apartment,122.31,13,56,4.1,53,40.663836,-73.944845,2016-05-25,2019-08-29,5,4,6,1.5,2,f,Flexible,NULL,booked,Mobile,cash,0
+104154,5797,Emma,Brooklyn,"New York City","Shared Room","Guest suite",294.87,7,44,1.11,43,40.647717,-73.788215,2019-04-24,2024-06-02,4.3,4,6,1.5,8,T,Flexible,"85 %",NULL,mobile,PayPal,0
+104721,10678,Michael,Manhattan,"New York City","Private Room",Condo,100.88,7,39,4.2,184,40.728501,-74.077822,2022-07-28,NULL,3.57,2,3,NULL,6,F,strict,100%,booked,Desktop,paypal,0
+111657,7147,unknown,Bronx,"New York City","Shared Room","House ",138.44,12,41,6.68,153,40.781739,-73.859216,2018-07-19,2023-11-14,4.52,-1,3,1,8,T,moderate,95%,booked,Mobile,NULL,0
+105788,6541,Emma,"Staten Island","New York City","Entire Home/Apt",Condo,115.92,25,56,NULL,251,40.677694,-73.99603,2025-06-23,2021-12-13,3.96,6,5,"2.5 baths",6,T,flexible,95%,active,Mobile,NULL,0
+106474,8309,unknown,"Staten Island","New York City","Shared Room",NULL,193.88,1000,41,1.43,292,40.703695,-74.059465,2019-05-30,2019-07-22,5,6,NULL,"2.5 baths",NULL,f,MODERATE,90%,AVAILABLE,tablet,paypal,0
+103911,6326,"John Smith",Brooklyn,"New York City","Private Room",Loft,229.52,14,52,1.93,324,40.764342,-73.90865,2025-05-03,2025-03-07,4.04,6,4,NULL,4,F,flexible,80,booked,mobile,NULL,0
+100425,10089,Michael,Bronx,"New York City","Hotel Room",Townhouse,145.21,27,34,1.02,220,40.742135,-73.967337,2020-01-06,2024-02-12,3.95,2,NULL,"2 baths",2,f,MODERATE,"85 %",AVAILABLE,desktop,Card,0
+108257,11629,unknown,Queens,"New York City","Entire Home/Apt","Guest suite",412.04,20,42,1.93,103,40.720993,-74.042003,2016-03-26,2020-09-06,4.82,8,1,"1.5 bath",NULL,True,strict_14_with_grace_period,"85 %",AVAILABLE,tablet,cash,0
+109741,6508,unknown,Brooklyn,"New York City","Entire Home/Apt","Guest suite",119.45,22,36,1.36,198,40.696174,-73.961456,2015-11-07,2022-09-14,NULL,7,5,"1 bath",5,True,moderate,90%,NULL,NULL,PayPal,0
+116154,7061,Emma,Brooklyn,"New York City","Private Room",House,59.15,8,45,0.74,173,40.64961,-73.902373,2015-04-04,2015-10-25,4.68,2,0,1.5,10,True,moderate,NULL,NULL,NULL,PayPal,0
+119797,7399,Emma,Bronx,"New York City","Hotel Room",Apartment,116.16,28,48,1.55,22,40.751138,-73.9706,2023-02-22,2015-03-01,4.8,4,0,"1 bath",1,T,strict_14_with_grace_period,80,AVAILABLE,Desktop,cash,0
+117087,7467,David,Manhattan,"New York City","Hotel Room",NULL,160.75,365,52,1.88,303,40.823851,-74.097835,2015-06-03,2015-07-21,4.95,5,6,NULL,10,True,strict_14_with_grace_period,80,booked,desktop,NULL,0
+109193,5920,unknown,Queens,"New York City","Shared Room",Townhouse,68.68,28,38,1.37,40,40.750969,-73.880613,2019-05-12,2019-08-11,4.28,1,0,1.5,12,True,flexible,"85 %",AVAILABLE,Desktop,cash,0
+107970,10819,Emma,Queens,"New York City","Shared Room","House ",270.11,10,34,2.69,286,40.742966,-73.990112,2016-10-20,2016-11-10,4.53,5,4,"2.5 baths",5,False,flexible,NULL,booked,tablet,NULL,0
+108823,6877,Olivia,Queens,"New York City","Shared Room",Apartment,412.56,16,48,2.02,210,40.697001,-73.98534,2022-07-02,2019-08-28,4.48,3,3,"2 baths",3,t,strict,"85 %",booked,NULL,card,0
+114649,7319,"John Smith",Bronx,"New York City","Entire Home/Apt",Loft,279.93,27,52,1.06,247,40.816734,-74.072721,2021-03-23,2016-06-03,4,4,5,2,12,t,MODERATE,NULL,available,NULL,PayPal,0
+106271,10487,Olivia,Manhattan,"New York City","Hotel Room","Guest suite",179.88,14,47,NULL,263,40.765329,-73.916558,2018-12-01,2020-04-20,4.17,4,NULL,"2.5 baths",3,False,Flexible,80,Active,desktop,Card,0
+105853,8840,Emma,Bronx,"New York City","Private Room","House ",94.14,18,56,2.94,308,40.709547,-73.978974,2015-01-12,NULL,4.66,5,0,1.5,4,False,flexible,"85 %",active,mobile,card,0
+118862,11241,Michael,"Staten Island","New York City","Private Room",NULL,351.82,18,54,2.9,137,40.679504,-74.047414,2022-04-30,2016-02-12,4.05,5,1,"2 baths",2,F,Flexible,80,booked,NULL,paypal,0
+100328,8171,"John Smith","Staten Island","New York City","Shared Room",Apartment,116.56,20,46,0.52,310,40.725731,-74.022342,2021-08-02,2024-08-19,4.3,-1,0,1.5,8,F,strict_14_with_grace_period,90%,active,Desktop,paypal,0
+117292,6617,"John Smith",Queens,"New York City","Private Room",Loft,119,15,43,1.66,329,40.737734,-73.981182,2016-11-19,2021-12-02,3.59,-1,6,1,3,f,flexible,NULL,AVAILABLE,desktop,PayPal,0
+118197,8321,unknown,Queens,"New York City","Private Room",House,235.16,26,40,3.17,355,40.813506,-73.953782,2021-09-25,2020-03-06,4.23,0,5,1.5,1,False,strict,90%,available,tablet,card,0
+106245,8410,David,"Staten Island","New York City","Shared Room",Condo,185.28,22,50,2.72,230,40.751607,-73.884317,2016-06-04,2017-05-18,4.77,2,1,"3 baths",12,T,moderate,"85 %",available,tablet,NULL,0
+107518,6232,Sophia,Queens,"New York City","Hotel Room",NULL,114.37,27,43,3.53,151,40.820348,-73.982857,2019-04-26,2016-03-01,4.39,7,1,"3 baths",6,F,Flexible,NULL,Active,NULL,PayPal,0
+116278,10424,David,Queens,"New York City","Hotel Room",Townhouse,272.03,14,43,0.27,27,40.667887,-73.952567,2019-12-29,2023-09-29,3.9,NULL,2,1,1,T,MODERATE,NULL,active,mobile,PayPal,0
+101007,8267,"John Smith",Manhattan,"New York City","Entire Home/Apt",House,148.6,3,41,0.31,327,40.722159,-73.960006,2023-07-30,NULL,4.5,6,5,"1.5 bath",1,T,MODERATE,80,booked,tablet,card,0
+112526,9326,Emma,Bronx,"New York City","Hotel Room",Townhouse,91.09,27,45,1.43,84,40.836648,-73.955779,2020-11-25,2018-05-02,5,5,6,1.5,6,False,MODERATE,90%,Active,Mobile,NULL,0
+107935,8184,Michael,Brooklyn,"New York City","Shared Room",House,101.35,28,45,0.97,209,40.800487,-74.057181,2018-07-27,2019-04-26,3.39,8,0,1,4,NULL,moderate,80,booked,mobile,paypal,0
+100089,5162,Michael,Queens,"New York City","Hotel Room",Townhouse,179.38,26,48,5.12,98,40.848959,-73.942597,2021-01-11,2023-12-12,4.55,4,4,"1 bath",2,t,strict_14_with_grace_period,90%,AVAILABLE,desktop,NULL,0
+114068,9820,Michael,"Staten Island","New York City","Shared Room",Townhouse,173,23,63,1.25,123,40.754965,-74.037797,2021-07-16,2023-10-05,4.28,5,5,"1 bath",6,True,flexible,100%,AVAILABLE,Mobile,cash,0
+109359,9763,unknown,Manhattan,"New York City","Private Room","House ",124.5,25,45,5.8,177,40.785031,-73.901394,2023-03-13,2025-02-10,4.75,10,5,NULL,1,f,MODERATE,90%,booked,tablet,NULL,0
+102715,8603,unknown,"Staten Island","New York City","Entire Home/Apt","House ",170.12,28,57,1,264,40.686705,-74.031127,2015-12-20,2019-03-04,4.19,2,-1,1.5,1,T,moderate,100%,Active,Desktop,NULL,0
+108179,9670,David,Queens,"New York City","Entire Home/Apt","House ",163.22,21,46,1.91,295,40.747654,-74.082431,2025-03-18,2018-09-07,4.12,1,3,"2 baths",8,T,MODERATE,NULL,AVAILABLE,desktop,cash,0
+110813,10998,unknown,Brooklyn,"New York City","Private Room",Townhouse,100.52,365,58,0.47,220,40.647794,-74.050364,2018-08-29,2015-09-24,4.35,10,5,"1.5 bath",3,F,MODERATE,90%,Active,desktop,paypal,0
+110432,7861,Michael,Bronx,"New York City","Shared Room",NULL,126.47,9,49,1.82,138,40.70528,-73.908581,2017-02-14,2016-01-01,4.81,NULL,0,"1.5 bath",1,True,strict_14_with_grace_period,"85 %",Active,tablet,Card,0
+110841,10003,Michael,Manhattan,"New York City","Private Room",House,134.53,13,45,1.02,239,40.706883,-73.850046,2015-04-12,2024-08-28,4.23,10,NULL,"2 baths",2,NULL,strict,90%,active,NULL,PayPal,0
+109410,5523,unknown,Brooklyn,"New York City","Entire Home/Apt",apartment,121.66,20,44,1.82,78,40.714343,-73.867759,2019-07-25,NULL,4.19,NULL,0,NULL,5,NULL,strict_14_with_grace_period,90%,booked,desktop,PayPal,0
+105378,8259,Emma,Brooklyn,"New York City","Private Room",NULL,93.72,12,42,2.65,174,40.683671,-74.094847,2020-04-17,2019-10-10,4.49,7,1,1,10,NULL,Flexible,NULL,Active,NULL,cash,0
+105450,5567,Emma,Bronx,"New York City","Hotel Room",apartment,87.69,28,43,1.75,129,40.650491,-73.954983,2021-11-14,NULL,4.87,NULL,3,NULL,6,F,strict,100%,NULL,desktop,NULL,0
+104681,11651,Emma,Queens,"New York City","Private Room","House ",198.79,9,52,1.35,106,40.721574,-73.947317,2018-07-30,2024-08-12,4.1,3,5,1.5,5,False,flexible,"85 %",available,NULL,NULL,0
+118512,11114,Olivia,Queens,"New York City","Entire Home/Apt",Condo,338,25,43,2.08,217,40.628339,-73.888089,2018-02-22,2016-02-19,3.82,5,6,"2 baths",3,f,flexible,80,NULL,Mobile,card,0
+105889,10878,unknown,"Staten Island","New York City","Entire Home/Apt",apartment,100.75,60,41,3.02,325,40.631366,-73.850438,2016-12-29,2015-09-01,NULL,-1,2,NULL,4,True,strict,95%,active,tablet,PayPal,0
+103048,11725,"John Smith",Bronx,"New York City","Entire Home/Apt",Condo,128.68,90,36,1.58,119,40.734311,-73.924022,2025-05-27,2020-01-05,4.58,5,1,1,8,t,strict_14_with_grace_period,NULL,active,desktop,Card,0
+107577,7898,unknown,Bronx,"New York City","Hotel Room","Guest suite",155.15,7,40,1.72,357,40.746524,-74.00011,2020-07-08,2022-03-04,4.63,4,4,2,4,T,strict,100%,available,Mobile,card,0
+106384,5537,unknown,Manhattan,"New York City","Private Room",Loft,67.83,22,51,3.72,323,40.73549,-73.915641,2023-06-03,2023-10-10,3.95,-1,1,1,10,True,strict_14_with_grace_period,95%,available,Desktop,paypal,0
+111574,9664,"John Smith",Queens,"New York City","Hotel Room",Townhouse,68.63,16,55,2,109,40.689055,-73.956408,2025-08-06,2021-11-03,5,10,1,2,2,True,moderate,90%,AVAILABLE,mobile,paypal,0
+102393,7735,Olivia,Manhattan,"New York City","Private Room",Townhouse,236.05,18,48,2.7,89,40.692911,-73.894441,2019-03-08,2016-01-23,4.03,3,2,1.5,2,NULL,flexible,100%,booked,tablet,PayPal,0
+106955,9043,David,Brooklyn,"New York City","Private Room",Loft,112.58,365,38,0.59,137,40.760967,-73.919496,2023-11-18,2017-03-01,NULL,0,4,2,2,t,Flexible,90%,AVAILABLE,tablet,PayPal,0
+102784,9753,Sophia,Queens,"New York City","Shared Room",apartment,134.48,27,39,0.19,359,40.741898,-73.966402,2018-12-28,2017-06-25,4.15,3,5,NULL,NULL,t,MODERATE,80,active,NULL,Card,0
+102451,10456,David,Bronx,"New York City","Private Room",Loft,145.57,29,45,0.54,194,40.744309,-73.952338,2020-06-30,2024-12-06,4.09,4,6,"1.5 bath",8,t,strict,NULL,Active,mobile,PayPal,0
+115197,9667,David,Queens,"New York City","Entire Home/Apt",Loft,313.49,18,48,0.96,83,40.677527,-73.859549,2019-10-06,2017-04-28,4.62,6,-1,1,1,f,Flexible,90%,Active,desktop,cash,0
+119616,5372,Emma,Manhattan,"New York City","Hotel Room",House,257.43,30,46,1.68,166,40.691764,-73.998436,2020-01-21,2025-03-17,4.45,7,5,2,5,f,flexible,"85 %",active,mobile,Card,0
+104473,5471,unknown,Bronx,"New York City","Entire Home/Apt",Townhouse,115.89,29,40,1.2,327,40.709021,-74.023331,2023-05-26,2020-04-16,4.74,7,4,NULL,1,f,flexible,80,NULL,Desktop,NULL,0
+108455,11966,"John Smith",Brooklyn,"New York City","Private Room",Loft,103.5,22,40,3.03,353,40.76051,-73.902547,2024-11-25,2015-04-03,4.01,2,0,2,1,False,Flexible,"85 %",active,Desktop,cash,0
+103976,5727,Emma,"Staten Island","New York City","Shared Room",NULL,508.66,19,41,0.85,328,40.604566,-73.980989,2024-05-08,2020-04-19,4.41,5,3,"1.5 bath",10,t,MODERATE,"85 %",active,NULL,card,0
+101531,5944,unknown,Bronx,"New York City","Private Room",apartment,220.59,3650,54,3.81,65,40.736765,-73.909647,2022-11-11,2019-02-18,4.45,10,0,"1.5 bath",NULL,True,MODERATE,80,AVAILABLE,tablet,PayPal,0
+111784,11522,Olivia,Brooklyn,"New York City","Entire Home/Apt",Condo,50.11,4,52,5.83,331,40.728453,-73.968042,2021-11-03,2017-05-04,3.91,10,4,1.5,12,NULL,Flexible,80,available,desktop,PayPal,0
+107626,10730,Sophia,"Staten Island","New York City","Hotel Room",apartment,255.51,11,55,2.98,172,40.777696,-73.903898,2025-04-05,2020-09-16,3.84,10,3,"2.5 baths",6,T,moderate,95%,NULL,NULL,Card,0
+115497,5870,Olivia,Brooklyn,"New York City","Entire Home/Apt",Loft,196.17,27,51,0.66,186,40.794188,-73.961131,2022-08-08,NULL,4.9,2,0,"1.5 bath",6,False,flexible,95%,booked,Desktop,NULL,0
+102118,9445,Olivia,Manhattan,"New York City","Private Room","Guest suite",508.69,20,37,1.62,221,40.653496,-74.027554,2017-03-12,NULL,3.91,10,-1,1,2,True,moderate,95%,available,mobile,card,0
+108575,5889,"John Smith",Queens,"New York City","Shared Room",Apartment,67.64,16,42,0.18,86,40.644251,-73.963115,2015-04-23,2019-12-22,4.11,7,2,1.5,6,t,strict_14_with_grace_period,90%,booked,NULL,Card,0
+119044,5191,unknown,Queens,"New York City","Hotel Room",Apartment,233.35,11,50,0.59,359,40.731296,-73.998426,2022-03-24,2020-09-27,3.92,5,5,"1 bath",4,F,strict_14_with_grace_period,100%,available,Desktop,NULL,0
+111201,5326,Olivia,Bronx,"New York City","Entire Home/Apt",Townhouse,75.51,23,46,1.41,21,40.665173,-73.939793,2015-11-20,2017-06-01,4.7,1,0,"1.5 bath",6,False,MODERATE,"85 %",NULL,tablet,card,0
+104528,8238,Michael,Bronx,"New York City","Private Room",Loft,119.76,18,48,1.26,133,40.735426,-73.932698,2020-07-31,2020-11-07,5,3,-1,"2.5 baths",4,f,Flexible,"85 %",AVAILABLE,desktop,card,0
+108874,6389,Sophia,Brooklyn,"New York City","Shared Room",Townhouse,141.27,28,47,1.59,111,40.652685,-73.989994,2025-05-31,NULL,4.5,6,0,2,3,F,moderate,95%,NULL,Desktop,paypal,0
+103580,10330,Michael,Queens,"New York City","Private Room","House ",264.51,1000,47,1.05,181,40.659293,-74.045884,2021-08-12,2025-03-22,4.06,3,1,1,4,True,Flexible,NULL,AVAILABLE,mobile,PayPal,0
+119597,11394,Emma,"Staten Island","New York City","Hotel Room",House,112.72,365,44,7.97,213,40.667156,-73.958403,2025-08-02,2018-06-25,3.72,7,1,"2 baths",8,t,strict_14_with_grace_period,100%,available,Mobile,Card,0
+103734,8809,unknown,Bronx,"New York City","Entire Home/Apt",Apartment,78.9,20,42,1.58,175,40.79657,-74.086511,2021-09-18,2018-03-21,4.18,1,3,"2 baths",8,T,moderate,"85 %",active,tablet,Card,0
+118132,9666,Olivia,"Staten Island","New York City","Hotel Room",Townhouse,77.01,29,48,3.03,46,40.696379,-73.982209,2017-04-16,2022-08-19,3.77,2,4,"2 baths",6,False,strict_14_with_grace_period,95%,Active,tablet,paypal,0
+104937,11109,unknown,Queens,"New York City","Private Room",Townhouse,146.31,1,41,0.14,174,40.73229,-73.846646,2021-06-16,2024-11-18,4.68,10,NULL,"1 bath",8,True,Flexible,NULL,booked,Desktop,card,0
+119590,9980,Sophia,Queens,"New York City","Private Room",Loft,472.26,8,52,8.14,160,40.62593,-74.020786,2022-04-07,2019-03-09,5,3,1,"1.5 bath",12,False,flexible,95%,active,tablet,cash,0
+103019,7445,Michael,Brooklyn,"New York City","Hotel Room","House ",60.75,5,36,3.72,263,40.752533,-73.951292,2017-10-03,2019-11-25,5,NULL,4,1.5,4,False,MODERATE,80,booked,tablet,Card,0
+107959,8159,Sophia,Brooklyn,"New York City","Private Room",apartment,50.07,13,48,0.99,8,40.700711,-74.00012,2019-06-30,2015-09-20,4.23,2,NULL,"1 bath",8,NULL,MODERATE,"85 %",active,Desktop,card,0
+119180,11135,Emma,Bronx,"New York City","Private Room","Guest suite",90.08,18,42,1.4,273,40.79598,-73.944079,2023-11-02,2016-06-20,4.72,-1,1,"1.5 bath",10,NULL,MODERATE,90%,AVAILABLE,Mobile,cash,0
+107154,5852,Sophia,Manhattan,"New York City","Private Room",Condo,162.43,21,41,0.45,198,40.550646,-73.948525,2022-11-25,2020-02-21,4.48,10,0,NULL,1,t,strict_14_with_grace_period,"85 %",active,desktop,cash,0
+101806,6772,unknown,Brooklyn,"New York City","Private Room",Loft,90.83,16,33,0.44,119,40.63397,-73.974911,2022-04-27,NULL,4.13,2,-1,"1.5 bath",12,t,flexible,100%,booked,Desktop,cash,0
+119606,7694,Olivia,Manhattan,"New York City","Private Room",apartment,85.06,28,48,0.87,352,40.832938,-73.994024,2023-08-18,2015-04-17,4.05,1,6,1.5,5,T,flexible,95%,AVAILABLE,Mobile,paypal,0
+113062,9585,unknown,"Staten Island","New York City","Hotel Room",apartment,98.55,17,48,0.88,252,40.687769,-73.93158,2018-01-19,2018-03-07,4.73,7,2,"3 baths",1,NULL,Flexible,80,active,NULL,cash,0
+114064,10154,Michael,"Staten Island","New York City","Hotel Room",NULL,124.86,14,42,2.61,358,40.703984,-73.934461,2020-08-13,2023-06-01,4.48,4,1,"1 bath",6,False,strict,90%,AVAILABLE,desktop,Card,0
+110331,7748,Olivia,Manhattan,"New York City","Entire Home/Apt",Apartment,324,60,41,1.98,16,40.776353,-74.064738,2021-10-21,2025-03-21,4.99,6,1,"2 baths",12,NULL,strict_14_with_grace_period,"85 %",Active,NULL,cash,0
+107889,6168,"John Smith",Brooklyn,"New York City","Entire Home/Apt","House ",248.71,16,45,0.2,187,40.653211,-73.963106,2017-01-14,2016-02-09,3.67,10,NULL,"3 baths",8,F,strict_14_with_grace_period,NULL,available,NULL,PayPal,0
+106873,11797,unknown,Bronx,"New York City","Shared Room",NULL,321.51,1000,49,2.59,202,40.597303,-74.006774,2018-03-20,2018-02-23,3.99,10,5,"3 baths",NULL,True,Flexible,100%,booked,tablet,NULL,0
+105548,7978,Emma,"Staten Island","New York City","Entire Home/Apt","House ",170.77,16,36,NULL,71,40.711944,-73.9666,2023-06-06,2015-06-12,4.15,-1,2,NULL,2,T,MODERATE,80,booked,mobile,paypal,0
+115723,11264,Michael,Queens,"New York City","Hotel Room",NULL,168.37,3650,37,0.27,334,40.697954,-74.017485,2018-02-22,2022-08-10,4.21,5,6,"1.5 bath",4,NULL,Flexible,80,booked,NULL,card,0
+110728,5105,unknown,Bronx,"New York City","Hotel Room","Guest suite",260.35,28,55,1.27,146,40.742053,-73.920554,2025-03-08,NULL,4.2,6,NULL,1.5,NULL,NULL,Flexible,"85 %",available,mobile,PayPal,0
+109168,6993,Michael,Queens,"New York City","Private Room",Apartment,115.23,26,31,2.48,30,40.752052,-73.932653,2016-07-01,2019-09-21,5,7,1,NULL,2,NULL,moderate,95%,available,mobile,PayPal,0
+108716,10333,Sophia,Bronx,"New York City","Hotel Room",House,105.22,3,33,NULL,136,40.654897,-73.784435,2018-04-01,2024-10-28,4.2,2,3,1,1,True,MODERATE,90%,active,Desktop,card,0
+104029,11402,"John Smith",Bronx,"New York City","Private Room",apartment,91.15,2,47,0.37,222,40.714091,-73.887453,2016-03-03,2025-08-18,3.66,-1,4,1,2,NULL,strict_14_with_grace_period,80,Active,tablet,Card,0
+108526,5078,"John Smith",Bronx,"New York City","Shared Room",Condo,159.12,27,55,0.42,104,40.645833,-73.933021,2017-01-02,NULL,4.08,10,-1,1.5,1,NULL,strict_14_with_grace_period,90%,available,desktop,Card,0
+113488,10826,unknown,Manhattan,"New York City","Entire Home/Apt",Apartment,295.48,60,42,6.08,196,40.64739,-73.909114,2018-06-03,2015-10-02,4.02,0,-1,"1 bath",NULL,t,moderate,NULL,NULL,desktop,cash,0
+102468,11455,unknown,Brooklyn,"New York City","Entire Home/Apt",House,55.59,25,51,0.61,188,40.702966,-73.965848,2022-09-15,2022-02-27,3.49,8,3,"2 baths",5,True,strict_14_with_grace_period,80,booked,Desktop,card,0
+106249,11750,Michael,Bronx,"New York City","Shared Room",House,114.25,6,43,1.09,44,40.79721,-73.930721,2019-03-03,NULL,4.44,-1,6,"1.5 bath",NULL,NULL,Flexible,"85 %",available,tablet,Card,0
+104817,7218,Sophia,Queens,"New York City","Private Room",Townhouse,165.7,26,53,1.6,339,40.687804,-73.929946,2022-08-26,2022-07-24,4.04,5,6,"2 baths",1,False,moderate,90%,NULL,Mobile,cash,0
+103266,11680,"John Smith",Queens,"New York City","Shared Room",Apartment,64.69,18,38,1.23,269,40.68893,-73.980661,2023-03-05,2023-04-07,4.09,3,-1,"1.5 bath",3,False,strict,95%,booked,Desktop,Card,0
+104442,11353,Olivia,Queens,"New York City","Private Room","Guest suite",98.81,5,43,5.49,33,40.690011,-74.01552,2023-05-09,2018-03-29,5,NULL,1,NULL,5,False,MODERATE,80,AVAILABLE,Mobile,cash,0
+119763,6850,Olivia,Brooklyn,"New York City","Entire Home/Apt",NULL,183,18,39,2.44,77,40.781105,-73.926139,2021-06-30,2023-10-23,4.32,3,-1,"1 bath",2,t,strict_14_with_grace_period,80,active,mobile,cash,0
+105554,10553,David,Brooklyn,"New York City","Entire Home/Apt","House ",73.39,13,45,2.01,331,40.788634,-73.954879,2020-10-17,2017-12-03,4.32,4,6,"1 bath",10,f,Flexible,90%,active,Desktop,NULL,0
+109680,9772,Emma,Bronx,"New York City","Entire Home/Apt",Apartment,148.76,13,46,1.2,132,40.710776,-73.982858,2019-06-13,2019-04-29,4.17,5,0,"2 baths",10,t,flexible,"85 %",booked,NULL,Card,0
+108697,11058,Sophia,"Staten Island","New York City","Private Room",Condo,262.03,2,53,2.71,118,40.730074,-73.957349,2023-01-11,2023-01-06,3.79,-1,1,1.5,3,f,strict_14_with_grace_period,"85 %",booked,desktop,NULL,0
+117836,10819,unknown,Manhattan,"New York City","Private Room",Condo,204.47,23,50,0.2,133,40.65106,-73.948477,2015-12-13,2019-10-03,3.99,8,NULL,2,6,F,strict_14_with_grace_period,95%,Active,tablet,NULL,0
+119046,9501,unknown,Brooklyn,"New York City","Entire Home/Apt",NULL,71,5,58,4.89,111,40.701207,-73.86973,2016-10-18,2018-07-07,4.31,NULL,NULL,2,2,True,flexible,80,Active,desktop,NULL,0
+100222,5664,unknown,Manhattan,"New York City","Shared Room",Condo,169.48,7,52,1.59,161,40.651626,-73.973267,2025-03-01,2016-06-20,3.82,-1,0,"2.5 baths",10,T,flexible,95%,available,desktop,paypal,0
+106370,9568,Emma,Manhattan,"New York City","Entire Home/Apt",Condo,167.16,15,47,0.19,299,40.674039,-74.023956,2021-05-04,2019-07-03,NULL,3,-1,1.5,6,f,moderate,100%,NULL,desktop,card,0
+103324,7529,"John Smith",Manhattan,"New York City","Hotel Room",Apartment,62.08,30,39,5.05,264,40.771004,-73.885762,2022-11-18,2020-03-19,4.26,1,4,1.5,5,f,Flexible,"85 %",available,NULL,PayPal,0
+103669,5190,unknown,"Staten Island","New York City","Private Room",Apartment,279.97,12,52,0.66,55,40.720108,-73.851569,2015-02-22,2023-09-20,3.72,0,4,1.5,2,F,moderate,100%,NULL,NULL,card,0
+110405,6448,Emma,Bronx,"New York City","Private Room","House ",902.38,24,43,0.81,261,40.738873,-74.048475,2018-12-16,2015-09-03,4.39,1,NULL,"2.5 baths",NULL,F,flexible,NULL,AVAILABLE,NULL,card,0
+112895,11347,Sophia,Brooklyn,"New York City","Private Room",Townhouse,188.99,29,46,2.25,239,40.665937,-73.951226,2017-03-08,2020-07-10,5,10,3,"2 baths",3,False,flexible,95%,AVAILABLE,tablet,NULL,0
+100211,10069,Michael,Brooklyn,"New York City","Entire Home/Apt",Loft,432.44,5,42,2.74,182,40.654763,-74.09017,2018-11-28,2024-12-12,NULL,6,-1,"2.5 baths",3,True,MODERATE,90%,available,NULL,paypal,0
+105141,9596,unknown,Bronx,"New York City","Private Room",Condo,172.77,20,40,0.25,294,40.730423,-73.755798,2018-07-03,2024-01-26,4.9,3,6,"1.5 bath",4,T,Flexible,100%,booked,tablet,PayPal,0
+119834,9379,Sophia,Queens,"New York City","Entire Home/Apt",apartment,53.37,19,53,6.95,38,40.746316,-73.968177,2019-10-15,2016-05-13,4.34,8,5,1,6,True,flexible,95%,Active,Desktop,cash,0
+106293,8114,"John Smith",Manhattan,"New York City","Entire Home/Apt",NULL,77.06,25,40,1.32,336,40.661558,-73.971912,2022-05-14,2017-03-15,3.86,1,-1,2,12,NULL,MODERATE,80,NULL,desktop,paypal,0
+100500,8855,Olivia,Bronx,"New York City","Private Room",Apartment,136.22,27,54,1.25,240,40.57685,-74.049529,2020-11-12,NULL,4.53,-1,0,2,4,False,strict,100%,available,Mobile,NULL,0
+118435,5611,unknown,Brooklyn,"New York City","Hotel Room",Loft,140.38,22,47,0.18,58,40.720531,-74.064153,2025-02-12,NULL,4.08,6,5,1.5,6,F,flexible,95%,booked,desktop,cash,0
+102617,9098,Olivia,Brooklyn,"New York City","Hotel Room","Guest suite",72.71,6,65,3.1,185,40.707288,-74.025149,2021-05-24,2018-10-11,4.88,10,6,1,6,F,moderate,100%,Active,desktop,paypal,0
+114494,10814,Sophia,"Staten Island","New York City","Private Room",NULL,35.12,28,24,1.65,147,40.667113,-73.905138,2019-02-03,2022-09-14,5,-1,1,2,NULL,T,strict,80,NULL,desktop,cash,0
+102642,10496,Olivia,Brooklyn,"New York City","Private Room","Guest suite",97.27,60,46,0.43,319,40.749236,-74.090448,2024-05-09,NULL,4.88,6,NULL,"2.5 baths",3,F,strict_14_with_grace_period,100%,NULL,desktop,card,0
+102128,11878,Emma,"Staten Island","New York City","Hotel Room",Townhouse,829.6,10,54,4.36,64,40.732863,-73.882938,2024-07-01,2016-10-12,4.49,-1,3,"1.5 bath",2,True,Flexible,NULL,Active,tablet,NULL,0
+111914,5958,David,Bronx,"New York City","Private Room","Guest suite",86.3,15,35,3.58,41,40.809626,-73.877671,2020-07-13,NULL,4.2,0,0,"1 bath",5,False,strict,NULL,AVAILABLE,mobile,paypal,0
+102445,10414,unknown,"Staten Island","New York City","Private Room","Guest suite",96.11,5,52,3.47,212,40.762121,-73.885579,2024-05-23,2018-08-11,4.07,10,5,2,8,NULL,flexible,100%,AVAILABLE,NULL,card,0
+107325,5502,Sophia,Bronx,"New York City","Shared Room",Townhouse,100.67,17,37,0.65,155,40.764455,-74.027814,2019-05-01,2023-12-17,3.89,4,NULL,"3 baths",10,t,strict_14_with_grace_period,95%,NULL,desktop,NULL,0
+100181,10280,Sophia,Queens,"New York City","Private Room",House,86.22,12,56,1.6,90,40.64416,-73.906258,2018-01-14,2016-10-22,4.85,10,6,1,8,NULL,moderate,"85 %",active,mobile,card,0
+108690,6996,Olivia,Brooklyn,"New York City","Shared Room",apartment,171.65,28,47,3.96,159,40.688995,-74.029987,2023-11-30,2017-11-03,4.34,4,4,"2 baths",10,F,MODERATE,"85 %",available,Desktop,paypal,0
+104220,7047,Sophia,"Staten Island","New York City","Private Room",House,174.88,5,43,0.31,263,40.720469,-73.981413,2017-11-04,2021-06-06,4.63,-1,NULL,"2 baths",4,True,moderate,80,available,Desktop,cash,0
+109677,11698,David,Manhattan,"New York City","Entire Home/Apt",Condo,166.23,9,51,NULL,188,40.633592,-73.964313,2021-10-20,2015-09-17,3.85,10,3,"2.5 baths",5,True,strict_14_with_grace_period,80,NULL,NULL,paypal,0
+119439,9134,Emma,Manhattan,"New York City","Entire Home/Apt",apartment,120.91,28,47,0.63,77,40.764102,-73.989436,2016-06-28,2024-10-13,4.29,NULL,0,"1.5 bath",1,T,strict_14_with_grace_period,80,available,tablet,card,0
+119833,11306,unknown,Bronx,"New York City","Private Room","House ",87.44,90,43,1.12,91,40.78509,-73.789911,2018-01-05,NULL,4.09,1,1,"2 baths",6,NULL,MODERATE,80,active,Mobile,card,0
+109098,10725,David,Brooklyn,"New York City","Private Room","House ",154.3,365,47,0.56,172,40.684671,-73.851359,2017-02-11,2024-09-20,4.95,-1,4,1,3,F,strict_14_with_grace_period,80,available,mobile,PayPal,0
+110661,11898,Emma,Manhattan,"New York City","Private Room","Guest suite",183.08,10,44,0.52,26,40.650918,-74.06716,2015-08-22,NULL,3.85,0,-1,"2.5 baths",12,f,flexible,90%,booked,desktop,card,0
+103634,7401,David,Queens,"New York City","Hotel Room","Guest suite",41.18,25,62,0.17,24,40.762079,-73.960965,2017-05-07,2016-01-06,4.89,8,0,2,NULL,True,moderate,"85 %",active,NULL,paypal,0
+109923,8877,Michael,"Staten Island","New York City","Entire Home/Apt",Loft,259,29,46,4.76,254,40.791253,-73.906121,2017-01-01,2017-05-11,4.46,8,2,"1 bath",4,f,moderate,90%,active,desktop,cash,0
+106665,7781,Michael,Bronx,"New York City","Private Room","Guest suite",69.49,90,61,0.54,320,40.779046,-73.952597,2016-05-20,2021-09-04,4.22,0,-1,"2 baths",2,f,strict,80,active,desktop,NULL,0
+116011,9972,Sophia,Brooklyn,"New York City","Private Room","Guest suite",117.31,1,35,3.39,354,40.699144,-73.894443,2020-07-16,2017-07-22,4.17,0,-1,2,2,f,flexible,90%,active,Desktop,PayPal,0
+101902,9266,"John Smith",Queens,"New York City","Private Room",Loft,174.26,90,41,2.42,20,40.747897,-73.997964,2021-06-13,2016-08-05,NULL,8,3,1,2,T,flexible,95%,Active,mobile,card,0
+111733,7756,Olivia,Manhattan,"New York City","Private Room",Loft,118.75,15,38,2.39,99,40.661584,-73.9137,2021-06-13,2021-06-26,4.34,NULL,NULL,2,12,T,strict,NULL,available,mobile,cash,0
+109676,8461,Sophia,Queens,"New York City","Hotel Room","House ",255.61,3,46,NULL,343,40.597241,-73.951665,2018-02-17,2016-12-28,NULL,10,NULL,1.5,12,NULL,strict_14_with_grace_period,"85 %",AVAILABLE,mobile,paypal,0
+104388,6051,Emma,Bronx,"New York City","Private Room",Loft,138,13,39,1.99,240,40.728177,-73.977235,2018-06-02,2017-01-09,5,0,0,"2.5 baths",1,t,strict_14_with_grace_period,80,booked,desktop,cash,0
+100467,10626,Michael,Bronx,"New York City","Entire Home/Apt",Townhouse,93.01,3,40,0.18,277,40.738771,-73.986112,2015-10-21,2022-06-11,4.86,4,NULL,"2.5 baths",NULL,NULL,MODERATE,80,booked,Mobile,Card,0
+110935,10977,"John Smith",Bronx,"New York City","Shared Room",House,195,1000,56,1.43,282,40.676749,-73.964216,2022-09-20,2023-09-10,3.71,4,-1,"3 baths",4,False,strict,NULL,NULL,tablet,card,0
+115013,9985,Sophia,Bronx,"New York City","Private Room",Apartment,92,23,52,NULL,153,40.757925,-73.948584,2021-07-06,2024-12-05,4.58,6,5,"2 baths",2,f,moderate,95%,active,tablet,cash,0
+104346,8607,unknown,Queens,"New York City","Entire Home/Apt",Condo,83.08,30,46,NULL,110,40.661258,-73.887197,2024-09-14,2024-05-24,4.76,NULL,NULL,"1.5 bath",12,True,flexible,90%,booked,Mobile,PayPal,0
+103965,11746,David,Manhattan,"New York City","Private Room",Condo,126.43,1000,38,3.15,220,40.700054,-73.974936,2016-04-04,2024-06-27,5,0,NULL,"1 bath",8,NULL,strict,"85 %",Active,Mobile,cash,0
+113810,11072,"John Smith",Bronx,"New York City","Entire Home/Apt",Townhouse,149.18,11,33,0.95,228,40.736772,-73.928519,2018-11-11,2019-03-18,4.8,6,4,"1 bath",5,t,moderate,95%,AVAILABLE,NULL,paypal,0
+104266,11069,Olivia,Bronx,"New York City","Entire Home/Apt",Townhouse,205.47,3,42,7.91,164,40.778854,-73.933997,2016-07-02,2024-04-26,3.89,0,3,"1.5 bath",5,F,strict,95%,active,Desktop,cash,0
+113573,7689,David,Bronx,"New York City","Entire Home/Apt",apartment,101.42,30,40,NULL,95,40.813406,-73.927827,2015-04-12,2015-10-11,4.36,1,1,"2.5 baths",6,NULL,MODERATE,80,NULL,NULL,Card,0
+115881,11694,unknown,Bronx,"New York City","Private Room",House,164,22,41,1.26,4,40.688239,-73.969908,2016-06-07,2018-01-09,4.45,-1,4,"3 baths",10,True,strict_14_with_grace_period,"85 %",booked,Desktop,card,0
+109893,11404,Michael,Manhattan,"New York City","Private Room",Townhouse,221.51,15,34,0.83,45,40.731912,-73.914874,2019-01-08,2020-12-24,4.49,5,5,"3 baths",NULL,t,MODERATE,90%,booked,Mobile,Card,0
+101289,6203,unknown,Brooklyn,"New York City","Entire Home/Apt",NULL,99.61,8,54,NULL,257,40.610238,-74.002514,2023-10-31,NULL,4.11,5,1,2,4,T,strict_14_with_grace_period,90%,booked,Mobile,NULL,0
+111013,10512,unknown,Queens,"New York City","Private Room",Apartment,79.75,27,62,1.15,112,40.766301,-73.933228,2017-06-22,NULL,4.17,1,2,"2 baths",5,T,Flexible,100%,Active,mobile,cash,0
+110032,9424,Sophia,Brooklyn,"New York City","Shared Room","House ",114.04,1,47,1.14,11,40.745544,-74.01202,2021-12-28,2016-05-01,4.45,3,0,"1 bath",4,t,Flexible,80,active,mobile,card,0
+104942,8907,unknown,Queens,"New York City","Private Room","House ",235.46,3650,41,4.21,291,40.808049,-73.926836,2016-12-11,2024-06-02,5,5,4,"2 baths",3,f,MODERATE,95%,Active,desktop,card,0
+116717,5355,Michael,Bronx,"New York City","Private Room",apartment,179.18,2,43,4.31,80,40.709758,-74.033507,2019-04-20,2025-01-20,4.05,2,2,"2 baths",4,t,strict,95%,available,Desktop,Card,0
+102413,6317,unknown,Bronx,"New York City","Private Room",NULL,148.14,23,43,2.2,35,40.636365,-73.903849,2020-01-04,2015-12-11,4.67,2,4,"1.5 bath",12,F,flexible,95%,AVAILABLE,Mobile,Card,0
+118424,6862,unknown,Manhattan,"New York City","Entire Home/Apt","House ",64.04,1,51,0.73,74,40.773788,-73.914963,2018-02-02,NULL,4.14,10,NULL,"1 bath",10,f,flexible,"85 %",booked,Mobile,card,0
+109253,11379,Sophia,Manhattan,"New York City","Entire Home/Apt",apartment,149.47,180,58,3.26,116,40.776775,-74.020574,2016-06-24,2023-04-12,5,-1,3,1,4,F,MODERATE,NULL,booked,tablet,cash,0
+108633,8381,Olivia,Bronx,"New York City","Private Room",House,107.17,7,42,1.92,93,40.62783,-73.95285,2024-04-21,2024-06-07,4.17,6,NULL,"3 baths",10,T,flexible,80,active,Desktop,Card,0
+117919,10466,unknown,Bronx,"New York City","Private Room",House,42.68,16,38,4.16,66,40.780381,-73.988189,2019-12-04,2024-06-21,4.01,3,NULL,"1 bath",5,F,MODERATE,"85 %",Active,Mobile,cash,0
+115509,9583,"John Smith",Queens,"New York City","Private Room",Apartment,203.57,7,55,1.57,363,40.702186,-73.95127,2015-09-03,2016-02-13,4.75,2,4,1,6,t,strict_14_with_grace_period,100%,NULL,desktop,paypal,0
+115246,5078,Michael,Brooklyn,"New York City","Entire Home/Apt",Loft,222.38,22,41,4.1,355,40.768762,-73.981094,2020-01-07,2018-08-06,3.75,8,NULL,"2 baths",3,f,MODERATE,"85 %",AVAILABLE,Mobile,Card,0
+104032,9094,Olivia,Queens,"New York City","Hotel Room",House,92.8,4,44,1.24,43,40.789175,-73.942408,2017-09-23,2019-05-17,3.99,-1,4,1.5,6,t,moderate,90%,NULL,mobile,card,0
+112622,5072,unknown,"Staten Island","New York City","Private Room",Townhouse,45.21,180,50,5.17,316,40.689977,-73.897214,2020-05-04,2019-12-22,NULL,6,5,1.5,3,False,strict_14_with_grace_period,100%,NULL,Mobile,card,0
+115534,9951,Sophia,Queens,"New York City","Entire Home/Apt","House ",288.6,29,39,0.2,1,40.6199,-74.091409,2015-11-12,2016-01-28,4.24,10,-1,"2 baths",10,True,strict,80,NULL,NULL,card,0
+100879,5224,Emma,Brooklyn,"New York City","Private Room",Apartment,334.56,9,40,4.21,78,40.737355,-74.000976,2018-01-31,2021-10-09,4.79,NULL,1,2,1,t,flexible,"85 %",NULL,mobile,PayPal,0
+110773,11920,Emma,Bronx,"New York City","Shared Room",Loft,586.47,12,46,1.46,268,40.68579,-73.922631,2015-09-29,NULL,4.1,10,5,1,10,T,Flexible,100%,NULL,tablet,card,0
+119939,9924,unknown,"Staten Island","New York City","Shared Room","House ",735.99,10,46,1.77,22,40.769273,-73.905878,2016-07-25,2021-09-14,4.44,1,3,"1.5 bath",3,T,flexible,100%,active,Desktop,paypal,0
+112070,9785,unknown,"Staten Island","New York City","Private Room",apartment,582.53,4,38,0.2,244,40.739601,-74.036151,2023-06-15,2016-12-04,4.23,1,2,"1.5 bath",5,T,strict_14_with_grace_period,80,active,desktop,cash,0
+104922,8577,Emma,Brooklyn,"New York City","Hotel Room",Loft,160.44,8,46,1.98,258,40.731265,-73.912306,2024-01-21,2021-05-24,4.36,6,0,1.5,2,F,strict_14_with_grace_period,80,Active,Mobile,cash,0
+111286,7189,David,"Staten Island","New York City","Entire Home/Apt",Loft,288.32,9,38,7.45,362,40.708855,-74.030588,2022-10-25,2016-02-26,4.23,7,0,"2 baths",NULL,NULL,moderate,80,active,mobile,card,0
+115645,9677,Emma,Manhattan,"New York City","Entire Home/Apt",NULL,225.12,26,44,0.64,5,40.771371,-73.831983,2019-06-09,2024-04-18,4.44,6,2,"3 baths",10,False,strict_14_with_grace_period,90%,NULL,desktop,paypal,0
+117969,10527,Sophia,Bronx,"New York City","Private Room",House,577.5,1000,40,1,201,40.705223,-74.023128,2018-12-23,2020-06-27,NULL,1,2,NULL,NULL,False,Flexible,90%,available,mobile,cash,0
+102622,8417,"John Smith",Brooklyn,"New York City","Entire Home/Apt",apartment,67.83,180,47,0.98,213,40.696494,-73.896549,2017-03-15,2018-08-12,5,3,5,"2 baths",12,False,strict,95%,active,Desktop,NULL,0
+112410,9303,Emma,"Staten Island","New York City","Entire Home/Apt",NULL,147.25,3,44,NULL,115,40.686968,-74.033127,2018-12-01,2017-08-02,3.92,1,NULL,1.5,12,F,moderate,95%,booked,tablet,NULL,0
+109863,10132,Emma,Brooklyn,"New York City","Private Room",Loft,177.45,13,44,1.1,177,40.648946,-73.931161,2020-08-30,2018-10-13,4.27,1,4,"2 baths",1,f,strict_14_with_grace_period,"85 %",booked,mobile,paypal,0
+118664,9040,"John Smith",Bronx,"New York City","Private Room",Townhouse,61.41,60,42,3.43,306,40.619321,-73.979999,2021-03-15,2024-10-05,3.92,4,0,1,10,True,flexible,95%,AVAILABLE,NULL,cash,0
+118970,5241,unknown,Brooklyn,"New York City","Entire Home/Apt",Loft,99.06,21,54,0.33,223,40.804239,-74.080645,2021-11-01,2020-07-25,4.94,3,3,"1.5 bath",2,NULL,moderate,"85 %",active,Mobile,Card,0
+104984,6989,"John Smith",Brooklyn,"New York City","Private Room",House,73.44,15,44,1.72,58,40.649373,-73.953953,2015-04-08,2023-10-07,NULL,8,3,"1 bath",NULL,F,MODERATE,100%,NULL,tablet,paypal,0
+114601,11128,Sophia,Queens,"New York City","Private Room",Townhouse,94.8,1000,51,3.56,165,40.710419,-73.949982,2021-05-12,2017-06-06,4.19,2,3,"2 baths",NULL,NULL,MODERATE,90%,NULL,tablet,Card,0
+115617,8515,Michael,"Staten Island","New York City","Hotel Room",Condo,436.96,7,58,NULL,112,40.760691,-73.981056,2015-09-24,2018-08-11,4.38,-1,2,"1.5 bath",4,False,Flexible,90%,NULL,Desktop,cash,0
+102091,8599,unknown,Brooklyn,"New York City","Private Room",House,104.08,13,41,2.32,280,40.580193,-73.993951,2020-12-07,2021-05-07,4.36,8,6,"2.5 baths",12,T,strict,95%,Active,mobile,paypal,0
+104069,10161,Michael,"Staten Island","New York City","Hotel Room",Loft,192.96,25,45,0.74,148,40.786444,-74.050304,2016-07-28,2022-03-13,4.66,-1,0,2,5,F,moderate,"85 %",active,mobile,Card,0
+116612,10009,"John Smith",Queens,"New York City","Private Room",Apartment,142.87,16,44,0.78,267,40.661684,-73.980116,2017-03-19,2021-02-27,4.97,10,-1,2,2,True,MODERATE,"85 %",NULL,Mobile,paypal,0
+109406,9355,Sophia,"Staten Island","New York City","Entire Home/Apt","Guest suite",70,12,46,0.82,234,40.616971,-73.8753,2024-07-03,2023-07-02,4.48,-1,2,NULL,2,NULL,strict,100%,available,Mobile,paypal,0
+118116,7428,Olivia,Queens,"New York City","Entire Home/Apt",Loft,140.38,365,47,NULL,126,40.766111,-73.88324,2024-05-12,NULL,3.36,10,6,"1 bath",3,F,strict_14_with_grace_period,100%,booked,desktop,NULL,0
+116856,6095,Emma,Queens,"New York City","Private Room",Apartment,232.42,4,42,1.54,162,40.637563,-73.930285,2019-11-23,2023-10-06,4.82,8,6,"2 baths",3,True,MODERATE,100%,NULL,mobile,Card,0
+117497,5946,unknown,Manhattan,"New York City","Entire Home/Apt",House,230.17,27,40,1.14,99,40.741987,-73.882963,2019-06-30,2018-04-28,5,6,NULL,"2 baths",4,T,Flexible,95%,Active,tablet,paypal,0
+115626,7967,Olivia,Brooklyn,"New York City","Hotel Room","Guest suite",109.97,1,45,2.01,199,40.759202,-74.041966,2020-11-05,2025-08-10,4.51,7,3,"2.5 baths",10,t,flexible,90%,booked,Mobile,paypal,0
+109439,8991,David,Manhattan,"New York City","Private Room","Guest suite",89.61,16,49,NULL,222,40.676271,-74.007488,2015-04-07,2016-11-04,4.18,NULL,1,1,12,F,strict,95%,Active,Mobile,Card,0
+100201,7039,unknown,"Staten Island","New York City","Shared Room",apartment,1044.45,23,43,1.42,44,40.714052,-74.054995,2015-02-27,2020-04-23,4.98,2,3,"3 baths",3,NULL,strict,NULL,AVAILABLE,mobile,card,1
+118689,7583,Michael,Queens,"New York City","Shared Room",apartment,219.28,7,52,0.58,74,40.689494,-73.947023,2019-11-06,2017-04-30,4.21,6,1,2,12,F,moderate,NULL,Active,Mobile,Card,0
+113471,11790,Sophia,Manhattan,"New York City","Shared Room",Townhouse,222.65,13,31,1.22,181,40.620952,-73.987165,2018-08-28,NULL,4.44,5,NULL,"2 baths",10,t,Flexible,NULL,Active,Mobile,PayPal,0
+102625,6287,Sophia,Bronx,"New York City","Entire Home/Apt",Condo,125.33,7,39,5.27,226,40.795658,-74.013241,2017-11-13,2018-06-27,4.34,10,6,1,6,t,flexible,"85 %",Active,Desktop,paypal,0
+112706,8140,Michael,Brooklyn,"New York City","Entire Home/Apt",House,203.27,1000,29,3.57,202,40.755056,-73.923731,2024-01-13,2016-02-25,4.06,-1,5,"3 baths",6,t,moderate,95%,AVAILABLE,Mobile,NULL,0
+105392,10669,Sophia,Manhattan,"New York City","Private Room",Apartment,151.55,29,39,1.08,19,40.761122,-73.951034,2024-04-25,2017-07-06,3.7,7,NULL,"1 bath",1,True,moderate,NULL,NULL,desktop,NULL,0
+117752,5526,David,Queens,"New York City","Private Room",Apartment,148.93,1000,50,2.09,253,40.801368,-74.046896,2023-02-03,2022-03-21,4.7,1,2,"1 bath",1,True,flexible,90%,AVAILABLE,Desktop,PayPal,0
+106386,10699,"John Smith","Staten Island","New York City","Private Room",NULL,241,1,36,1.1,358,40.71423,-73.935616,2020-11-25,2022-11-17,4.34,2,1,1.5,3,T,MODERATE,"85 %",booked,mobile,Card,0
+108009,10069,Michael,Manhattan,"New York City","Private Room",Loft,67.51,7,52,1.39,165,40.678373,-73.986984,2016-02-12,2019-05-30,3.71,3,NULL,NULL,1,f,MODERATE,95%,booked,Desktop,Card,0
+107678,8160,unknown,Brooklyn,"New York City","Hotel Room",NULL,334.96,24,48,2.3,15,40.776102,-73.900275,2019-04-02,2019-08-14,4.39,1,-1,2,1,F,strict,90%,booked,mobile,Card,0
+119318,10837,Michael,Bronx,"New York City","Private Room",Townhouse,92.65,21,52,2.83,226,40.769658,-73.990471,2022-05-11,2018-12-10,3.68,6,4,"3 baths",6,NULL,strict,100%,active,Desktop,PayPal,0
+107723,6379,Emma,"Staten Island","New York City","Hotel Room",House,63.96,1000,52,2.36,337,40.784042,-74.03247,2015-01-05,2018-03-05,4.32,5,NULL,"2 baths",6,F,moderate,90%,AVAILABLE,NULL,card,0
+118125,8974,David,Manhattan,"New York City","Entire Home/Apt",Condo,81.65,20,47,4.57,51,40.696789,-74.02817,2018-06-03,2015-01-27,4.43,1,NULL,"2.5 baths",5,False,strict,95%,available,mobile,NULL,0
+118887,9201,Sophia,Queens,"New York City","Entire Home/Apt",apartment,130.17,18,45,1.91,331,40.652962,-74.05154,2018-06-03,2016-02-15,4.68,0,4,"2.5 baths",4,t,moderate,95%,NULL,tablet,NULL,0
+115431,8555,Emma,Queens,"New York City","Private Room",Townhouse,671.07,11,44,2.79,138,40.706825,-73.956994,2019-04-22,2024-07-09,3.84,0,2,NULL,12,T,flexible,"85 %",available,NULL,NULL,0
+114529,5024,David,Brooklyn,"New York City","Private Room",Apartment,223.35,8,38,0.81,56,40.690531,-73.956715,2018-12-26,2020-09-17,4.67,6,NULL,"1 bath",2,f,Flexible,"85 %",available,NULL,NULL,0
+112531,9834,David,Manhattan,"New York City","Private Room",Loft,92.68,20,45,2.08,323,40.757167,-73.976152,2025-08-23,NULL,4.13,0,-1,"1 bath",NULL,T,MODERATE,NULL,AVAILABLE,Mobile,NULL,0
+113487,10009,David,Manhattan,"New York City","Private Room",NULL,127.3,24,43,0.68,152,40.665441,-73.931828,2023-10-17,NULL,4.13,3,3,2,10,F,flexible,"85 %",available,Desktop,cash,0
+117548,11859,"John Smith","Staten Island","New York City","Hotel Room","House ",249.88,60,38,0.41,1,40.733631,-73.997713,2023-06-04,2018-05-06,3.89,8,3,"2.5 baths",12,t,MODERATE,80,active,desktop,NULL,0
+114172,10835,Michael,Queens,"New York City","Private Room",NULL,50.86,8,42,0.74,270,40.669239,-73.937129,2016-11-02,2024-02-03,4.53,NULL,-1,"1 bath",NULL,T,moderate,100%,active,desktop,Card,0
+106070,8200,Emma,Manhattan,"New York City","Shared Room","House ",142.81,17,39,3.09,311,40.735474,-73.902298,2017-08-28,2025-03-10,3.97,10,6,1,6,True,moderate,"85 %",Active,Desktop,Card,0
+119312,11357,Sophia,Manhattan,"New York City","Private Room",apartment,88.96,18,39,4.14,307,40.719393,-73.852852,2021-07-17,2022-02-21,4.27,8,NULL,"1.5 bath",12,F,strict_14_with_grace_period,80,Active,desktop,cash,0
+111792,6156,Sophia,Manhattan,"New York City","Entire Home/Apt",NULL,232.63,8,35,2.97,360,40.761387,-74.052135,2018-10-06,2019-10-29,NULL,0,-1,"2.5 baths",3,T,Flexible,95%,AVAILABLE,Desktop,cash,0
+112080,9617,unknown,Bronx,"New York City","Private Room",Condo,219.54,19,50,NULL,349,40.716352,-74.049687,2022-03-07,2019-02-06,4.13,0,2,"2 baths",1,NULL,strict_14_with_grace_period,NULL,available,NULL,PayPal,0
+113463,8691,David,"Staten Island","New York City","Private Room",NULL,49.89,18,44,1.69,139,40.759289,-73.932295,2015-09-05,2024-07-04,4.22,1,0,1.5,NULL,t,strict_14_with_grace_period,90%,booked,tablet,Card,0
+118127,5726,unknown,Manhattan,"New York City","Private Room",NULL,78.83,6,42,1.94,341,40.719505,-74.001134,2023-11-13,2025-03-01,4.38,5,6,"1.5 bath",10,True,MODERATE,80,available,tablet,PayPal,0
+114879,8030,Michael,Brooklyn,"New York City","Private Room",House,219.01,25,50,4.92,36,40.77281,-73.887574,2019-12-16,2021-02-22,4.47,10,3,1,8,False,Flexible,90%,active,Desktop,card,0
+103049,10536,unknown,Manhattan,"New York City","Hotel Room","House ",107.27,10,45,1.45,61,40.676283,-73.934314,2016-07-12,NULL,4.51,NULL,0,2,5,NULL,strict_14_with_grace_period,"85 %",booked,Mobile,card,0
+107018,8810,"John Smith",Bronx,"New York City","Private Room",Townhouse,82.17,16,48,1.23,253,40.723952,-74.028374,2016-10-31,2015-01-22,3.74,4,5,"2.5 baths",1,T,flexible,95%,booked,tablet,paypal,0
+118723,7059,Michael,Brooklyn,"New York City","Private Room","House ",188.05,5,49,2.76,88,40.669295,-73.948164,2021-11-08,NULL,4.61,6,6,NULL,12,t,moderate,"85 %",available,tablet,Card,0
+103935,6813,David,"Staten Island","New York City","Private Room",Apartment,147.27,180,57,NULL,73,40.668245,-73.936111,2018-02-05,2022-01-18,4.42,6,6,"3 baths",3,True,Flexible,90%,available,NULL,Card,0
+105717,8517,unknown,Brooklyn,"New York City","Private Room",House,167.74,9,53,1.59,72,40.839959,-73.964879,2016-08-12,2021-01-13,4.68,6,5,"2 baths",8,T,flexible,100%,Active,NULL,Card,0
+112377,11217,unknown,Manhattan,"New York City","Entire Home/Apt",Townhouse,74.3,180,43,2.21,277,40.716738,-73.966562,2019-03-29,2017-05-08,NULL,10,-1,1,NULL,F,flexible,95%,Active,mobile,PayPal,0
+103533,7792,unknown,Queens,"New York City","Shared Room",apartment,82.19,12,42,2.3,235,40.669062,-73.849539,2015-09-11,2021-02-11,4.46,1,2,"1 bath",NULL,f,moderate,100%,booked,Desktop,card,0
+110781,10430,Olivia,Bronx,"New York City","Entire Home/Apt",apartment,106,13,48,6.23,176,40.776537,-73.84775,2023-10-07,2018-09-29,3.87,0,2,"1 bath",NULL,t,MODERATE,95%,AVAILABLE,tablet,paypal,0
+115807,8248,"John Smith",Brooklyn,"New York City","Hotel Room","House ",54.59,5,51,1.49,295,40.78686,-73.887651,2018-07-22,2023-01-30,4.4,7,4,2,12,F,strict_14_with_grace_period,"85 %",Active,tablet,NULL,0
+105504,9734,Sophia,Manhattan,"New York City","Entire Home/Apt",NULL,128.95,30,45,2.28,112,40.629011,-74.067949,2017-10-20,2017-06-12,4.9,3,4,"3 baths",6,t,flexible,100%,booked,Mobile,NULL,0
+117709,10499,David,Queens,"New York City","Private Room",apartment,169.46,5,44,0.68,62,40.715753,-74.036594,2024-01-18,2017-09-16,3.32,3,6,"2.5 baths",4,True,flexible,95%,booked,Desktop,paypal,0
+106627,5808,"John Smith",Bronx,"New York City","Private Room","House ",140.24,18,43,1.81,361,40.640571,-74.088343,2017-10-03,2024-05-23,4,3,0,1,12,t,flexible,"85 %",Active,Desktop,card,0
+119447,5562,"John Smith",Brooklyn,"New York City","Private Room","House ",156.19,30,59,NULL,331,40.723876,-74.010555,2025-07-04,2017-08-13,4.68,5,1,"3 baths",2,F,strict_14_with_grace_period,"85 %",Active,tablet,NULL,0
+119254,7976,"John Smith","Staten Island","New York City","Private Room",Apartment,97.37,27,65,1.26,171,40.758563,-74.011433,2016-08-06,2016-07-02,4.4,NULL,NULL,"2 baths",NULL,f,flexible,"85 %",available,desktop,PayPal,0
+110719,10838,Michael,Queens,"New York City","Entire Home/Apt",apartment,146.76,90,43,2.52,272,40.654981,-73.878043,2017-06-19,2020-10-17,4.17,1,NULL,2,8,True,flexible,100%,Active,Desktop,cash,0
+113777,9158,Olivia,"Staten Island","New York City","Entire Home/Apt","Guest suite",137.8,18,67,2.17,107,40.680889,-74.039328,2022-07-13,2016-08-11,NULL,-1,3,2,12,False,MODERATE,100%,NULL,NULL,Card,0
+116046,7011,Olivia,Bronx,"New York City","Private Room","House ",121.92,28,39,NULL,355,40.764453,-74.078037,2025-01-25,2020-09-02,4.84,5,NULL,"2.5 baths",8,True,flexible,100%,NULL,Mobile,cash,0
+109114,11199,David,"Staten Island","New York City","Shared Room",Loft,476.72,26,38,3.18,121,40.72263,-73.845999,2022-11-28,2023-09-21,NULL,4,NULL,"2 baths",12,t,MODERATE,95%,Active,Mobile,Card,0
+106910,11793,Olivia,Queens,"New York City","Private Room","House ",249.06,8,38,0.95,331,40.737026,-73.910927,2017-02-09,NULL,5,0,-1,NULL,8,NULL,MODERATE,NULL,NULL,mobile,paypal,0
+104843,9423,Olivia,Queens,"New York City","Private Room",Condo,227.67,5,44,1.43,343,40.667366,-73.988105,2015-12-27,NULL,3.47,7,NULL,"1 bath",2,NULL,MODERATE,"85 %",booked,tablet,NULL,0
+103504,8216,Michael,Bronx,"New York City","Entire Home/Apt",Townhouse,239,20,39,0.94,299,40.735673,-73.865356,2016-10-13,2024-04-21,4.2,1,4,"3 baths",8,T,moderate,100%,active,NULL,card,0
+107050,11136,Michael,"Staten Island","New York City","Entire Home/Apt",Townhouse,9.34,7,44,1.26,91,40.719969,-73.81899,2019-09-28,2015-02-25,4.46,7,5,2,1,f,strict,"85 %",active,NULL,PayPal,0
